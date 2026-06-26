@@ -1,0 +1,428 @@
+[
+  {
+    "id": "cou_001",
+    "word_ar": "اللون",
+    "word_arabizi": "lloun",
+    "word_fr": "La couleur",
+    "transliteration": "l-loun",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/lloun.mp3",
+    "examples": [
+      {
+        "sentence_ar": "أش من لون بغيتي؟",
+        "sentence_arabizi": "ach mn loun bghiti?",
+        "sentence_fr": "Quelle couleur veux-tu ?",
+        "audio_file": null
+      }
+    ],
+    "notes": "Pluriel : « lwan »."
+  },
+  {
+    "id": "cou_002",
+    "word_ar": "بيض",
+    "word_arabizi": "byed",
+    "word_fr": "Blanc",
+    "transliteration": "byed",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/byed.mp3",
+    "examples": [
+      {
+        "sentence_ar": "لابس قميجة بيضا",
+        "sentence_arabizi": "labes qmija byda",
+        "sentence_fr": "Il porte une chemise blanche",
+        "audio_file": null
+      }
+    ],
+    "notes": "Féminin : « byda »."
+  },
+  {
+    "id": "cou_003",
+    "word_ar": "كحل",
+    "word_arabizi": "k7el",
+    "word_fr": "Noir",
+    "transliteration": "k7el",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/k7el.mp3",
+    "examples": [],
+    "notes": "Féminin : « k7la »."
+  },
+  {
+    "id": "cou_004",
+    "word_ar": "حمر",
+    "word_arabizi": "7mer",
+    "word_fr": "Rouge",
+    "transliteration": "7mer",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/7mer.mp3",
+    "examples": [
+      {
+        "sentence_ar": "التفاحة حمرا",
+        "sentence_arabizi": "ttffa7a 7amra",
+        "sentence_fr": "La pomme est rouge",
+        "audio_file": null
+      }
+    ],
+    "notes": "Féminin : « 7amra »."
+  },
+  {
+    "id": "cou_005",
+    "word_ar": "خضر",
+    "word_arabizi": "khder",
+    "word_fr": "Vert",
+    "transliteration": "khder",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/khder.mp3",
+    "examples": [],
+    "notes": "Féminin : « khedra » (à ne pas confondre avec « lkhodra », les légumes)."
+  },
+  {
+    "id": "cou_006",
+    "word_ar": "زرق",
+    "word_arabizi": "zreq",
+    "word_fr": "Bleu",
+    "transliteration": "zreq",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/zreq.mp3",
+    "examples": [
+      {
+        "sentence_ar": "البحر زرق",
+        "sentence_arabizi": "lb7ar zreq",
+        "sentence_fr": "La mer est bleue",
+        "audio_file": null
+      }
+    ],
+    "notes": "Féminin : « zerqa »."
+  },
+  {
+    "id": "cou_007",
+    "word_ar": "صفر",
+    "word_arabizi": "sfer",
+    "word_fr": "Jaune",
+    "transliteration": "sfer",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/sfer.mp3",
+    "examples": [],
+    "notes": "Féminin : « safra ». À ne pas confondre avec « sifr » (zéro)."
+  },
+  {
+    "id": "cou_008",
+    "word_ar": "قهوي",
+    "word_arabizi": "qehwi",
+    "word_fr": "Marron",
+    "transliteration": "qehwî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/qehwi.mp3",
+    "examples": [],
+    "notes": "Littéralement « couleur café ». On dit aussi « bni »."
+  },
+  {
+    "id": "cou_009",
+    "word_ar": "رمادي",
+    "word_arabizi": "rmadi",
+    "word_fr": "Gris",
+    "transliteration": "rmâdî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/rmadi.mp3",
+    "examples": [],
+    "notes": "Littéralement « couleur cendre » (rmad = cendre)."
+  },
+  {
+    "id": "cou_010",
+    "word_ar": "وردي",
+    "word_arabizi": "wardi",
+    "word_fr": "Rose",
+    "transliteration": "wardî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/wardi.mp3",
+    "examples": [],
+    "notes": "De « warda » (la rose, la fleur)."
+  },
+  {
+    "id": "cou_011",
+    "word_ar": "ليموني",
+    "word_arabizi": "limouni",
+    "word_fr": "Orange",
+    "transliteration": "lîmûnî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/limouni.mp3",
+    "examples": [],
+    "notes": "De « limoun » (orange, agrume)."
+  },
+  {
+    "id": "cou_012",
+    "word_ar": "موف",
+    "word_arabizi": "mov",
+    "word_fr": "Violet / Mauve",
+    "transliteration": "môv",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/mov.mp3",
+    "examples": [],
+    "notes": "Emprunt au français « mauve », très utilisé."
+  },
+  {
+    "id": "cou_013",
+    "word_ar": "ذهبي",
+    "word_arabizi": "dahabi",
+    "word_fr": "Doré",
+    "transliteration": "dahabî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/dahabi.mp3",
+    "examples": [],
+    "notes": "De « dheb » (l'or)."
+  },
+  {
+    "id": "cou_014",
+    "word_ar": "فضي",
+    "word_arabizi": "feddi",
+    "word_fr": "Argenté",
+    "transliteration": "feddî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/feddi.mp3",
+    "examples": [],
+    "notes": "De « fedda » (l'argent, le métal)."
+  },
+  {
+    "id": "cou_015",
+    "word_ar": "فاتح",
+    "word_arabizi": "fate7",
+    "word_fr": "Clair (couleur claire)",
+    "transliteration": "fâte7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/fate7.mp3",
+    "examples": [
+      {
+        "sentence_ar": "زرق فاتح",
+        "sentence_arabizi": "zreq fate7",
+        "sentence_fr": "Bleu clair",
+        "audio_file": null
+      }
+    ],
+    "notes": "Se place après la couleur."
+  },
+  {
+    "id": "cou_016",
+    "word_ar": "غامق",
+    "word_arabizi": "ghameq",
+    "word_fr": "Foncé (couleur foncée)",
+    "transliteration": "ghâmeq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/ghameq.mp3",
+    "examples": [
+      {
+        "sentence_ar": "خضر غامق",
+        "sentence_arabizi": "khder ghameq",
+        "sentence_fr": "Vert foncé",
+        "audio_file": null
+      }
+    ],
+    "notes": "Se place après la couleur."
+  },
+  {
+    "id": "cou_017",
+    "word_ar": "صافي",
+    "word_arabizi": "safi",
+    "word_fr": "Pur / Vif (teinte)",
+    "transliteration": "sâfî",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/safi.mp3",
+    "examples": [],
+    "notes": "Sert aussi de « ça suffit / d'accord » dans d'autres contextes."
+  },
+  {
+    "id": "cou_018",
+    "word_ar": "بحري",
+    "word_arabizi": "ba7ri",
+    "word_fr": "Bleu marine",
+    "transliteration": "ba7rî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/ba7ri.mp3",
+    "examples": [],
+    "notes": "De « b7ar » (la mer)."
+  },
+  {
+    "id": "cou_019",
+    "word_ar": "زيتوني",
+    "word_arabizi": "zitouni",
+    "word_fr": "Vert olive",
+    "transliteration": "zîtûnî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/zitouni.mp3",
+    "examples": [],
+    "notes": "De « zitoun » (les olives)."
+  },
+  {
+    "id": "cou_020",
+    "word_ar": "شفاف",
+    "word_arabizi": "chffaf",
+    "word_fr": "Transparent",
+    "transliteration": "chffâf",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/chffaf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_021",
+    "word_ar": "بنفسجي",
+    "word_arabizi": "banafsaji",
+    "word_fr": "Violet",
+    "transliteration": "banafsajî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/banafsaji.mp3",
+    "examples": [],
+    "notes": "Familier : « mov »."
+  },
+  {
+    "id": "cou_022",
+    "word_ar": "نيلي",
+    "word_arabizi": "nili",
+    "word_fr": "Bleu nuit / Indigo",
+    "transliteration": "nîlî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/nili.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_023",
+    "word_ar": "بيج",
+    "word_arabizi": "bej",
+    "word_fr": "Beige",
+    "transliteration": "bêj",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/couleurs/bej.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_024",
+    "word_ar": "كريمي",
+    "word_arabizi": "krimi",
+    "word_fr": "Crème",
+    "transliteration": "krîmî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/krimi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_025",
+    "word_ar": "فيروزي",
+    "word_arabizi": "firouzi",
+    "word_fr": "Turquoise",
+    "transliteration": "fîrûzî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/firouzi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_026",
+    "word_ar": "نحاسي",
+    "word_arabizi": "n7asi",
+    "word_fr": "Cuivré",
+    "transliteration": "n7âsî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/n7asi.mp3",
+    "examples": [],
+    "notes": "De « n7as » (cuivre)."
+  },
+  {
+    "id": "cou_027",
+    "word_ar": "عسلي",
+    "word_arabizi": "3sali",
+    "word_fr": "Noisette / Couleur miel",
+    "transliteration": "3salî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/3sali.mp3",
+    "examples": [],
+    "notes": "Souvent pour la couleur des yeux."
+  },
+  {
+    "id": "cou_028",
+    "word_ar": "مخطط",
+    "word_arabizi": "mkhattat",
+    "word_fr": "Rayé / À rayures",
+    "transliteration": "mkhattat",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/mkhattat.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_029",
+    "word_ar": "منقط",
+    "word_arabizi": "mnaqqet",
+    "word_fr": "À pois / Tacheté",
+    "transliteration": "mnaqqet",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/couleurs/mnaqqet.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_030",
+    "word_ar": "لامع",
+    "word_arabizi": "lame3",
+    "word_fr": "Brillant / Lumineux",
+    "transliteration": "lâme3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/lame3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_031",
+    "word_ar": "مطفي",
+    "word_arabizi": "metfi",
+    "word_fr": "Mat / Terne",
+    "transliteration": "metfî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/metfi.mp3",
+    "examples": [],
+    "notes": "Signifie aussi « éteint »."
+  },
+  {
+    "id": "cou_032",
+    "word_ar": "ملون",
+    "word_arabizi": "mlawwen",
+    "word_fr": "Coloré / Multicolore",
+    "transliteration": "mlawwen",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/mlawwen.mp3",
+    "examples": [],
+    "notes": ""
+  }
+]

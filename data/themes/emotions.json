@@ -1,0 +1,624 @@
+[
+  {
+    "id": "emo_001",
+    "word_ar": "الفرحة",
+    "word_arabizi": "lfar7a",
+    "word_fr": "La joie / La fête",
+    "transliteration": "l-far7a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/lfar7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_002",
+    "word_ar": "الحزن",
+    "word_arabizi": "l7ozn",
+    "word_fr": "La tristesse",
+    "transliteration": "l-7ozn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7ozn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_003",
+    "word_ar": "الغضب",
+    "word_arabizi": "lghodb",
+    "word_fr": "La colère",
+    "transliteration": "l-ghodb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lghodb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_004",
+    "word_ar": "الخوف",
+    "word_arabizi": "lkhof",
+    "word_fr": "La peur",
+    "transliteration": "l-khof",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lkhof.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_005",
+    "word_ar": "الهم",
+    "word_arabizi": "lhamm",
+    "word_fr": "Le souci / L'inquiétude",
+    "transliteration": "l-hamm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lhamm.mp3",
+    "examples": [
+      {
+        "sentence_ar": "ما تهمش",
+        "sentence_arabizi": "ma themmch",
+        "sentence_fr": "Ne t'en fais pas / Ne t'inquiète pas",
+        "audio_file": null
+      }
+    ],
+    "notes": "« ma themmch » est une expression très utilisée pour rassurer."
+  },
+  {
+    "id": "emo_006",
+    "word_ar": "الزهر",
+    "word_arabizi": "zzaher",
+    "word_fr": "La chance / La veine",
+    "transliteration": "z-zâher",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/zzaher.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندك الزهر!",
+        "sentence_arabizi": "3ndak zaher!",
+        "sentence_fr": "Tu as de la chance !",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "emo_007",
+    "word_ar": "المشكل",
+    "word_arabizi": "lmochkil",
+    "word_fr": "Le problème",
+    "transliteration": "l-mochkîl",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/lmochkil.mp3",
+    "examples": [
+      {
+        "sentence_ar": "فيه مشكل؟",
+        "sentence_arabizi": "fih mochkil?",
+        "sentence_fr": "Il y a un problème ?",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "emo_008",
+    "word_ar": "الحل",
+    "word_arabizi": "l7el",
+    "word_fr": "La solution",
+    "transliteration": "l-7el",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7el.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_009",
+    "word_ar": "مقلوب",
+    "word_arabizi": "meqlub",
+    "word_fr": "Retourné / Bouleversé",
+    "transliteration": "meqlûb",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/meqlub.mp3",
+    "examples": [
+      {
+        "sentence_ar": "راسي مقلوب",
+        "sentence_arabizi": "rasi meqlub",
+        "sentence_fr": "J'ai la tête à l'envers (je suis stressé)",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "emo_010",
+    "word_ar": "مقطوع",
+    "word_arabizi": "mqtou3",
+    "word_fr": "Épuisé / À bout",
+    "transliteration": "mqtû3",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/mqtou3.mp3",
+    "examples": [],
+    "notes": "Littéralement « coupé »."
+  },
+  {
+    "id": "emo_011",
+    "word_ar": "شاكي",
+    "word_arabizi": "chaki",
+    "word_fr": "Qui doute / Méfiant",
+    "transliteration": "châkî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/chaki.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_012",
+    "word_ar": "واثق",
+    "word_arabizi": "wathiq",
+    "word_fr": "Confiant / Sûr de soi",
+    "transliteration": "wâthiq",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/wathiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_013",
+    "word_ar": "مرتاح",
+    "word_arabizi": "merta7",
+    "word_fr": "À l'aise / Détendu",
+    "transliteration": "mertâ7",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/merta7.mp3",
+    "examples": [
+      {
+        "sentence_ar": "أنا مرتاح هنا",
+        "sentence_arabizi": "ana merta7 hna",
+        "sentence_fr": "Je suis à l'aise ici",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "emo_014",
+    "word_ar": "محتار",
+    "word_arabizi": "m7tar",
+    "word_fr": "Perplexe / Indécis",
+    "transliteration": "m7târ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/m7tar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_015",
+    "word_ar": "زعفان",
+    "word_arabizi": "z3fan",
+    "word_fr": "En colère / Fâché",
+    "transliteration": "z3fân",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/z3fan.mp3",
+    "examples": [],
+    "notes": "Féminin : « z3fana ». Un des mots d'émotion les plus courants."
+  },
+  {
+    "id": "emo_016",
+    "word_ar": "خايب",
+    "word_arabizi": "khayeb",
+    "word_fr": "Déçu / Mauvais",
+    "transliteration": "khâyeb",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/khayeb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_017",
+    "word_ar": "واعر",
+    "word_arabizi": "wa3er",
+    "word_fr": "Dur / Difficile à vivre",
+    "transliteration": "wâ3er",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/wa3er.mp3",
+    "examples": [
+      {
+        "sentence_ar": "الحياة واعرة",
+        "sentence_arabizi": "l7yat wa3ra",
+        "sentence_fr": "La vie est dure",
+        "audio_file": null
+      }
+    ],
+    "notes": "Féminin : « wa3ra »."
+  },
+  {
+    "id": "emo_018",
+    "word_ar": "مشتاق",
+    "word_arabizi": "mechtak",
+    "word_fr": "Qui a la nostalgie / Qui manque de",
+    "transliteration": "mechtâq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/mechtak.mp3",
+    "examples": [
+      {
+        "sentence_ar": "مشتاق ليك",
+        "sentence_arabizi": "mechtak lik",
+        "sentence_fr": "Tu me manques",
+        "audio_file": null
+      }
+    ],
+    "notes": "Expression pour dire que quelqu'un nous manque."
+  },
+  {
+    "id": "emo_019",
+    "word_ar": "بغيت نتكلم",
+    "word_arabizi": "bghit nhedder",
+    "word_fr": "J'ai besoin de parler",
+    "transliteration": "bghît nhedder",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/bghit_nhedder.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_020",
+    "word_ar": "عندي بحال",
+    "word_arabizi": "3ndi b7al",
+    "word_fr": "J'ai l'impression que",
+    "transliteration": "3ndî b7âl",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/3ndi_b7al.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_021",
+    "word_ar": "كرهت",
+    "word_arabizi": "krht",
+    "word_fr": "Je déteste / J'en ai marre",
+    "transliteration": "krht",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/krht.mp3",
+    "examples": [
+      {
+        "sentence_ar": "كرهت هاد الشي",
+        "sentence_arabizi": "krht had chi",
+        "sentence_fr": "J'en ai marre de ça",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "emo_022",
+    "word_ar": "الصبر",
+    "word_arabizi": "ssobr",
+    "word_fr": "La patience",
+    "transliteration": "s-sobr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/ssobr.mp3",
+    "examples": [
+      {
+        "sentence_ar": "الصبر مفتاح الفرج",
+        "sentence_arabizi": "ssobr mfta7 lfaraj",
+        "sentence_fr": "La patience est la clé de la délivrance",
+        "audio_file": null
+      }
+    ],
+    "notes": "Proverbe très courant."
+  },
+  {
+    "id": "emo_023",
+    "word_ar": "الشوق",
+    "word_arabizi": "chhouq",
+    "word_fr": "L'envie / Le désir",
+    "transliteration": "chhûq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/chhouq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_024",
+    "word_ar": "عيان",
+    "word_arabizi": "3yan",
+    "word_fr": "Fatigué / À bout de forces",
+    "transliteration": "3yân",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/3yan.mp3",
+    "examples": [],
+    "notes": "Plus fort que simplement « fatigué » ; implique une vraie lassitude."
+  },
+  {
+    "id": "emo_025",
+    "word_ar": "محبوب",
+    "word_arabizi": "m7boub",
+    "word_fr": "Aimé / Populaire",
+    "transliteration": "m7bûb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/m7boub.mp3",
+    "examples": [],
+    "notes": "Féminin : « m7buba »."
+  },
+  {
+    "id": "emo_026",
+    "word_ar": "موسيقى",
+    "word_arabizi": "musika",
+    "word_fr": "La musique (moment de joie)",
+    "transliteration": "mûsîkâ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/musika.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_027",
+    "word_ar": "ضحك بزاف",
+    "word_arabizi": "d7ek bzzaf",
+    "word_fr": "Rire beaucoup / Se marrer",
+    "transliteration": "d7ek bzzâf",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/d7ek_bzzaf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_028",
+    "word_ar": "بكى قلبه",
+    "word_arabizi": "bka qlbo",
+    "word_fr": "Son cœur saigne (grande tristesse)",
+    "transliteration": "bkâ qelbo",
+    "register": "familier",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/bka_qlbo.mp3",
+    "examples": [],
+    "notes": "Expression imagée pour une grande tristesse."
+  },
+  {
+    "id": "emo_029",
+    "word_ar": "نفس",
+    "word_arabizi": "nefs",
+    "word_fr": "L'âme / L'envie / Le soi",
+    "transliteration": "nefs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/nefs.mp3",
+    "examples": [
+      {
+        "sentence_ar": "ما عندي نفس",
+        "sentence_arabizi": "ma 3ndi nefs",
+        "sentence_fr": "Je n'ai pas envie",
+        "audio_file": null
+      }
+    ],
+    "notes": "« ma 3ndi nefs » = je n'ai pas envie / je suis sans entrain."
+  },
+  {
+    "id": "emo_030",
+    "word_ar": "الروح",
+    "word_arabizi": "rrou7",
+    "word_fr": "L'esprit / L'âme",
+    "transliteration": "r-rû7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/rrou7.mp3",
+    "examples": [],
+    "notes": "Aussi utilisé pour qualifier quelqu'un de plein d'énergie."
+  },
+  {
+    "id": "emo_031",
+    "word_ar": "مبسوط",
+    "word_arabizi": "mebsout",
+    "word_fr": "Content / Satisfait",
+    "transliteration": "mebsût",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/mebsout.mp3",
+    "examples": [],
+    "notes": "Féminin « mebsouta »."
+  },
+  {
+    "id": "emo_032",
+    "word_ar": "مقلق",
+    "word_arabizi": "mqelleq",
+    "word_fr": "Inquiet / Stressé",
+    "transliteration": "mqelleq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/mqelleq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_033",
+    "word_ar": "متفاجئ",
+    "word_arabizi": "metfaja2",
+    "word_fr": "Surpris",
+    "transliteration": "metfâji'",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/metfaja2.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_034",
+    "word_ar": "مصدوم",
+    "word_arabizi": "masdoum",
+    "word_fr": "Choqué",
+    "transliteration": "masdûm",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/masdoum.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_035",
+    "word_ar": "فخور",
+    "word_arabizi": "fakhour",
+    "word_fr": "Fier",
+    "transliteration": "fakhûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/fakhour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_036",
+    "word_ar": "خجلان",
+    "word_arabizi": "khjlan",
+    "word_fr": "Gêné / Timide",
+    "transliteration": "khjlân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/khjlan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_037",
+    "word_ar": "غيور",
+    "word_arabizi": "ghyour",
+    "word_fr": "Jaloux",
+    "transliteration": "ghyûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ghyour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_038",
+    "word_ar": "متحمس",
+    "word_arabizi": "mit7emmes",
+    "word_fr": "Enthousiaste / Motivé",
+    "transliteration": "mit7emmes",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/mit7emmes.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_039",
+    "word_ar": "متضايق",
+    "word_arabizi": "mtdaye9",
+    "word_fr": "Contrarié / Oppressé",
+    "transliteration": "mtdâye9",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/mtdaye9.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_040",
+    "word_ar": "متفائل",
+    "word_arabizi": "mitfa2el",
+    "word_fr": "Optimiste",
+    "transliteration": "mitfâ'el",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/mitfa2el.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_041",
+    "word_ar": "العشق",
+    "word_arabizi": "l3echq",
+    "word_fr": "L'amour passionné",
+    "transliteration": "l-3echq",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/emotions/l3echq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_042",
+    "word_ar": "الحب",
+    "word_arabizi": "l7ob",
+    "word_fr": "L'amour",
+    "transliteration": "l-7ob",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/emotions/l7ob.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_043",
+    "word_ar": "الأمل",
+    "word_arabizi": "l2amal",
+    "word_fr": "L'espoir",
+    "transliteration": "l-amal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l2amal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_044",
+    "word_ar": "الحشمة",
+    "word_arabizi": "l7chma",
+    "word_fr": "La pudeur / La gêne",
+    "transliteration": "l-7chma",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7chma.mp3",
+    "examples": [],
+    "notes": "Valeur culturelle forte ; « 7chouma » = la honte."
+  },
+  {
+    "id": "emo_045",
+    "word_ar": "الدمعة",
+    "word_arabizi": "ddem3a",
+    "word_fr": "La larme",
+    "transliteration": "d-dem3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ddem3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_046",
+    "word_ar": "القلق",
+    "word_arabizi": "lqleq",
+    "word_fr": "L'angoisse / L'inquiétude",
+    "transliteration": "l-qleq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lqleq.mp3",
+    "examples": [],
+    "notes": ""
+  }
+]

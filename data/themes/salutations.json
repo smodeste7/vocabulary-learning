@@ -1,0 +1,566 @@
+[
+  {
+    "id": "sal_001",
+    "word_ar": "سلام",
+    "word_arabizi": "salam",
+    "word_fr": "Bonjour / Salut",
+    "transliteration": "salâm",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/salam.mp3",
+    "examples": [
+      {
+        "sentence_ar": "سلام، لاباس؟",
+        "sentence_arabizi": "salam, labas?",
+        "sentence_fr": "Salut, ça va ?",
+        "audio_file": null
+      }
+    ],
+    "notes": "Formule universelle, à toute heure. Abréviation de « salam 3likom »."
+  },
+  {
+    "id": "sal_002",
+    "word_ar": "السلام عليكم",
+    "word_arabizi": "salam 3likom",
+    "word_fr": "Que la paix soit sur vous",
+    "transliteration": "as-salâmu 3laykum",
+    "register": "formel",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/salam_3likom.mp3",
+    "examples": [],
+    "notes": "Salutation traditionnelle. On répond « w 3likom salam »."
+  },
+  {
+    "id": "sal_003",
+    "word_ar": "لاباس",
+    "word_arabizi": "labas",
+    "word_fr": "Ça va / Pas de mal",
+    "transliteration": "lâbâs",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/labas.mp3",
+    "examples": [
+      {
+        "sentence_ar": "لاباس عليك؟",
+        "sentence_arabizi": "labas 3lik?",
+        "sentence_fr": "Tu vas bien ?",
+        "audio_file": null
+      }
+    ],
+    "notes": "Sert à la fois de question (« ça va ? ») et de réponse (« ça va »)."
+  },
+  {
+    "id": "sal_004",
+    "word_ar": "بخير",
+    "word_arabizi": "bikhir",
+    "word_fr": "Bien / En bonne santé",
+    "transliteration": "bi-khîr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/bikhir.mp3",
+    "examples": [
+      {
+        "sentence_ar": "أنا بخير، الحمد لله",
+        "sentence_arabizi": "ana bikhir, l7amdoulah",
+        "sentence_fr": "Je vais bien, Dieu merci",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sal_005",
+    "word_ar": "الحمد لله",
+    "word_arabizi": "l7amdoulah",
+    "word_fr": "Dieu merci / Ça va bien",
+    "transliteration": "l-7amdu li-llâh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/l7amdoulah.mp3",
+    "examples": [],
+    "notes": "Réponse très fréquente à « labas ? », même quand tout va bien."
+  },
+  {
+    "id": "sal_006",
+    "word_ar": "صباح الخير",
+    "word_arabizi": "sba7 lkhir",
+    "word_fr": "Bonjour (le matin)",
+    "transliteration": "sbâ7 l-khîr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/sba7_lkhir.mp3",
+    "examples": [
+      {
+        "sentence_ar": "صباح الخير، نعست مزيان؟",
+        "sentence_arabizi": "sba7 lkhir, n3asti mzyan?",
+        "sentence_fr": "Bonjour, tu as bien dormi ?",
+        "audio_file": null
+      }
+    ],
+    "notes": "Le matin uniquement. On peut répondre « sba7 nnour »."
+  },
+  {
+    "id": "sal_007",
+    "word_ar": "مسا الخير",
+    "word_arabizi": "msa lkhir",
+    "word_fr": "Bonsoir",
+    "transliteration": "msâ l-khîr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/msa_lkhir.mp3",
+    "examples": [],
+    "notes": "À partir de l'après-midi / soir."
+  },
+  {
+    "id": "sal_008",
+    "word_ar": "مرحبا",
+    "word_arabizi": "marhba",
+    "word_fr": "Bienvenue",
+    "transliteration": "mar7ba",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/marhba.mp3",
+    "examples": [
+      {
+        "sentence_ar": "مرحبا بيك فدارنا",
+        "sentence_arabizi": "marhba bik f darna",
+        "sentence_fr": "Bienvenue chez nous",
+        "audio_file": null
+      }
+    ],
+    "notes": "Sert aussi de « de rien » en réponse à un merci."
+  },
+  {
+    "id": "sal_009",
+    "word_ar": "بسلامة",
+    "word_arabizi": "bslama",
+    "word_fr": "Au revoir",
+    "transliteration": "b-slâma",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/bslama.mp3",
+    "examples": [
+      {
+        "sentence_ar": "تهلا فراسك، بسلامة",
+        "sentence_arabizi": "tehla f rask, bslama",
+        "sentence_fr": "Prends soin de toi, au revoir",
+        "audio_file": null
+      }
+    ],
+    "notes": "Littéralement « avec la paix »."
+  },
+  {
+    "id": "sal_010",
+    "word_ar": "تصبح على خير",
+    "word_arabizi": "tsbe7 3la khir",
+    "word_fr": "Bonne nuit",
+    "transliteration": "tsbe7 3la khîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/tsbe7_3la_khir.mp3",
+    "examples": [],
+    "notes": "Littéralement « que tu te réveilles dans le bien »."
+  },
+  {
+    "id": "sal_011",
+    "word_ar": "شكرا",
+    "word_arabizi": "shukran",
+    "word_fr": "Merci",
+    "transliteration": "shukran",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/shukran.mp3",
+    "examples": [
+      {
+        "sentence_ar": "شكرا بزاف",
+        "sentence_arabizi": "shukran bzzaf",
+        "sentence_fr": "Merci beaucoup",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sal_012",
+    "word_ar": "بارك الله فيك",
+    "word_arabizi": "barakallaho fik",
+    "word_fr": "Merci (que Dieu te bénisse)",
+    "transliteration": "bârak-allâhu fîk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/barakallaho_fik.mp3",
+    "examples": [],
+    "notes": "Remerciement chaleureux très répandu, plus marocain que « shukran »."
+  },
+  {
+    "id": "sal_013",
+    "word_ar": "عافاك",
+    "word_arabizi": "3afak",
+    "word_fr": "S'il te plaît",
+    "transliteration": "3afâk",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/3afak.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عطيني الماء عافاك",
+        "sentence_arabizi": "3tini lma 3afak",
+        "sentence_fr": "Donne-moi de l'eau s'il te plaît",
+        "audio_file": null
+      }
+    ],
+    "notes": "Au féminin/pluriel : « 3afakom »."
+  },
+  {
+    "id": "sal_014",
+    "word_ar": "سمح ليا",
+    "word_arabizi": "sme7 liya",
+    "word_fr": "Excuse-moi / Pardon",
+    "transliteration": "sme7 lîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/sme7_liya.mp3",
+    "examples": [],
+    "notes": "Pour s'excuser ou demander de répéter."
+  },
+  {
+    "id": "sal_015",
+    "word_ar": "معليش",
+    "word_arabizi": "ma3lich",
+    "word_fr": "Ce n'est pas grave",
+    "transliteration": "ma3lîsh",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/ma3lich.mp3",
+    "examples": [],
+    "notes": "Rassure, minimise un souci. Très utilisé."
+  },
+  {
+    "id": "sal_016",
+    "word_ar": "واخا",
+    "word_arabizi": "wakha",
+    "word_fr": "D'accord / OK",
+    "transliteration": "wâkha",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/wakha.mp3",
+    "examples": [
+      {
+        "sentence_ar": "واخا، نمشيو دابا",
+        "sentence_arabizi": "wakha, nmchiw daba",
+        "sentence_fr": "D'accord, on y va maintenant",
+        "audio_file": null
+      }
+    ],
+    "notes": "Marqueur d'accord emblématique du marocain."
+  },
+  {
+    "id": "sal_017",
+    "word_ar": "إيه",
+    "word_arabizi": "iyeh",
+    "word_fr": "Oui",
+    "transliteration": "îyeh",
+    "register": "familier",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/iyeh.mp3",
+    "examples": [],
+    "notes": "Plus courant que « na3am » à l'oral."
+  },
+  {
+    "id": "sal_018",
+    "word_ar": "لا",
+    "word_arabizi": "la",
+    "word_fr": "Non",
+    "transliteration": "lâ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/la.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "sal_019",
+    "word_ar": "إن شاء الله",
+    "word_arabizi": "inchallah",
+    "word_fr": "Si Dieu le veut",
+    "transliteration": "in shâʔ allâh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/inchallah.mp3",
+    "examples": [
+      {
+        "sentence_ar": "نتلاقاو غدا إن شاء الله",
+        "sentence_arabizi": "ntlaqaw ghedda inchallah",
+        "sentence_fr": "On se voit demain, si Dieu le veut",
+        "audio_file": null
+      }
+    ],
+    "notes": "Accompagne toute intention future."
+  },
+  {
+    "id": "sal_020",
+    "word_ar": "تهلا فراسك",
+    "word_arabizi": "tehla f rask",
+    "word_fr": "Prends soin de toi",
+    "transliteration": "tehlâ f râsek",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/tehla_f_rask.mp3",
+    "examples": [],
+    "notes": "Formule d'adieu affectueuse."
+  },
+  {
+    "id": "sal_021",
+    "word_ar": "كيف داير",
+    "word_arabizi": "kif dayr",
+    "word_fr": "Comment vas-tu ? (à un homme)",
+    "transliteration": "kîf dâyr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/kif_dayr.mp3",
+    "examples": [
+      {
+        "sentence_ar": "أهلا خويا، كيف داير؟",
+        "sentence_arabizi": "ahlan khoya, kif dayr?",
+        "sentence_fr": "Salut mon frère, comment vas-tu ?",
+        "audio_file": null
+      }
+    ],
+    "notes": "Au féminin : « kif dayra »."
+  },
+  {
+    "id": "sal_022",
+    "word_ar": "بحال بحال",
+    "word_arabizi": "b7al b7al",
+    "word_fr": "Comme ci comme ça",
+    "transliteration": "b7âl b7âl",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/b7al_b7al.mp3",
+    "examples": [],
+    "notes": "Réponse nuancée à « labas ? »."
+  },
+  {
+    "id": "sal_023",
+    "word_ar": "أهلا",
+    "word_arabizi": "ahlan",
+    "word_fr": "Salut / Bienvenue",
+    "transliteration": "ahlan",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/ahlan.mp3",
+    "examples": [],
+    "notes": "On renforce : « ahlan w sahlan »."
+  },
+  {
+    "id": "sal_024",
+    "word_ar": "وعليكم السلام",
+    "word_arabizi": "wa 3likom salam",
+    "word_fr": "Et sur vous la paix (réponse)",
+    "transliteration": "wa 3laykum s-salâm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/wa_3likom_salam.mp3",
+    "examples": [],
+    "notes": "Réponse à « salam 3likom »."
+  },
+  {
+    "id": "sal_025",
+    "word_ar": "صباح النور",
+    "word_arabizi": "sba7 nnour",
+    "word_fr": "Bonjour (réponse du matin)",
+    "transliteration": "sbâ7 n-nûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/sba7_nnour.mp3",
+    "examples": [],
+    "notes": "Réponse à « sba7 lkhir »."
+  },
+  {
+    "id": "sal_026",
+    "word_ar": "مسا النور",
+    "word_arabizi": "msa nnour",
+    "word_fr": "Bonsoir (réponse)",
+    "transliteration": "msâ n-nûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/msa_nnour.mp3",
+    "examples": [],
+    "notes": "Réponse à « msa lkhir »."
+  },
+  {
+    "id": "sal_027",
+    "word_ar": "الله يعطيك الصحة",
+    "word_arabizi": "llah y3tik ssa7a",
+    "word_fr": "Merci / Bon courage",
+    "transliteration": "llâh y3tîk s-sa77a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/llah_y3tik_ssa7a.mp3",
+    "examples": [],
+    "notes": "Remerciement pour un service / encouragement au travail."
+  },
+  {
+    "id": "sal_028",
+    "word_ar": "متشرفين",
+    "word_arabizi": "mtcharrfin",
+    "word_fr": "Enchanté",
+    "transliteration": "mtcharrfîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/mtcharrfin.mp3",
+    "examples": [],
+    "notes": "À une présentation."
+  },
+  {
+    "id": "sal_029",
+    "word_ar": "شنو سميتك",
+    "word_arabizi": "chno smitek",
+    "word_fr": "Comment t'appelles-tu ?",
+    "transliteration": "chnu smîtek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/chno_smitek.mp3",
+    "examples": [
+      {
+        "sentence_ar": "شنو سميتك؟ سميتي كريم",
+        "sentence_arabizi": "chno smitek? smiti Karim",
+        "sentence_fr": "Comment t'appelles-tu ? Je m'appelle Karim",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sal_030",
+    "word_ar": "سميتي",
+    "word_arabizi": "smiti",
+    "word_fr": "Je m'appelle (mon nom)",
+    "transliteration": "smîtî",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/smiti.mp3",
+    "examples": [],
+    "notes": "« smiti… » = mon nom est…"
+  },
+  {
+    "id": "sal_031",
+    "word_ar": "الله يسلمك",
+    "word_arabizi": "llah yslmek",
+    "word_fr": "Que Dieu te garde (réponse)",
+    "transliteration": "llâh yslmek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/llah_yslmek.mp3",
+    "examples": [],
+    "notes": "Réponse à « bslama »."
+  },
+  {
+    "id": "sal_032",
+    "word_ar": "بالصحة والراحة",
+    "word_arabizi": "bsa7a w rra7a",
+    "word_fr": "Bon appétit / Bien-être",
+    "transliteration": "b-sa77a w r-râ7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/bsa7a_w_rra7a.mp3",
+    "examples": [],
+    "notes": "Après un repas, un bain ; on répond « llah y3tik ssa7a »."
+  },
+  {
+    "id": "sal_033",
+    "word_ar": "نهارك سعيد",
+    "word_arabizi": "nharek s3id",
+    "word_fr": "Bonne journée",
+    "transliteration": "nhârek s3îd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/nharek_s3id.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "sal_034",
+    "word_ar": "عيد مبارك",
+    "word_arabizi": "3id mbarek",
+    "word_fr": "Bonne fête (Aïd)",
+    "transliteration": "3îd mbârek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/3id_mbarek.mp3",
+    "examples": [],
+    "notes": "On dit aussi « mbarek l3id »."
+  },
+  {
+    "id": "sal_035",
+    "word_ar": "العفو",
+    "word_arabizi": "l3afw",
+    "word_fr": "De rien / Je vous en prie",
+    "transliteration": "l-3afw",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/salutations/l3afw.mp3",
+    "examples": [],
+    "notes": "Réponse à un merci."
+  },
+  {
+    "id": "sal_036",
+    "word_ar": "بلا جميل",
+    "word_arabizi": "bla jmil",
+    "word_fr": "De rien / Pas de quoi",
+    "transliteration": "blâ jmîl",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/bla_jmil.mp3",
+    "examples": [],
+    "notes": "Littéralement « sans obligation »."
+  },
+  {
+    "id": "sal_037",
+    "word_ar": "على فكرة",
+    "word_arabizi": "3la fkra",
+    "word_fr": "Au fait / À propos",
+    "transliteration": "3lâ fikra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/3la_fkra.mp3",
+    "examples": [],
+    "notes": "Pour introduire une remarque."
+  },
+  {
+    "id": "sal_038",
+    "word_ar": "بصراحة",
+    "word_arabizi": "bsra7a",
+    "word_fr": "Franchement / Honnêtement",
+    "transliteration": "b-sarâ7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/salutations/bsra7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "sal_039",
+    "word_ar": "الحمد لله على السلامة",
+    "word_arabizi": "lhamdoulah 3la slama",
+    "word_fr": "Dieu merci pour ton retour sain",
+    "transliteration": "l-7amdu li-llâh 3lâ s-slâma",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/salutations/lhamdoulah_3la_slama.mp3",
+    "examples": [],
+    "notes": "Accueil de quelqu'un qui rentre de voyage."
+  },
+  {
+    "id": "sal_040",
+    "word_ar": "من بعد إذنك",
+    "word_arabizi": "mn ba3d iznek",
+    "word_fr": "Avec ta permission / Excuse-moi",
+    "transliteration": "mn ba3d iznek",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/salutations/mn_ba3d_iznek.mp3",
+    "examples": [],
+    "notes": "Pour prendre congé poliment ou s'excuser."
+  }
+]

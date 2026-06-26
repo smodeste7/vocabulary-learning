@@ -1,0 +1,27 @@
+[
+  { "id": "salutations", "label": "Salutations", "icon": "👋", "category": "bases", "description": "Politesse, rencontres, remerciements, au revoir", "word_count": 0, "color_accent": "#e8a838" },
+  { "id": "chiffres", "label": "Chiffres", "icon": "🔢", "category": "bases", "description": "Compter de 0 à 100 et au-delà", "word_count": 0, "color_accent": "#e8a838" },
+  { "id": "couleurs", "label": "Couleurs", "icon": "🎨", "category": "bases", "description": "Les couleurs principales et nuances courantes", "word_count": 0, "color_accent": "#e8a838" },
+  { "id": "famille", "label": "Famille", "icon": "👨‍👩‍👧", "category": "bases", "description": "Membres de la famille et relations proches", "word_count": 0, "color_accent": "#e8a838" },
+  { "id": "corps", "label": "Corps", "icon": "🧍", "category": "bases", "description": "Les parties du corps humain", "word_count": 0, "color_accent": "#e8a838" },
+
+  { "id": "nourriture", "label": "Nourriture", "icon": "🍽️", "category": "quotidien", "description": "Aliments, boissons et repas du quotidien", "word_count": 0, "color_accent": "#3ecf8e" },
+  { "id": "maison", "label": "Maison", "icon": "🏠", "category": "quotidien", "description": "La maison, les pièces et les objets du foyer", "word_count": 0, "color_accent": "#3ecf8e" },
+  { "id": "vetements", "label": "Vêtements", "icon": "👕", "category": "quotidien", "description": "S'habiller : vêtements et accessoires", "word_count": 0, "color_accent": "#3ecf8e" },
+  { "id": "sante", "label": "Santé", "icon": "🩺", "category": "quotidien", "description": "Médecin, douleurs, pharmacie, bien-être", "word_count": 0, "color_accent": "#3ecf8e" },
+  { "id": "temps", "label": "Temps", "icon": "🕐", "category": "quotidien", "description": "Heure, jours, mois, moments de la journée", "word_count": 0, "color_accent": "#3ecf8e" },
+
+  { "id": "ville", "label": "Ville", "icon": "🏙️", "category": "ville", "description": "Se repérer en ville : lieux et services", "word_count": 0, "color_accent": "#4a9eff" },
+  { "id": "commerce", "label": "Commerce", "icon": "🛒", "category": "ville", "description": "Acheter, vendre, prix, marchander au souk", "word_count": 0, "color_accent": "#4a9eff" },
+  { "id": "voyage", "label": "Voyage", "icon": "🧳", "category": "ville", "description": "Taxi, train, bus, aéroport, demander son chemin", "word_count": 0, "color_accent": "#4a9eff" },
+  { "id": "travail", "label": "Travail", "icon": "💼", "category": "ville", "description": "Métiers, bureau, vocabulaire professionnel", "word_count": 0, "color_accent": "#4a9eff" },
+
+  { "id": "animaux", "label": "Animaux", "icon": "🐾", "category": "nature", "description": "Animaux domestiques, de ferme et sauvages", "word_count": 0, "color_accent": "#7b8fa1" },
+  { "id": "meteo", "label": "Météo & Nature", "icon": "🌤️", "category": "nature", "description": "Le temps qu'il fait et les éléments de la nature", "word_count": 0, "color_accent": "#7b8fa1" },
+
+  { "id": "adjectifs", "label": "Adjectifs", "icon": "🏷️", "category": "communiquer", "description": "Qualifier : grand, petit, beau, cher…", "word_count": 0, "color_accent": "#e05c5c" },
+  { "id": "emotions", "label": "Émotions", "icon": "😊", "category": "communiquer", "description": "Dire ce que l'on ressent", "word_count": 0, "color_accent": "#e05c5c" },
+  { "id": "expressions", "label": "Expressions", "icon": "💬", "category": "communiquer", "description": "Tournures et interjections du quotidien", "word_count": 0, "color_accent": "#e05c5c" },
+  { "id": "verbes", "label": "Verbes", "icon": "🏃", "category": "communiquer", "description": "Les actions essentielles du quotidien", "word_count": 0, "color_accent": "#e05c5c" },
+  { "id": "grammaire", "label": "Grammaire", "icon": "🔗", "category": "communiquer", "description": "Mots-outils : pronoms, prépositions, liaisons", "word_count": 0, "color_accent": "#e05c5c" }
+]

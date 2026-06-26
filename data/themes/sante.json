@@ -1,0 +1,610 @@
+[
+  {
+    "id": "san_001",
+    "word_ar": "الصحة",
+    "word_arabizi": "sse77a",
+    "word_fr": "La santé",
+    "transliteration": "s-se77a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/sse77a.mp3",
+    "examples": [
+      {
+        "sentence_ar": "الله يعطيك الصحة",
+        "sentence_arabizi": "llah y3tik sse77a",
+        "sentence_fr": "Que Dieu te donne la santé",
+        "audio_file": null
+      }
+    ],
+    "notes": "Expression de souhait très courante."
+  },
+  {
+    "id": "san_002",
+    "word_ar": "مريض",
+    "word_arabizi": "mrid",
+    "word_fr": "Malade",
+    "transliteration": "mrîd",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/mrid.mp3",
+    "examples": [],
+    "notes": "Féminin : « mrida »."
+  },
+  {
+    "id": "san_003",
+    "word_ar": "وجعني",
+    "word_arabizi": "kaywej3ni",
+    "word_fr": "J'ai mal (ça me fait mal)",
+    "transliteration": "kâywej3nî",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/kaywej3ni.mp3",
+    "examples": [
+      {
+        "sentence_ar": "كيوجعني راسي",
+        "sentence_arabizi": "kaywej3ni rasi",
+        "sentence_fr": "J'ai mal à la tête",
+        "audio_file": null
+      }
+    ],
+    "notes": "Structure : kaywej3ni + partie du corps. Très utile !"
+  },
+  {
+    "id": "san_004",
+    "word_ar": "الألم",
+    "word_arabizi": "lalam",
+    "word_fr": "La douleur",
+    "transliteration": "l-alam",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lalam.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_005",
+    "word_ar": "الحمى",
+    "word_arabizi": "l7omma",
+    "word_fr": "La fièvre",
+    "transliteration": "l-7omma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/l7omma.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندي حمى",
+        "sentence_arabizi": "3ndi 7omma",
+        "sentence_fr": "J'ai de la fièvre",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "san_006",
+    "word_ar": "الرشح",
+    "word_arabizi": "rre77",
+    "word_fr": "Le rhume",
+    "transliteration": "r-re77",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/rre77.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_007",
+    "word_ar": "السعلة",
+    "word_arabizi": "sse3la",
+    "word_fr": "La toux",
+    "transliteration": "s-se3la",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/sse3la.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_008",
+    "word_ar": "الصداع",
+    "word_arabizi": "ssoda3",
+    "word_fr": "Le mal de tête / La migraine",
+    "transliteration": "s-soda3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ssoda3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_009",
+    "word_ar": "الدواء",
+    "word_arabizi": "ddwwa",
+    "word_fr": "Le médicament",
+    "transliteration": "d-dwwâ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/ddwwa.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عطيني الدواء عافاك",
+        "sentence_arabizi": "3tini ddwwa 3afak",
+        "sentence_fr": "Donnez-moi le médicament s'il vous plaît",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "san_010",
+    "word_ar": "الحبة",
+    "word_arabizi": "l7ebba",
+    "word_fr": "Le comprimé / La pilule",
+    "transliteration": "l-7ebba",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/l7ebba.mp3",
+    "examples": [],
+    "notes": "Pluriel : « 7bbat »."
+  },
+  {
+    "id": "san_011",
+    "word_ar": "المرهم",
+    "word_arabizi": "lmer7em",
+    "word_fr": "La pommade / La crème",
+    "transliteration": "l-mer7em",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lmer7em.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_012",
+    "word_ar": "الضغط",
+    "word_arabizi": "ddeght",
+    "word_fr": "La tension / La pression",
+    "transliteration": "d-deght",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ddeght.mp3",
+    "examples": [],
+    "notes": "Tension artérielle. Aussi : stress."
+  },
+  {
+    "id": "san_013",
+    "word_ar": "السكري",
+    "word_arabizi": "ssokri",
+    "word_fr": "Le diabète",
+    "transliteration": "s-sokrî",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/ssokri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_014",
+    "word_ar": "الحساسية",
+    "word_arabizi": "l7sissiya",
+    "word_fr": "L'allergie",
+    "transliteration": "l-7sissîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/l7sissiya.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندي حساسية من الغبار",
+        "sentence_arabizi": "3ndi 7sissiya mn ghbar",
+        "sentence_fr": "J'ai une allergie à la poussière",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "san_015",
+    "word_ar": "الجرح",
+    "word_arabizi": "ljre7",
+    "word_fr": "La blessure / La plaie",
+    "transliteration": "l-jre7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ljre7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_016",
+    "word_ar": "الكسر",
+    "word_arabizi": "lkser",
+    "word_fr": "La fracture / La cassure",
+    "transliteration": "l-kser",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lkser.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_017",
+    "word_ar": "الطوارئ",
+    "word_arabizi": "ttware2",
+    "word_fr": "Les urgences",
+    "transliteration": "t-twâre2",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ttware2.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_018",
+    "word_ar": "عياد",
+    "word_arabizi": "3iyad",
+    "word_fr": "La consultation / La visite médicale",
+    "transliteration": "3iyâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/3iyad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_019",
+    "word_ar": "التأمين",
+    "word_arabizi": "tta2min",
+    "word_fr": "L'assurance",
+    "transliteration": "t-tâ2mîn",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/tta2min.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_020",
+    "word_ar": "الإسعاف",
+    "word_arabizi": "lis3af",
+    "word_fr": "L'ambulance",
+    "transliteration": "l-is3âf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lis3af.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_021",
+    "word_ar": "الراحة",
+    "word_arabizi": "rra7a",
+    "word_fr": "Le repos",
+    "transliteration": "r-râ7a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/rra7a.mp3",
+    "examples": [
+      {
+        "sentence_ar": "خاصك ترتاح",
+        "sentence_arabizi": "khasek terta7",
+        "sentence_fr": "Tu dois te reposer",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "san_022",
+    "word_ar": "شفا بالله",
+    "word_arabizi": "chfa b llah",
+    "word_fr": "Bon rétablissement",
+    "transliteration": "chfâ b llâh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/chfa_b_llah.mp3",
+    "examples": [],
+    "notes": "Formule de souhait de guérison."
+  },
+  {
+    "id": "san_023",
+    "word_ar": "الصيدلي",
+    "word_arabizi": "ssidali",
+    "word_fr": "Le pharmacien",
+    "transliteration": "s-sîdâlî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ssidali.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_024",
+    "word_ar": "الموعد",
+    "word_arabizi": "lm3ad",
+    "word_fr": "Le rendez-vous",
+    "transliteration": "l-m3âd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lm3ad.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندي موعد عند الطبيب",
+        "sentence_arabizi": "3ndi m3ad 3nd ttbib",
+        "sentence_fr": "J'ai un rendez-vous chez le médecin",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "san_025",
+    "word_ar": "الحمل",
+    "word_arabizi": "l7mel",
+    "word_fr": "La grossesse",
+    "transliteration": "l-7mel",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/l7mel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_026",
+    "word_ar": "الدم",
+    "word_arabizi": "ddem",
+    "word_fr": "Le sang",
+    "transliteration": "d-dem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ddem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_027",
+    "word_ar": "التعب",
+    "word_arabizi": "tte3b",
+    "word_fr": "La fatigue / L'épuisement",
+    "transliteration": "t-te3b",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/sante/tte3b.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_028",
+    "word_ar": "الرشوة",
+    "word_arabizi": "ghrassa",
+    "word_fr": "La grippe",
+    "transliteration": "l-grâssa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ghrassa.mp3",
+    "examples": [],
+    "notes": "Du français « grippe ». On dit « lgrip » aussi."
+  },
+  {
+    "id": "san_029",
+    "word_ar": "ضربة الشمس",
+    "word_arabizi": "derbet chems",
+    "word_fr": "Le coup de soleil / L'insolation",
+    "transliteration": "derbet chems",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/derbet_chems.mp3",
+    "examples": [],
+    "notes": "Littéralement « coup de soleil »."
+  },
+  {
+    "id": "san_030",
+    "word_ar": "بري",
+    "word_arabizi": "bri",
+    "word_fr": "Guérir / Se remettre",
+    "transliteration": "brî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/bri.mp3",
+    "examples": [
+      {
+        "sentence_ar": "الله يبريك",
+        "sentence_arabizi": "llah ybrik",
+        "sentence_fr": "Que Dieu te guérisse",
+        "audio_file": null
+      }
+    ],
+    "notes": "Souhait de guérison adressé à un malade."
+  },
+  {
+    "id": "san_031",
+    "word_ar": "الحقنة",
+    "word_arabizi": "l7oqna",
+    "word_fr": "La piqûre / L'injection",
+    "transliteration": "l-7oqna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/l7oqna.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_032",
+    "word_ar": "العملية",
+    "word_arabizi": "l3amaliya",
+    "word_fr": "L'opération (chirurgicale)",
+    "transliteration": "l-3amalîya",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/l3amaliya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_033",
+    "word_ar": "التحليل",
+    "word_arabizi": "tt7lil",
+    "word_fr": "L'analyse (médicale)",
+    "transliteration": "t-t7lîl",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/tt7lil.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_034",
+    "word_ar": "الوصفة",
+    "word_arabizi": "lwasfa",
+    "word_fr": "L'ordonnance",
+    "transliteration": "l-wasfa",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/lwasfa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_035",
+    "word_ar": "طبيب الأسنان",
+    "word_arabizi": "tbib ssnan",
+    "word_fr": "Le dentiste",
+    "transliteration": "tbîb s-snân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/tbib_ssnan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_036",
+    "word_ar": "المرض",
+    "word_arabizi": "lmrd",
+    "word_fr": "La maladie",
+    "transliteration": "l-mrd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/lmrd.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_037",
+    "word_ar": "الإسهال",
+    "word_arabizi": "sshal",
+    "word_fr": "La diarrhée",
+    "transliteration": "s-shâl",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/sshal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_038",
+    "word_ar": "الدوخة",
+    "word_arabizi": "ddokha",
+    "word_fr": "Le vertige / La nausée",
+    "transliteration": "d-dôkha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/ddokha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_039",
+    "word_ar": "الحرق",
+    "word_arabizi": "l7erq",
+    "word_fr": "La brûlure",
+    "transliteration": "l-7erq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/l7erq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_040",
+    "word_ar": "العلاج",
+    "word_arabizi": "l3ilaj",
+    "word_fr": "Le traitement / Les soins",
+    "transliteration": "l-3ilâj",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/l3ilaj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_041",
+    "word_ar": "العكاز",
+    "word_arabizi": "l3kkaz",
+    "word_fr": "La canne / La béquille",
+    "transliteration": "l-3kkâz",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/l3kkaz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_042",
+    "word_ar": "الجبيرة",
+    "word_arabizi": "ljbira",
+    "word_fr": "Le plâtre / L'attelle",
+    "transliteration": "l-jbîra",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/ljbira.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_043",
+    "word_ar": "الضمادة",
+    "word_arabizi": "ddmada",
+    "word_fr": "Le pansement / Le bandage",
+    "transliteration": "d-dmâda",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/ddmada.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_044",
+    "word_ar": "العطسة",
+    "word_arabizi": "l3atsa",
+    "word_fr": "L'éternuement",
+    "transliteration": "l-3atsa",
+    "register": "courant",
+    "difficulty": 3,
+    "audio_file": "audio/sante/l3atsa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_045",
+    "word_ar": "الشهية",
+    "word_arabizi": "chhiya",
+    "word_fr": "L'appétit",
+    "transliteration": "ch-hîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/chhiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "san_046",
+    "word_ar": "الحبوب",
+    "word_arabizi": "l7boub",
+    "word_fr": "Les boutons / L'acné",
+    "transliteration": "l-7bûb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/sante/l7boub.mp3",
+    "examples": [],
+    "notes": "Désigne aussi les comprimés selon le contexte."
+  }
+]

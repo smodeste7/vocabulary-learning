@@ -1,0 +1,809 @@
+[
+  {
+    "id": "nou_001",
+    "word_ar": "الماكلة",
+    "word_arabizi": "lmakla",
+    "word_fr": "La nourriture / Le repas",
+    "transliteration": "l-mâkla",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lmakla.mp3",
+    "examples": [
+      {
+        "sentence_ar": "الماكلة المغربية بنينة بزاف",
+        "sentence_arabizi": "lmakla lmaghribiya bnina bzzaf",
+        "sentence_fr": "La cuisine marocaine est très bonne",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "nou_002",
+    "word_ar": "الخبز",
+    "word_arabizi": "lkhobz",
+    "word_fr": "Le pain",
+    "transliteration": "l-khobz",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lkhobz.mp3",
+    "examples": [
+      {
+        "sentence_ar": "شري الخبز من الفران",
+        "sentence_arabizi": "chri lkhobz mn lfarran",
+        "sentence_fr": "Achète le pain à la boulangerie",
+        "audio_file": null
+      }
+    ],
+    "notes": "Le pain rond marocain. On dit aussi « lkhobza » pour une miche."
+  },
+  {
+    "id": "nou_003",
+    "word_ar": "الما",
+    "word_arabizi": "lma",
+    "word_fr": "L'eau",
+    "transliteration": "l-mâ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lma.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عطيني كاس ديال الما",
+        "sentence_arabizi": "3tini kas dyal lma",
+        "sentence_fr": "Donne-moi un verre d'eau",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "nou_004",
+    "word_ar": "أتاي",
+    "word_arabizi": "atay",
+    "word_fr": "Le thé",
+    "transliteration": "atây",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/atay.mp3",
+    "examples": [
+      {
+        "sentence_ar": "أتاي بالنعناع",
+        "sentence_arabizi": "atay b nne3na3",
+        "sentence_fr": "Du thé à la menthe",
+        "audio_file": null
+      }
+    ],
+    "notes": "Le thé à la menthe, boisson nationale. On dit aussi « latay »."
+  },
+  {
+    "id": "nou_005",
+    "word_ar": "القهوة",
+    "word_arabizi": "lqahwa",
+    "word_fr": "Le café",
+    "transliteration": "l-qahwa",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lqahwa.mp3",
+    "examples": [],
+    "notes": "« qahwa nss-nss » : café moitié lait."
+  },
+  {
+    "id": "nou_006",
+    "word_ar": "الحليب",
+    "word_arabizi": "l7lib",
+    "word_fr": "Le lait",
+    "transliteration": "l-7lîb",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/l7lib.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_007",
+    "word_ar": "اللحم",
+    "word_arabizi": "l7em",
+    "word_fr": "La viande",
+    "transliteration": "l-7em",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/l7em.mp3",
+    "examples": [
+      {
+        "sentence_ar": "بغيت اللحم ديال البقري",
+        "sentence_arabizi": "bghit l7em dyal lbeqri",
+        "sentence_fr": "Je veux de la viande de bœuf",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "nou_008",
+    "word_ar": "الدجاج",
+    "word_arabizi": "ddjaj",
+    "word_fr": "Le poulet",
+    "transliteration": "d-djâj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/ddjaj.mp3",
+    "examples": [],
+    "notes": "On dit aussi « djaj »."
+  },
+  {
+    "id": "nou_009",
+    "word_ar": "الحوت",
+    "word_arabizi": "l7out",
+    "word_fr": "Le poisson",
+    "transliteration": "l-7ût",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/l7out.mp3",
+    "examples": [],
+    "notes": "Désigne le poisson en général."
+  },
+  {
+    "id": "nou_010",
+    "word_ar": "الخضرة",
+    "word_arabizi": "lkhodra",
+    "word_fr": "Les légumes",
+    "transliteration": "l-khodra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lkhodra.mp3",
+    "examples": [],
+    "notes": "Désigne les légumes / la verdure en général."
+  },
+  {
+    "id": "nou_011",
+    "word_ar": "الفاكية",
+    "word_arabizi": "lfakya",
+    "word_fr": "Les fruits",
+    "transliteration": "l-fâkya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lfakya.mp3",
+    "examples": [],
+    "notes": "On dit aussi « lfwakeh »."
+  },
+  {
+    "id": "nou_012",
+    "word_ar": "التفاح",
+    "word_arabizi": "ttffa7",
+    "word_fr": "La pomme",
+    "transliteration": "t-tffâ7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/ttffa7.mp3",
+    "examples": [],
+    "notes": "Une pomme : « tffa7a »."
+  },
+  {
+    "id": "nou_013",
+    "word_ar": "البيض",
+    "word_arabizi": "lbid",
+    "word_fr": "Les œufs",
+    "transliteration": "l-bîd",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lbid.mp3",
+    "examples": [],
+    "notes": "Un œuf : « bida »."
+  },
+  {
+    "id": "nou_014",
+    "word_ar": "الزيت",
+    "word_arabizi": "zzit",
+    "word_fr": "L'huile",
+    "transliteration": "z-zît",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/zzit.mp3",
+    "examples": [
+      {
+        "sentence_ar": "زيت العود فيها الصحة",
+        "sentence_arabizi": "zit l3ud fiha ss7a",
+        "sentence_fr": "L'huile d'argan est bonne pour la santé",
+        "audio_file": null
+      }
+    ],
+    "notes": "« zit l3ud » : huile d'argan. « zit zitoun » : huile d'olive."
+  },
+  {
+    "id": "nou_015",
+    "word_ar": "السكر",
+    "word_arabizi": "sskkar",
+    "word_fr": "Le sucre",
+    "transliteration": "s-skkâr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/sskkar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_016",
+    "word_ar": "الملحة",
+    "word_arabizi": "lmel7a",
+    "word_fr": "Le sel",
+    "transliteration": "l-mel7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lmel7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_017",
+    "word_ar": "الطاجين",
+    "word_arabizi": "ttajin",
+    "word_fr": "Le tajine",
+    "transliteration": "t-tâjîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/ttajin.mp3",
+    "examples": [
+      {
+        "sentence_ar": "اليوم كنطيبو طاجين بالخضرة",
+        "sentence_arabizi": "lyoum knteyybo tajin b lkhodra",
+        "sentence_fr": "Aujourd'hui on cuisine un tajine aux légumes",
+        "audio_file": null
+      }
+    ],
+    "notes": "Plat mijoté emblématique, et aussi le plat en terre cuite."
+  },
+  {
+    "id": "nou_018",
+    "word_ar": "الكسكس",
+    "word_arabizi": "lkoskos",
+    "word_fr": "Le couscous",
+    "transliteration": "l-koskos",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lkoskos.mp3",
+    "examples": [
+      {
+        "sentence_ar": "نهار الجمعة كناكلو الكسكس",
+        "sentence_arabizi": "nhar ljem3a knaklo lkoskos",
+        "sentence_fr": "Le vendredi on mange du couscous",
+        "audio_file": null
+      }
+    ],
+    "notes": "Traditionnellement servi le vendredi."
+  },
+  {
+    "id": "nou_019",
+    "word_ar": "الحريرة",
+    "word_arabizi": "l7rira",
+    "word_fr": "La harira (soupe)",
+    "transliteration": "l-7rîra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/l7rira.mp3",
+    "examples": [],
+    "notes": "Soupe traditionnelle, très consommée pendant le Ramadan."
+  },
+  {
+    "id": "nou_020",
+    "word_ar": "بنين",
+    "word_arabizi": "bnin",
+    "word_fr": "Délicieux / Bon (au goût)",
+    "transliteration": "bnîn",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/bnin.mp3",
+    "examples": [
+      {
+        "sentence_ar": "هاد الماكلة بنينة",
+        "sentence_arabizi": "had lmakla bnina",
+        "sentence_fr": "Ce plat est délicieux",
+        "audio_file": null
+      }
+    ],
+    "notes": "Féminin : « bnina »."
+  },
+  {
+    "id": "nou_021",
+    "word_ar": "فيه الجوع",
+    "word_arabizi": "fiya jjou3",
+    "word_fr": "J'ai faim",
+    "transliteration": "fîya j-jû3",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/fiya_jjou3.mp3",
+    "examples": [],
+    "notes": "Littéralement « il y a la faim en moi ». On dit aussi « jou3an »."
+  },
+  {
+    "id": "nou_022",
+    "word_ar": "فيه العطش",
+    "word_arabizi": "fiya l3atch",
+    "word_fr": "J'ai soif",
+    "transliteration": "fîya l-3atch",
+    "register": "familier",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/fiya_l3atch.mp3",
+    "examples": [],
+    "notes": "On dit aussi « 3atchan »."
+  },
+  {
+    "id": "nou_023",
+    "word_ar": "العسل",
+    "word_arabizi": "l3sel",
+    "word_fr": "Le miel",
+    "transliteration": "l-3sel",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/l3sel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_024",
+    "word_ar": "الزبدة",
+    "word_arabizi": "zzebda",
+    "word_fr": "Le beurre",
+    "transliteration": "z-zebda",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/zzebda.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_025",
+    "word_ar": "الجبن",
+    "word_arabizi": "jben",
+    "word_fr": "Le fromage",
+    "transliteration": "l-jben",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/jben.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_026",
+    "word_ar": "اللبن",
+    "word_arabizi": "lben",
+    "word_fr": "Le lait fermenté",
+    "transliteration": "l-ben",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lben.mp3",
+    "examples": [],
+    "notes": "Boisson laitière acidulée, très courante."
+  },
+  {
+    "id": "nou_027",
+    "word_ar": "التمر",
+    "word_arabizi": "tmer",
+    "word_fr": "Les dattes",
+    "transliteration": "t-mer",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/tmer.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_028",
+    "word_ar": "اللوز",
+    "word_arabizi": "loz",
+    "word_fr": "Les amandes",
+    "transliteration": "l-lôz",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/loz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_029",
+    "word_ar": "الزيتون",
+    "word_arabizi": "zitoun",
+    "word_fr": "Les olives",
+    "transliteration": "z-zîtûn",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/zitoun.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_030",
+    "word_ar": "المطيشة",
+    "word_arabizi": "maticha",
+    "word_fr": "Les tomates",
+    "transliteration": "matîcha",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/maticha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_031",
+    "word_ar": "البصلة",
+    "word_arabizi": "bsla",
+    "word_fr": "L'oignon",
+    "transliteration": "b-sla",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/bsla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_032",
+    "word_ar": "التومة",
+    "word_arabizi": "touma",
+    "word_fr": "L'ail",
+    "transliteration": "tûma",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/touma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_033",
+    "word_ar": "البطاطا",
+    "word_arabizi": "btata",
+    "word_fr": "Les pommes de terre",
+    "transliteration": "b-tâta",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/btata.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_034",
+    "word_ar": "الخيزو",
+    "word_arabizi": "khizzou",
+    "word_fr": "Les carottes",
+    "transliteration": "khizzû",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/khizzou.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_035",
+    "word_ar": "الفلفلة",
+    "word_arabizi": "felfla",
+    "word_fr": "Le poivron / Le piment",
+    "transliteration": "felfla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/felfla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_036",
+    "word_ar": "الخس",
+    "word_arabizi": "khass",
+    "word_fr": "La laitue / La salade",
+    "transliteration": "l-khass",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/khass.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_037",
+    "word_ar": "الخيار",
+    "word_arabizi": "khyar",
+    "word_fr": "Le concombre",
+    "transliteration": "l-khyâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/khyar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_038",
+    "word_ar": "الحامض",
+    "word_arabizi": "7amd",
+    "word_fr": "Le citron",
+    "transliteration": "l-7âmd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/7amd.mp3",
+    "examples": [],
+    "notes": "L'orange se dit « limoun »."
+  },
+  {
+    "id": "nou_039",
+    "word_ar": "الدلاح",
+    "word_arabizi": "della7",
+    "word_fr": "La pastèque",
+    "transliteration": "d-dellâ7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/della7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_040",
+    "word_ar": "العنب",
+    "word_arabizi": "3inb",
+    "word_fr": "Le raisin",
+    "transliteration": "l-3inb",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/3inb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_041",
+    "word_ar": "البنان",
+    "word_arabizi": "banan",
+    "word_fr": "La banane",
+    "transliteration": "bânân",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/banan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_042",
+    "word_ar": "الفراولة",
+    "word_arabizi": "frawla",
+    "word_fr": "La fraise",
+    "transliteration": "frâwla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/frawla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_043",
+    "word_ar": "الروز",
+    "word_arabizi": "rouz",
+    "word_fr": "Le riz",
+    "transliteration": "r-rûz",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/rouz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_044",
+    "word_ar": "المعكرونة",
+    "word_arabizi": "ma3karona",
+    "word_fr": "Les pâtes",
+    "transliteration": "ma3karôna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/ma3karona.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_045",
+    "word_ar": "العدس",
+    "word_arabizi": "3ads",
+    "word_fr": "Les lentilles",
+    "transliteration": "l-3ads",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/3ads.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_046",
+    "word_ar": "الحمص",
+    "word_arabizi": "7emmes",
+    "word_fr": "Les pois chiches",
+    "transliteration": "l-7emmes",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/7emmes.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_047",
+    "word_ar": "اللوبيا",
+    "word_arabizi": "loubya",
+    "word_fr": "Les haricots",
+    "transliteration": "lûbya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/loubya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_048",
+    "word_ar": "الدقيق",
+    "word_arabizi": "dqiq",
+    "word_fr": "La farine",
+    "transliteration": "d-qîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/dqiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_049",
+    "word_ar": "البيصارة",
+    "word_arabizi": "bisara",
+    "word_fr": "La bissara (soupe de fèves)",
+    "transliteration": "bîsâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/bisara.mp3",
+    "examples": [],
+    "notes": "Soupe de fèves, plat populaire du matin/hiver."
+  },
+  {
+    "id": "nou_050",
+    "word_ar": "الحلوة",
+    "word_arabizi": "7elwa",
+    "word_fr": "Le gâteau / La sucrerie",
+    "transliteration": "l-7elwa",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/7elwa.mp3",
+    "examples": [],
+    "notes": "Pluriel « 7elwiyat » (les pâtisseries)."
+  },
+  {
+    "id": "nou_051",
+    "word_ar": "الفطور",
+    "word_arabizi": "lftour",
+    "word_fr": "Le petit-déjeuner",
+    "transliteration": "l-ftûr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lftour.mp3",
+    "examples": [],
+    "notes": "Désigne aussi la rupture du jeûne pendant le Ramadan."
+  },
+  {
+    "id": "nou_052",
+    "word_ar": "الغدا",
+    "word_arabizi": "lghda",
+    "word_fr": "Le déjeuner",
+    "transliteration": "l-ghdâ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/lghda.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_053",
+    "word_ar": "العشا",
+    "word_arabizi": "l3cha",
+    "word_fr": "Le dîner",
+    "transliteration": "l-3châ",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/l3cha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_054",
+    "word_ar": "المشوي",
+    "word_arabizi": "mechwi",
+    "word_fr": "La grillade / Le rôti",
+    "transliteration": "mechwî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/mechwi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_055",
+    "word_ar": "الحار",
+    "word_arabizi": "7arr",
+    "word_fr": "Piquant / Épicé",
+    "transliteration": "7ârr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/7arr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_056",
+    "word_ar": "مالح",
+    "word_arabizi": "male7",
+    "word_fr": "Salé",
+    "transliteration": "mâle7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/male7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_057",
+    "word_ar": "الإبزار",
+    "word_arabizi": "lebzar",
+    "word_fr": "Le poivre",
+    "transliteration": "l-ebzâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/lebzar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_058",
+    "word_ar": "الكمون",
+    "word_arabizi": "kammoun",
+    "word_fr": "Le cumin",
+    "transliteration": "kammûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/kammoun.mp3",
+    "examples": [],
+    "notes": "Épice phare de la cuisine marocaine."
+  },
+  {
+    "id": "nou_059",
+    "word_ar": "النعناع",
+    "word_arabizi": "ne3na3",
+    "word_fr": "La menthe",
+    "transliteration": "ne3nâ3",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/ne3na3.mp3",
+    "examples": [],
+    "notes": "Indispensable au thé marocain."
+  },
+  {
+    "id": "nou_060",
+    "word_ar": "المعدنوس",
+    "word_arabizi": "ma3dnous",
+    "word_fr": "Le persil",
+    "transliteration": "ma3dnûs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/nourriture/ma3dnous.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_061",
+    "word_ar": "العصير",
+    "word_arabizi": "3asir",
+    "word_fr": "Le jus",
+    "transliteration": "3asîr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/3asir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "nou_062",
+    "word_ar": "الشوكلاط",
+    "word_arabizi": "choklat",
+    "word_fr": "Le chocolat",
+    "transliteration": "chôklât",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/nourriture/choklat.mp3",
+    "examples": [],
+    "notes": ""
+  }
+]

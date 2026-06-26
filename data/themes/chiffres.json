@@ -1,0 +1,462 @@
+[
+  {
+    "id": "chi_000",
+    "word_ar": "صفر",
+    "word_arabizi": "sifr",
+    "word_fr": "Zéro (0)",
+    "transliteration": "sifr",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/sifr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_001",
+    "word_ar": "واحد",
+    "word_arabizi": "wa7ed",
+    "word_fr": "Un (1)",
+    "transliteration": "wâ7ed",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/wa7ed.mp3",
+    "examples": [
+      {
+        "sentence_ar": "بغيت واحد القهوة",
+        "sentence_arabizi": "bghit wa7ed lqahwa",
+        "sentence_fr": "Je veux un café",
+        "audio_file": null
+      }
+    ],
+    "notes": "Sert aussi pour « quelqu'un »."
+  },
+  {
+    "id": "chi_002",
+    "word_ar": "جوج",
+    "word_arabizi": "jouj",
+    "word_fr": "Deux (2)",
+    "transliteration": "jûj",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/jouj.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندي جوج ديال الدراري",
+        "sentence_arabizi": "3ndi jouj dyal ddrari",
+        "sentence_fr": "J'ai deux enfants",
+        "audio_file": null
+      }
+    ],
+    "notes": "Spécifique au marocain (l'arabe classique dit « ithnayn »)."
+  },
+  {
+    "id": "chi_003",
+    "word_ar": "تلاتة",
+    "word_arabizi": "tlata",
+    "word_fr": "Trois (3)",
+    "transliteration": "tlâta",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/tlata.mp3",
+    "examples": [],
+    "notes": "Devant un nom : « tlt » (ex. « tlt iyam » = trois jours)."
+  },
+  {
+    "id": "chi_004",
+    "word_ar": "ربعة",
+    "word_arabizi": "reb3a",
+    "word_fr": "Quatre (4)",
+    "transliteration": "reb3a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/reb3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_005",
+    "word_ar": "خمسة",
+    "word_arabizi": "khamsa",
+    "word_fr": "Cinq (5)",
+    "transliteration": "khamsa",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/khamsa.mp3",
+    "examples": [],
+    "notes": "La « main de Fatma » (khamsa) porte aussi ce nom."
+  },
+  {
+    "id": "chi_006",
+    "word_ar": "ستة",
+    "word_arabizi": "stta",
+    "word_fr": "Six (6)",
+    "transliteration": "stta",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/stta.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_007",
+    "word_ar": "سبعة",
+    "word_arabizi": "seb3a",
+    "word_fr": "Sept (7)",
+    "transliteration": "seb3a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/seb3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_008",
+    "word_ar": "تمنية",
+    "word_arabizi": "tmnya",
+    "word_fr": "Huit (8)",
+    "transliteration": "tmnya",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/tmnya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_009",
+    "word_ar": "تسعة",
+    "word_arabizi": "tes3a",
+    "word_fr": "Neuf (9)",
+    "transliteration": "tes3a",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/tes3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_010",
+    "word_ar": "عشرة",
+    "word_arabizi": "3achra",
+    "word_fr": "Dix (10)",
+    "transliteration": "3achra",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/3achra.mp3",
+    "examples": [
+      {
+        "sentence_ar": "هاد الشي بعشرة دراهم",
+        "sentence_arabizi": "had chi b 3achra drahem",
+        "sentence_fr": "Ça coûte dix dirhams",
+        "audio_file": null
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "chi_011",
+    "word_ar": "حضاش",
+    "word_arabizi": "7dach",
+    "word_fr": "Onze (11)",
+    "transliteration": "7dâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/7dach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_012",
+    "word_ar": "طناش",
+    "word_arabizi": "tnach",
+    "word_fr": "Douze (12)",
+    "transliteration": "tnâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tnach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_013",
+    "word_ar": "تلطاش",
+    "word_arabizi": "tletach",
+    "word_fr": "Treize (13)",
+    "transliteration": "tletâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tletach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_014",
+    "word_ar": "ربعطاش",
+    "word_arabizi": "rbe3tach",
+    "word_fr": "Quatorze (14)",
+    "transliteration": "rbe3tâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/rbe3tach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_015",
+    "word_ar": "خمسطاش",
+    "word_arabizi": "khmstach",
+    "word_fr": "Quinze (15)",
+    "transliteration": "khmstâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/khmstach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_016",
+    "word_ar": "سطاش",
+    "word_arabizi": "sttach",
+    "word_fr": "Seize (16)",
+    "transliteration": "sttâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/sttach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_017",
+    "word_ar": "سبعطاش",
+    "word_arabizi": "sbe3tach",
+    "word_fr": "Dix-sept (17)",
+    "transliteration": "sbe3tâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/sbe3tach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_018",
+    "word_ar": "تمنطاش",
+    "word_arabizi": "tmntach",
+    "word_fr": "Dix-huit (18)",
+    "transliteration": "tmntâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tmntach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_019",
+    "word_ar": "تسعطاش",
+    "word_arabizi": "tse3tach",
+    "word_fr": "Dix-neuf (19)",
+    "transliteration": "tse3tâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tse3tach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_020",
+    "word_ar": "عشرين",
+    "word_arabizi": "3echrin",
+    "word_fr": "Vingt (20)",
+    "transliteration": "3echrîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/3echrin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_030",
+    "word_ar": "تلاتين",
+    "word_arabizi": "tlatin",
+    "word_fr": "Trente (30)",
+    "transliteration": "tlâtîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tlatin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_050",
+    "word_ar": "خمسين",
+    "word_arabizi": "khamsin",
+    "word_fr": "Cinquante (50)",
+    "transliteration": "khamsîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/khamsin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_100",
+    "word_ar": "مية",
+    "word_arabizi": "mya",
+    "word_fr": "Cent (100)",
+    "transliteration": "mya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/mya.mp3",
+    "examples": [
+      {
+        "sentence_ar": "عندو مية عام",
+        "sentence_arabizi": "3ndo mya 3am",
+        "sentence_fr": "Il a cent ans",
+        "audio_file": null
+      }
+    ],
+    "notes": "Mille : « alf »."
+  },
+  {
+    "id": "chi_040",
+    "word_ar": "ربعين",
+    "word_arabizi": "reb3in",
+    "word_fr": "Quarante (40)",
+    "transliteration": "reb3în",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/reb3in.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_060",
+    "word_ar": "ستين",
+    "word_arabizi": "settin",
+    "word_fr": "Soixante (60)",
+    "transliteration": "settîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/settin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_070",
+    "word_ar": "سبعين",
+    "word_arabizi": "seb3in",
+    "word_fr": "Soixante-dix (70)",
+    "transliteration": "seb3în",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/seb3in.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_080",
+    "word_ar": "تمانين",
+    "word_arabizi": "tmanin",
+    "word_fr": "Quatre-vingts (80)",
+    "transliteration": "tmânîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tmanin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_090",
+    "word_ar": "تسعين",
+    "word_arabizi": "tes3in",
+    "word_fr": "Quatre-vingt-dix (90)",
+    "transliteration": "tes3în",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/tes3in.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_alf",
+    "word_ar": "ألف",
+    "word_arabizi": "alf",
+    "word_fr": "Mille (1000)",
+    "transliteration": "alf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/alf.mp3",
+    "examples": [],
+    "notes": "Deux mille = « alfayn »."
+  },
+  {
+    "id": "chi_mil",
+    "word_ar": "مليون",
+    "word_arabizi": "melyoun",
+    "word_fr": "Un million",
+    "transliteration": "melyûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/melyoun.mp3",
+    "examples": [],
+    "notes": "En argot, « melyoun » = 1 million de centimes (10 000 DH)."
+  },
+  {
+    "id": "chi_nss",
+    "word_ar": "نص",
+    "word_arabizi": "ness",
+    "word_fr": "Une moitié / Demi",
+    "transliteration": "ness",
+    "register": "courant",
+    "difficulty": 1,
+    "audio_file": "audio/chiffres/ness.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_rb3",
+    "word_ar": "ربع",
+    "word_arabizi": "rbe3",
+    "word_fr": "Un quart",
+    "transliteration": "rbe3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/rbe3.mp3",
+    "examples": [],
+    "notes": "Ne pas confondre avec « reb3a » (4)."
+  },
+  {
+    "id": "chi_ord1",
+    "word_ar": "اللول",
+    "word_arabizi": "lewwel",
+    "word_fr": "Le premier",
+    "transliteration": "l-ewwel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/lewwel.mp3",
+    "examples": [],
+    "notes": "Féminin « lewwla »."
+  },
+  {
+    "id": "chi_ord2",
+    "word_ar": "الثاني",
+    "word_arabizi": "ttani",
+    "word_fr": "Le deuxième",
+    "transliteration": "t-tânî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/ttani.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "chi_ord3",
+    "word_ar": "الثالت",
+    "word_arabizi": "ttalet",
+    "word_fr": "Le troisième",
+    "transliteration": "t-tâlet",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/chiffres/ttalet.mp3",
+    "examples": [],
+    "notes": ""
+  }
+]
