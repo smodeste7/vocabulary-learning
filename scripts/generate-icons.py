@@ -65,8 +65,28 @@ def write_png(path, size):
     print(f"✓ {os.path.relpath(path, HERE)} ({size}x{size})")
 
 
+def from_logo():
+    """Si icons/logo.png existe, en dérive icon-192/512 via sips (macOS).
+    Renvoie True si la génération a eu lieu, False sinon (→ repli placeholder)."""
+    import shutil
+    import subprocess
+    logo = os.path.join(OUT_DIR, "logo.png")
+    if not os.path.exists(logo) or not shutil.which("sips"):
+        return False
+    for size in (192, 512):
+        out = os.path.join(OUT_DIR, f"icon-{size}.png")
+        subprocess.run(["sips", "-s", "format", "png", "-z", str(size), str(size), logo, "--out", out],
+                       check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        print(f"✓ {os.path.relpath(out, HERE)} ({size}x{size}) ← logo.png")
+    return True
+
+
 if __name__ == "__main__":
     os.makedirs(OUT_DIR, exist_ok=True)
-    write_png(os.path.join(OUT_DIR, "icon-192.png"), 192)
-    write_png(os.path.join(OUT_DIR, "icon-512.png"), 512)
-    print("Icônes générées. Remplace-les par de vraies icônes quand tu veux.")
+    # Priorité au vrai logo (icons/logo.png) ; sinon, placeholder « bulle de dialogue ».
+    if from_logo():
+        print("Icônes régénérées depuis icons/logo.png.")
+    else:
+        write_png(os.path.join(OUT_DIR, "icon-192.png"), 192)
+        write_png(os.path.join(OUT_DIR, "icon-512.png"), 512)
+        print("Placeholder généré (aucun icons/logo.png trouvé). Dépose ton logo en icons/logo.png puis relance.")

@@ -3,7 +3,7 @@
 // Audio : Cache First avec repli réseau (les MP3 sont immuables une fois présents).
 
 // ⚠️ Incrémenter la version à CHAQUE changement d'assets pré-cachés (force la MAJ).
-const CACHE = 'darija-vocab-v2';
+const CACHE = 'darija-vocab-v3';
 
 const STATIC_ASSETS = [
   './',
