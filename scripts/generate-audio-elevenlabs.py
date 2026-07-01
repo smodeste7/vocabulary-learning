@@ -21,7 +21,7 @@ Zéro dépendance : uniquement la lib standard Python (urllib).
   python3 scripts/generate-audio-elevenlabs.py --word sal_003   # un seul mot
   python3 scripts/generate-audio-elevenlabs.py --limit 5        # s'arrête après 5 (test)
   python3 scripts/generate-audio-elevenlabs.py --force          # régénère même si présent
-  python3 scripts/generate-audio-elevenlabs.py --examples       # inclut aussi les phrases d'exemple
+  python3 scripts/generate-audio-elevenlabs.py --words-only     # mots seulement (pas les phrases)
 """
 import argparse
 import json
@@ -60,7 +60,7 @@ def collect_items(args):
                 continue
             if w.get("audio_file") and w.get("word_ar"):
                 items.append((w["audio_file"], w["word_ar"], f'{w["id"]} · {w["word_arabizi"]}'))
-            if args.examples:
+            if not args.words_only:
                 for n, ex in enumerate(w.get("examples", []) or []):
                     if ex.get("audio_file") and ex.get("sentence_ar"):
                         items.append((ex["audio_file"], ex["sentence_ar"], f'{w["id"]} ex{n + 1}'))
@@ -114,7 +114,7 @@ def main():
     p = argparse.ArgumentParser(description="Génère les MP3 Darija via ElevenLabs.")
     p.add_argument("--dry-run", action="store_true", help="liste seulement, sans appel API")
     p.add_argument("--force", action="store_true", help="régénère même si le MP3 existe")
-    p.add_argument("--examples", action="store_true", help="inclut les phrases d'exemple (audio_file non null)")
+    p.add_argument("--words-only", action="store_true", help="ne génère que les mots, pas les phrases d'exemple (par défaut : les deux)")
     p.add_argument("--theme", help="limiter à un thème (ex. famille)")
     p.add_argument("--word", help="limiter à un id de mot (ex. sal_003)")
     p.add_argument("--limit", type=int, default=0, help="s'arrêter après N générations (0 = tout)")

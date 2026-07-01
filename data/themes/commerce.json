@@ -13,7 +13,13 @@
         "sentence_ar": "ما عندي فلوس",
         "sentence_arabizi": "ma 3ndi flous",
         "sentence_fr": "Je n'ai pas d'argent",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_001_1.mp3"
+      },
+      {
+        "sentence_ar": "ماعنديش الفلوس",
+        "sentence_arabizi": "ma3ndich lflous",
+        "sentence_fr": "Je n'ai pas d'argent",
+        "audio_file": "audio/commerce/ex_com_001_2.mp3"
       }
     ],
     "notes": "Mot très courant. « lmal » = les richesses, le patrimoine."
@@ -27,7 +33,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/commerce/dderhem.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الدرهم المغربي",
+        "sentence_arabizi": "dderhem lmaghribi",
+        "sentence_fr": "Le dirham marocain",
+        "audio_file": "audio/commerce/ex_com_002_1.mp3"
+      }
+    ],
     "notes": "Monnaie nationale marocaine. Pluriel : « drahem »."
   },
   {
@@ -39,7 +52,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/commerce/ssentime.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "عطاني السنتيم ديالو",
+        "sentence_arabizi": "3tani ssentime dyalo",
+        "sentence_fr": "Il m'a rendu sa monnaie",
+        "audio_file": "audio/commerce/ex_com_003_1.mp3"
+      }
+    ],
     "notes": "100 centimes = 1 dirham. On dit encore les prix en centimes parfois (ex: 50 centimes = 0.5 DH)."
   },
   {
@@ -56,7 +76,7 @@
         "sentence_ar": "شحال هو الثمن؟",
         "sentence_arabizi": "ch7al how ttemn?",
         "sentence_fr": "C'est combien le prix ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_004_1.mp3"
       }
     ],
     "notes": ""
@@ -70,7 +90,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/commerce/chri.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "شري ليا الخبز",
+        "sentence_arabizi": "chri liya lkhobz",
+        "sentence_fr": "Achète-moi le pain",
+        "audio_file": "audio/commerce/ex_com_005_1.mp3"
+      }
+    ],
     "notes": "Impératif de « chra » (acheter)."
   },
   {
@@ -87,7 +114,7 @@
         "sentence_ar": "عطيني الحساب عافاك",
         "sentence_arabizi": "3tini l7sab 3afak",
         "sentence_fr": "L'addition s'il vous plaît",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_006_1.mp3"
       }
     ],
     "notes": ""
@@ -106,7 +133,7 @@
         "sentence_ar": "ما عندكش صرف؟",
         "sentence_arabizi": "ma 3ndekch sarf?",
         "sentence_fr": "Tu n'as pas de monnaie ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_007_1.mp3"
       }
     ],
     "notes": ""
@@ -137,7 +164,7 @@
         "sentence_ar": "كاين تخفيض؟",
         "sentence_arabizi": "kayen tekhfid?",
         "sentence_fr": "Il y a une réduction ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_009_1.mp3"
       }
     ],
     "notes": ""
@@ -192,7 +219,7 @@
         "sentence_ar": "واش كتقبلو الكارطة؟",
         "sentence_arabizi": "wach ktqblo lkarta?",
         "sentence_fr": "Est-ce que vous acceptez la carte ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_013_1.mp3"
       }
     ],
     "notes": ""
@@ -223,7 +250,7 @@
         "sentence_ar": "عطيني كيلو",
         "sentence_arabizi": "3tini kilo",
         "sentence_fr": "Donne-moi un kilo",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_015_1.mp3"
       }
     ],
     "notes": "« kilo » est universellement compris."
@@ -254,7 +281,7 @@
         "sentence_ar": "عندكم شي طماطم؟",
         "sentence_arabizi": "3ndkom chi tomatem?",
         "sentence_fr": "Vous avez des tomates ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_017_1.mp3"
       }
     ],
     "notes": ""
@@ -297,7 +324,7 @@
         "sentence_ar": "عندي بحاجة لواحد الكيس",
         "sentence_arabizi": "3ndi b7aja l wa7ed lkis",
         "sentence_fr": "J'ai besoin d'un sac",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_020_1.mp3"
       }
     ],
     "notes": ""
@@ -376,7 +403,7 @@
         "sentence_ar": "أش الموجود عندكم؟",
         "sentence_arabizi": "ach lmwejoud 3ndkom?",
         "sentence_fr": "Qu'est-ce que vous avez en stock ?",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_026_1.mp3"
       }
     ],
     "notes": ""
@@ -431,7 +458,7 @@
         "sentence_ar": "هاد الشي هدية ليك",
         "sentence_arabizi": "had chi hdiyya lik",
         "sentence_fr": "Ça c'est un cadeau pour toi",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_030_1.mp3"
       }
     ],
     "notes": ""
@@ -546,7 +573,7 @@
         "sentence_ar": "بغيت جوج كيلو ديال المطيشة",
         "sentence_arabizi": "bghit jouj kilo dyal maticha",
         "sentence_fr": "Je veux deux kilos de tomates",
-        "audio_file": null
+        "audio_file": "audio/commerce/ex_com_039_1.mp3"
       }
     ],
     "notes": ""
@@ -692,6 +719,606 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/commerce/rrbe7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_052",
+    "word_ar": "المنتوج",
+    "word_arabizi": "lmantouj",
+    "word_fr": "Le produit",
+    "transliteration": "l-mantûj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmantouj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_053",
+    "word_ar": "الماركة",
+    "word_arabizi": "lmarka",
+    "word_fr": "La marque",
+    "transliteration": "l-mârka",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmarka.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_054",
+    "word_ar": "النوعية",
+    "word_arabizi": "nnaw3iya",
+    "word_fr": "La qualité",
+    "transliteration": "n-naw3îya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/nnaw3iya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_055",
+    "word_ar": "العرض",
+    "word_arabizi": "l3ard",
+    "word_fr": "L'offre / La promo",
+    "transliteration": "l-3ard",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l3ard.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_056",
+    "word_ar": "الغلاء",
+    "word_arabizi": "lghala",
+    "word_fr": "La cherté",
+    "transliteration": "l-ghalâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lghala.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_057",
+    "word_ar": "المشتري",
+    "word_arabizi": "lmochtari",
+    "word_fr": "L'acheteur",
+    "transliteration": "l-mochtarî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmochtari.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_058",
+    "word_ar": "السمسار",
+    "word_arabizi": "ssemsar",
+    "word_fr": "Le courtier / L'intermédiaire",
+    "transliteration": "s-semsâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ssemsar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_059",
+    "word_ar": "الحرفي",
+    "word_arabizi": "l7arfi",
+    "word_fr": "L'artisan",
+    "transliteration": "l-7arfî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l7arfi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_060",
+    "word_ar": "الصنعة",
+    "word_arabizi": "ssn3a",
+    "word_fr": "Le métier / L'artisanat",
+    "transliteration": "s-sn3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ssn3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_061",
+    "word_ar": "الكاش",
+    "word_arabizi": "lkach",
+    "word_fr": "Les espèces",
+    "transliteration": "l-kâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lkach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_062",
+    "word_ar": "الشيك",
+    "word_arabizi": "chchik",
+    "word_fr": "Le chèque",
+    "transliteration": "ch-chîk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/chchik.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_063",
+    "word_ar": "البون",
+    "word_arabizi": "lbon",
+    "word_fr": "Le bon / Le ticket",
+    "transliteration": "l-bôn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lbon.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_064",
+    "word_ar": "المحفظة",
+    "word_arabizi": "lmi7fada",
+    "word_fr": "Le portefeuille",
+    "transliteration": "l-mi7fada",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmi7fada.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_065",
+    "word_ar": "الشكارة",
+    "word_arabizi": "chchkara",
+    "word_fr": "La sacoche / La bourse",
+    "transliteration": "ch-chkâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/chchkara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_066",
+    "word_ar": "الصندوق",
+    "word_arabizi": "ssondoq",
+    "word_fr": "La caisse / Le coffre",
+    "transliteration": "s-sondôq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ssondoq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_067",
+    "word_ar": "الگرام",
+    "word_arabizi": "lgram",
+    "word_fr": "Le gramme",
+    "transliteration": "l-grâm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lgram.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_068",
+    "word_ar": "الليتر",
+    "word_arabizi": "llitr",
+    "word_fr": "Le litre",
+    "transliteration": "l-lîtr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/llitr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_069",
+    "word_ar": "المتر",
+    "word_arabizi": "lmitr",
+    "word_fr": "Le mètre",
+    "transliteration": "l-mîtr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmitr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_070",
+    "word_ar": "الحجم",
+    "word_arabizi": "l7ajm",
+    "word_fr": "La taille / Le volume",
+    "transliteration": "l-7ajm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l7ajm.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_071",
+    "word_ar": "العدد",
+    "word_arabizi": "l3adad",
+    "word_fr": "Le nombre",
+    "transliteration": "l-3adad",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l3adad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_072",
+    "word_ar": "الكمية",
+    "word_arabizi": "lkamiya",
+    "word_fr": "La quantité",
+    "transliteration": "l-kamîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lkamiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_073",
+    "word_ar": "الدزينة",
+    "word_arabizi": "ddzina",
+    "word_fr": "La douzaine",
+    "transliteration": "d-dzîna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ddzina.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_074",
+    "word_ar": "القنطار",
+    "word_arabizi": "lqantar",
+    "word_fr": "Le quintal",
+    "transliteration": "l-qantâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lqantar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_075",
+    "word_ar": "المجاني",
+    "word_arabizi": "lmajjani",
+    "word_fr": "Gratuit",
+    "transliteration": "l-majjânî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmajjani.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_076",
+    "word_ar": "الدفع",
+    "word_arabizi": "ddef3",
+    "word_fr": "Le paiement",
+    "transliteration": "d-def3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ddef3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_077",
+    "word_ar": "التسبيق",
+    "word_arabizi": "ttesbiq",
+    "word_fr": "L'acompte",
+    "transliteration": "t-tesbîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ttesbiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_078",
+    "word_ar": "القرض",
+    "word_arabizi": "lqard",
+    "word_fr": "Le crédit / Le prêt",
+    "transliteration": "l-qard",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lqard.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_079",
+    "word_ar": "الفائدة",
+    "word_arabizi": "lfa2ida",
+    "word_fr": "L'intérêt / L'utilité",
+    "transliteration": "l-fâ'ida",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lfa2ida.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_080",
+    "word_ar": "الضريبة",
+    "word_arabizi": "ddariba",
+    "word_fr": "La taxe / L'impôt",
+    "transliteration": "d-darîba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ddariba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_081",
+    "word_ar": "المزاد",
+    "word_arabizi": "lmzad",
+    "word_fr": "Les enchères",
+    "transliteration": "l-mzâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmzad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_082",
+    "word_ar": "الطلبية",
+    "word_arabizi": "ttalabiya",
+    "word_fr": "La commande",
+    "transliteration": "t-talabîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ttalabiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_083",
+    "word_ar": "التوصيل",
+    "word_arabizi": "ttawsil",
+    "word_fr": "La livraison",
+    "transliteration": "t-tawsîl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ttawsil.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_084",
+    "word_ar": "المخزون",
+    "word_arabizi": "lmakhzoun",
+    "word_fr": "Le stock",
+    "transliteration": "l-makhzûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmakhzoun.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_085",
+    "word_ar": "الواجهة",
+    "word_arabizi": "lwajiha",
+    "word_fr": "La vitrine",
+    "transliteration": "l-wâjiha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lwajiha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_086",
+    "word_ar": "العلبة",
+    "word_arabizi": "l3olba",
+    "word_fr": "La boîte / Le paquet",
+    "transliteration": "l-3olba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l3olba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_087",
+    "word_ar": "القنينة",
+    "word_arabizi": "lqnina",
+    "word_fr": "La bouteille",
+    "transliteration": "l-qnîna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lqnina.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_088",
+    "word_ar": "الأونلاين",
+    "word_arabizi": "lonlayn",
+    "word_fr": "En ligne",
+    "transliteration": "l-ônlâyn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lonlayn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_089",
+    "word_ar": "الموقع",
+    "word_arabizi": "lmawqi3",
+    "word_fr": "Le site web",
+    "transliteration": "l-mawqi3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmawqi3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_090",
+    "word_ar": "التطبيق",
+    "word_arabizi": "ttatbiq",
+    "word_fr": "L'application",
+    "transliteration": "t-tatbîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ttatbiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_091",
+    "word_ar": "الكود",
+    "word_arabizi": "lkod",
+    "word_fr": "Le code",
+    "transliteration": "l-kôd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lkod.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_092",
+    "word_ar": "الصراف",
+    "word_arabizi": "ssarraf",
+    "word_fr": "Le distributeur / Le changeur",
+    "transliteration": "s-sarrâf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ssarraf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_093",
+    "word_ar": "المصروف",
+    "word_arabizi": "lmasrouf",
+    "word_fr": "Les dépenses / L'argent de poche",
+    "transliteration": "l-masrûf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmasrouf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_094",
+    "word_ar": "الميزانية",
+    "word_arabizi": "lmizaniya",
+    "word_fr": "Le budget",
+    "transliteration": "l-mîzânîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmizaniya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_095",
+    "word_ar": "الدخل",
+    "word_arabizi": "ddakhl",
+    "word_fr": "Le revenu",
+    "transliteration": "d-dakhl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/ddakhl.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_096",
+    "word_ar": "الراتب",
+    "word_arabizi": "rratib",
+    "word_fr": "Le salaire (fixe)",
+    "transliteration": "r-râtib",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/rratib.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_097",
+    "word_ar": "العمولة",
+    "word_arabizi": "l3omoula",
+    "word_fr": "La commission",
+    "transliteration": "l-3omûla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/l3omoula.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_098",
+    "word_ar": "الثروة",
+    "word_arabizi": "tharwa",
+    "word_fr": "La fortune / La richesse",
+    "transliteration": "t-harwa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/tharwa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_099",
+    "word_ar": "الفقر",
+    "word_arabizi": "lfaqr",
+    "word_fr": "La pauvreté",
+    "transliteration": "l-faqr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lfaqr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_100",
+    "word_ar": "السعر",
+    "word_arabizi": "sse3r",
+    "word_fr": "Le prix / Le tarif",
+    "transliteration": "s-se3r",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/sse3r.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "com_101",
+    "word_ar": "المتجر",
+    "word_arabizi": "lmatjar",
+    "word_fr": "Le magasin",
+    "transliteration": "l-matjar",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/commerce/lmatjar.mp3",
     "examples": [],
     "notes": ""
   }

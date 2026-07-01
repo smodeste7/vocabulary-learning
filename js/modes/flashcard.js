@@ -93,7 +93,10 @@ function runSession(session, title, backHref) {
         ]),
         el('button', { class: 'btn', onclick: (e) => { e.stopPropagation(); playWord(w.audio_file, w.word_ar); } }, '🔊 Écouter'),
         example ? el('div', { class: 'fc-example' }, [
-          el('p', { class: 'ar', text: example.sentence_ar }),
+          el('div', { class: 'ex-top' }, [
+            el('p', { class: 'ar', text: example.sentence_ar }),
+            el('button', { class: 'mini-audio', 'aria-label': 'Écouter la phrase', onclick: (e) => { e.stopPropagation(); playWord(example.audio_file, example.sentence_ar); } }, '🔊'),
+          ]),
           el('p', { class: 'ex-fr', text: example.sentence_fr }),
         ]) : null,
         el('p', { class: 'fc-hint', text: 'Swipe ← à revoir · → je savais' }),

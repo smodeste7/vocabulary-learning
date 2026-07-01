@@ -13,7 +13,7 @@
         "sentence_ar": "هاد الشي مزيان بزاف",
         "sentence_arabizi": "had chi mzyan bzzaf",
         "sentence_fr": "C'est vraiment bien",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_001_1.mp3"
       }
     ],
     "notes": "Féminin : « mzyana ». Un des mots les plus polyvalents du Darija."
@@ -27,7 +27,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/adjectifs/mchi_mzyan.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "هاد الشي مش مزيان",
+        "sentence_arabizi": "had chi mchi mzyan",
+        "sentence_fr": "Ce n'est pas bien",
+        "audio_file": "audio/adjectifs/ex_adj_002_1.mp3"
+      }
+    ],
     "notes": "La négation de mzyan. On dit aussi « khayb »."
   },
   {
@@ -39,7 +46,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/adjectifs/kbir.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الراجل كبير فالعمر",
+        "sentence_arabizi": "rrajel kbir f l3omr",
+        "sentence_fr": "L'homme est âgé",
+        "audio_file": "audio/adjectifs/ex_adj_003_1.mp3"
+      }
+    ],
     "notes": "Féminin : « kbira ». Pluriel : « kbar »."
   },
   {
@@ -51,7 +65,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/adjectifs/sghir.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الطفل صغير",
+        "sentence_arabizi": "ttfl sghir",
+        "sentence_fr": "L'enfant est petit",
+        "audio_file": "audio/adjectifs/ex_adj_004_1.mp3"
+      }
+    ],
     "notes": "Féminin : « sghira ». Pluriel : « sghar »."
   },
   {
@@ -63,7 +84,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/adjectifs/jdid.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "شريت تيليفون جديد",
+        "sentence_arabizi": "chrit tilifon jdid",
+        "sentence_fr": "J'ai acheté un nouveau téléphone",
+        "audio_file": "audio/adjectifs/ex_adj_005_1.mp3"
+      }
+    ],
     "notes": "Féminin : « jdida »."
   },
   {
@@ -92,7 +120,7 @@
         "sentence_ar": "هاد الشي غالي بزاف",
         "sentence_arabizi": "had chi ghali bzzaf",
         "sentence_fr": "C'est très cher",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_007_1.mp3"
       }
     ],
     "notes": "Féminin : « ghalia »."
@@ -171,7 +199,7 @@
         "sentence_ar": "بنت حلوة",
         "sentence_arabizi": "bent 7lwa",
         "sentence_fr": "Une belle fille",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_013_1.mp3"
       }
     ],
     "notes": "Féminin : « 7lwa ». Très polyvalent."
@@ -226,7 +254,7 @@
         "sentence_ar": "أنا 3iani بزاف",
         "sentence_arabizi": "ana 3yani bzzaf",
         "sentence_fr": "Je suis très fatigué",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_017_1.mp3"
       }
     ],
     "notes": "Féminin : « 3yana »."
@@ -317,7 +345,7 @@
         "sentence_ar": "علاش زعفان هكذا؟",
         "sentence_arabizi": "3lach z3fan hkda?",
         "sentence_fr": "Pourquoi tu es aussi en colère ?",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_024_1.mp3"
       }
     ],
     "notes": "Féminin : « z3fana »."
@@ -384,7 +412,7 @@
         "sentence_ar": "واش عندك وقت فارغ؟",
         "sentence_arabizi": "wach 3ndak wqt fargh?",
         "sentence_fr": "Tu as du temps libre ?",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_029_1.mp3"
       }
     ],
     "notes": ""
@@ -463,7 +491,7 @@
         "sentence_ar": "كاين شي ناقص",
         "sentence_arabizi": "kayen chi naqes",
         "sentence_fr": "Il manque quelque chose",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_035_1.mp3"
       }
     ],
     "notes": ""
@@ -518,7 +546,7 @@
         "sentence_ar": "3adi, ma kainch mochkil",
         "sentence_arabizi": "3adi, ma kaynach mochkil",
         "sentence_fr": "C'est normal, pas de problème",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_039_1.mp3"
       }
     ],
     "notes": ""
@@ -597,7 +625,7 @@
         "sentence_ar": "الحمد لله، بريت",
         "sentence_arabizi": "l7amdoulah, brit",
         "sentence_fr": "Dieu merci, je suis guéri",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_045_1.mp3"
       }
     ],
     "notes": ""
@@ -760,7 +788,7 @@
         "sentence_ar": "هاد البلاصة زوينة",
         "sentence_arabizi": "had lblasa zwina",
         "sentence_fr": "Cet endroit est joli",
-        "audio_file": null
+        "audio_file": "audio/adjectifs/ex_adj_058_1.mp3"
       }
     ],
     "notes": "Féminin « zwina ». Très courant."
@@ -942,6 +970,606 @@
     "register": "familier",
     "difficulty": 2,
     "audio_file": "audio/adjectifs/mezroub.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_074",
+    "word_ar": "واعر",
+    "word_arabizi": "wa3r",
+    "word_fr": "Génial / Costaud",
+    "transliteration": "wâ3r",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/wa3r.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_075",
+    "word_ar": "خايب",
+    "word_arabizi": "khayb",
+    "word_fr": "Mauvais / Moche",
+    "transliteration": "khâyb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/khayb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_076",
+    "word_ar": "رزين",
+    "word_arabizi": "rzin",
+    "word_fr": "Posé / Sérieux",
+    "transliteration": "rzîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/rzin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_077",
+    "word_ar": "طايب",
+    "word_arabizi": "tayb",
+    "word_fr": "Cuit / Mûr",
+    "transliteration": "tâyb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/tayb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_078",
+    "word_ar": "ناشف",
+    "word_arabizi": "nachef",
+    "word_fr": "Sec / Sévère",
+    "transliteration": "nâchef",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/nachef.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_079",
+    "word_ar": "لين",
+    "word_arabizi": "lyyen",
+    "word_fr": "Souple / Mou",
+    "transliteration": "lyyen",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/lyyen.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_080",
+    "word_ar": "قاسح",
+    "word_arabizi": "qase7",
+    "word_fr": "Dur / Rigide",
+    "transliteration": "qâse7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/qase7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_081",
+    "word_ar": "حاد",
+    "word_arabizi": "7add",
+    "word_fr": "Tranchant / Vif",
+    "transliteration": "7âdd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/7add.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_082",
+    "word_ar": "مدور",
+    "word_arabizi": "mdewwer",
+    "word_fr": "Rond",
+    "transliteration": "mdewwer",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mdewwer.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_083",
+    "word_ar": "مربع",
+    "word_arabizi": "mrebbe3",
+    "word_fr": "Carré",
+    "transliteration": "mrebbe3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mrebbe3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_084",
+    "word_ar": "معوج",
+    "word_arabizi": "m3ewwej",
+    "word_fr": "Tordu / Courbé",
+    "transliteration": "m3ewwej",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/m3ewwej.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_085",
+    "word_ar": "زائد",
+    "word_arabizi": "za2ed",
+    "word_fr": "En trop / Excédentaire",
+    "transliteration": "zâ'ed",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/za2ed.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_086",
+    "word_ar": "كافي",
+    "word_arabizi": "kafi",
+    "word_fr": "Suffisant",
+    "transliteration": "kâfî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/kafi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_087",
+    "word_ar": "فاتر",
+    "word_arabizi": "fater",
+    "word_fr": "Tiède",
+    "transliteration": "fâter",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/fater.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_088",
+    "word_ar": "حامي",
+    "word_arabizi": "7ami",
+    "word_fr": "Brûlant",
+    "transliteration": "7âmî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/7ami.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_089",
+    "word_ar": "نقي",
+    "word_arabizi": "nqi",
+    "word_fr": "Pur",
+    "transliteration": "nqî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/nqi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_090",
+    "word_ar": "عكر",
+    "word_arabizi": "3ker",
+    "word_fr": "Trouble / Sale (liquide)",
+    "transliteration": "3ker",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3ker.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_091",
+    "word_ar": "مر",
+    "word_arabizi": "morr",
+    "word_fr": "Amer",
+    "transliteration": "morr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/morr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_092",
+    "word_ar": "حامض",
+    "word_arabizi": "7amed",
+    "word_fr": "Acide / Aigre",
+    "transliteration": "7âmed",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/7amed.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_093",
+    "word_ar": "طري",
+    "word_arabizi": "tri",
+    "word_fr": "Frais / Tendre",
+    "transliteration": "trî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/tri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_094",
+    "word_ar": "بايت",
+    "word_arabizi": "bayet",
+    "word_fr": "Rassis / De la veille",
+    "transliteration": "bâyet",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/bayet.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_095",
+    "word_ar": "فاسد",
+    "word_arabizi": "fased",
+    "word_fr": "Avarié / Pourri",
+    "transliteration": "fâsed",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/fased.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_096",
+    "word_ar": "جميل",
+    "word_arabizi": "jmil",
+    "word_fr": "Beau (soutenu)",
+    "transliteration": "jmîl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/jmil.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_097",
+    "word_ar": "وسيم",
+    "word_arabizi": "wsim",
+    "word_fr": "Beau (homme)",
+    "transliteration": "wsîm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/wsim.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_098",
+    "word_ar": "شين",
+    "word_arabizi": "chin",
+    "word_fr": "Laid (familier)",
+    "transliteration": "chîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/chin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_099",
+    "word_ar": "عريض",
+    "word_arabizi": "3rid",
+    "word_fr": "Large",
+    "transliteration": "3rîd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3rid.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_100",
+    "word_ar": "سميك",
+    "word_arabizi": "smik",
+    "word_fr": "Épais",
+    "transliteration": "smîk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/smik.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_101",
+    "word_ar": "عميق",
+    "word_arabizi": "3miq",
+    "word_fr": "Profond",
+    "transliteration": "3mîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3miq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_102",
+    "word_ar": "عتيق",
+    "word_arabizi": "3tiq",
+    "word_fr": "Antique",
+    "transliteration": "3tîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3tiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_103",
+    "word_ar": "حديث",
+    "word_arabizi": "7dit",
+    "word_fr": "Moderne / Récent",
+    "transliteration": "7dît",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/7dit.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_104",
+    "word_ar": "عصري",
+    "word_arabizi": "3asri",
+    "word_fr": "Moderne",
+    "transliteration": "3asrî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3asri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_105",
+    "word_ar": "تقليدي",
+    "word_arabizi": "taqlidi",
+    "word_fr": "Traditionnel",
+    "transliteration": "taqlîdî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/taqlidi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_106",
+    "word_ar": "طبيعي",
+    "word_arabizi": "tabi3i",
+    "word_fr": "Naturel",
+    "transliteration": "tabî3î",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/tabi3i.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_107",
+    "word_ar": "اصطناعي",
+    "word_arabizi": "istina3i",
+    "word_fr": "Artificiel",
+    "transliteration": "istinâ3î",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/istina3i.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_108",
+    "word_ar": "حقيقي",
+    "word_arabizi": "7qiqi",
+    "word_fr": "Réel / Vrai",
+    "transliteration": "7qîqî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/7qiqi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_109",
+    "word_ar": "مزيف",
+    "word_arabizi": "mzeyyef",
+    "word_fr": "Faux / Contrefait",
+    "transliteration": "mzeyyef",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mzeyyef.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_110",
+    "word_ar": "مشترك",
+    "word_arabizi": "mochtarak",
+    "word_fr": "Commun / Partagé",
+    "transliteration": "mochtarak",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mochtarak.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_111",
+    "word_ar": "وحيد",
+    "word_arabizi": "w7id",
+    "word_fr": "Seul / Unique",
+    "transliteration": "w7îd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/w7id.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_112",
+    "word_ar": "متزوج",
+    "word_arabizi": "mtzewwej",
+    "word_fr": "Marié",
+    "transliteration": "mtzewwej",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mtzewwej.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_113",
+    "word_ar": "عازب",
+    "word_arabizi": "3azeb",
+    "word_fr": "Célibataire",
+    "transliteration": "3âzeb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3azeb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_114",
+    "word_ar": "شاب",
+    "word_arabizi": "chab",
+    "word_fr": "Jeune",
+    "transliteration": "châb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/chab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_115",
+    "word_ar": "سعيد",
+    "word_arabizi": "s3id",
+    "word_fr": "Heureux",
+    "transliteration": "s3îd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/s3id.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_116",
+    "word_ar": "تعيس",
+    "word_arabizi": "t3is",
+    "word_fr": "Malheureux",
+    "transliteration": "t3îs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/t3is.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_117",
+    "word_ar": "محظوظ",
+    "word_arabizi": "ma7dod",
+    "word_fr": "Chanceux",
+    "transliteration": "ma7dôd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/ma7dod.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_118",
+    "word_ar": "ذكي",
+    "word_arabizi": "dki",
+    "word_fr": "Intelligent",
+    "transliteration": "dkî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/dki.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_119",
+    "word_ar": "غبي",
+    "word_arabizi": "ghbi",
+    "word_fr": "Bête / Idiot",
+    "transliteration": "ghbî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/ghbi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_120",
+    "word_ar": "مجتهد",
+    "word_arabizi": "mjtahed",
+    "word_fr": "Assidu / Travailleur",
+    "transliteration": "mjtâhed",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/mjtahed.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_121",
+    "word_ar": "صبور",
+    "word_arabizi": "sbour",
+    "word_fr": "Patient",
+    "transliteration": "sbûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/sbour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_122",
+    "word_ar": "عصبي",
+    "word_arabizi": "3asabi",
+    "word_fr": "Nerveux / Colérique",
+    "transliteration": "3asabî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/3asabi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "adj_123",
+    "word_ar": "لطيف",
+    "word_arabizi": "ltif",
+    "word_fr": "Gentil / Agréable",
+    "transliteration": "ltîf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/adjectifs/ltif.mp3",
     "examples": [],
     "notes": ""
   }

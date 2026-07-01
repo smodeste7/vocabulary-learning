@@ -260,7 +260,17 @@ body { min-height: 100dvh; }
 .fc-actions .nope { background: var(--neg); border-color: var(--neg); color: #2a0808; }
 
 /* ── Quiz / Boss ── */
-.quiz-type { display: grid; gap: 12px; }
+.quiz-type { display: grid; gap: 10px; }
+.quiz-group-label { color: var(--gold); font-size: 0.8rem; font-weight: 700; letter-spacing: 0.04em; margin: 14px 0 2px; }
+.quiz-topbar { display: flex; justify-content: flex-end; margin-bottom: 8px; }
+.quit-btn {
+  background: transparent; border: 1px solid #ffffff22; color: var(--muted);
+  border-radius: 999px; padding: 6px 14px; font-size: 0.82rem; font-weight: 600;
+  cursor: pointer; text-decoration: none; transition: transform 0.1s, color 0.15s;
+}
+.quit-btn:active { transform: scale(0.95); }
+.quit-btn:hover { color: var(--neg); border-color: var(--neg); }
+.cloze-latin { font-family: system-ui, sans-serif !important; direction: ltr; font-size: 1.4rem !important; color: var(--gold); }
 .quiz-head { display: flex; justify-content: space-between; color: var(--muted); margin-bottom: 14px; font-variant-numeric: tabular-nums; }
 .boss-head { font-size: 1.05rem; }
 .boss-head .err { color: var(--neg); }

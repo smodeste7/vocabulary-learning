@@ -8,7 +8,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/emotions/lfar7a.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الفرحة باينة فوجهو",
+        "sentence_arabizi": "lfar7a bayna f wjho",
+        "sentence_fr": "La joie se voit sur son visage",
+        "audio_file": "audio/emotions/ex_emo_001_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -20,7 +27,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/emotions/l7ozn.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الحزن كبير",
+        "sentence_arabizi": "l7ozn kbir",
+        "sentence_fr": "La tristesse est grande",
+        "audio_file": "audio/emotions/ex_emo_002_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -32,7 +46,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/emotions/lghodb.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الغضب مش مزيان",
+        "sentence_arabizi": "lghodb mchi mzyan",
+        "sentence_fr": "La colère n'est pas bonne",
+        "audio_file": "audio/emotions/ex_emo_003_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -44,7 +65,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/emotions/lkhof.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الخوف طبيعي",
+        "sentence_arabizi": "lkhof tabi3i",
+        "sentence_fr": "La peur est naturelle",
+        "audio_file": "audio/emotions/ex_emo_004_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -61,7 +89,7 @@
         "sentence_ar": "ما تهمش",
         "sentence_arabizi": "ma themmch",
         "sentence_fr": "Ne t'en fais pas / Ne t'inquiète pas",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_005_1.mp3"
       }
     ],
     "notes": "« ma themmch » est une expression très utilisée pour rassurer."
@@ -80,7 +108,7 @@
         "sentence_ar": "عندك الزهر!",
         "sentence_arabizi": "3ndak zaher!",
         "sentence_fr": "Tu as de la chance !",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_006_1.mp3"
       }
     ],
     "notes": ""
@@ -99,7 +127,7 @@
         "sentence_ar": "فيه مشكل؟",
         "sentence_arabizi": "fih mochkil?",
         "sentence_fr": "Il y a un problème ?",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_007_1.mp3"
       }
     ],
     "notes": ""
@@ -130,7 +158,7 @@
         "sentence_ar": "راسي مقلوب",
         "sentence_arabizi": "rasi meqlub",
         "sentence_fr": "J'ai la tête à l'envers (je suis stressé)",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_009_1.mp3"
       }
     ],
     "notes": ""
@@ -185,7 +213,7 @@
         "sentence_ar": "أنا مرتاح هنا",
         "sentence_arabizi": "ana merta7 hna",
         "sentence_fr": "Je suis à l'aise ici",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_013_1.mp3"
       }
     ],
     "notes": ""
@@ -240,7 +268,7 @@
         "sentence_ar": "الحياة واعرة",
         "sentence_arabizi": "l7yat wa3ra",
         "sentence_fr": "La vie est dure",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_017_1.mp3"
       }
     ],
     "notes": "Féminin : « wa3ra »."
@@ -259,7 +287,7 @@
         "sentence_ar": "مشتاق ليك",
         "sentence_arabizi": "mechtak lik",
         "sentence_fr": "Tu me manques",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_018_1.mp3"
       }
     ],
     "notes": "Expression pour dire que quelqu'un nous manque."
@@ -302,7 +330,7 @@
         "sentence_ar": "كرهت هاد الشي",
         "sentence_arabizi": "krht had chi",
         "sentence_fr": "J'en ai marre de ça",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_021_1.mp3"
       }
     ],
     "notes": ""
@@ -321,7 +349,7 @@
         "sentence_ar": "الصبر مفتاح الفرج",
         "sentence_arabizi": "ssobr mfta7 lfaraj",
         "sentence_fr": "La patience est la clé de la délivrance",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_022_1.mp3"
       }
     ],
     "notes": "Proverbe très courant."
@@ -412,7 +440,7 @@
         "sentence_ar": "ما عندي نفس",
         "sentence_arabizi": "ma 3ndi nefs",
         "sentence_fr": "Je n'ai pas envie",
-        "audio_file": null
+        "audio_file": "audio/emotions/ex_emo_029_1.mp3"
       }
     ],
     "notes": "« ma 3ndi nefs » = je n'ai pas envie / je suis sans entrain."
@@ -618,6 +646,546 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/emotions/lqleq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_047",
+    "word_ar": "الغيرة",
+    "word_arabizi": "lghira",
+    "word_fr": "La jalousie",
+    "transliteration": "l-ghîra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lghira.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_048",
+    "word_ar": "الكراهية",
+    "word_arabizi": "lkrahiya",
+    "word_fr": "La haine",
+    "transliteration": "l-krâhiya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lkrahiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_049",
+    "word_ar": "السعادة",
+    "word_arabizi": "ssa3ada",
+    "word_fr": "Le bonheur",
+    "transliteration": "s-sa3âda",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ssa3ada.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_050",
+    "word_ar": "البهجة",
+    "word_arabizi": "lbahja",
+    "word_fr": "La gaieté",
+    "transliteration": "l-bahja",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lbahja.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_051",
+    "word_ar": "السرور",
+    "word_arabizi": "ssorour",
+    "word_fr": "La joie / Le plaisir",
+    "transliteration": "s-sorûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ssorour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_052",
+    "word_ar": "الرضا",
+    "word_arabizi": "rrida",
+    "word_fr": "La satisfaction",
+    "transliteration": "r-ridâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/rrida.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_053",
+    "word_ar": "الطمأنينة",
+    "word_arabizi": "ttma2nina",
+    "word_fr": "La sérénité",
+    "transliteration": "t-tma'nîna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttma2nina.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_054",
+    "word_ar": "التوتر",
+    "word_arabizi": "ttawattor",
+    "word_fr": "Le stress / La tension",
+    "transliteration": "t-tawattor",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttawattor.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_055",
+    "word_ar": "اليأس",
+    "word_arabizi": "lyeas",
+    "word_fr": "Le désespoir",
+    "transliteration": "l-ye'âs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lyeas.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_056",
+    "word_ar": "الإحباط",
+    "word_arabizi": "l2i7bat",
+    "word_fr": "La frustration",
+    "transliteration": "l-i7bât",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l2i7bat.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_057",
+    "word_ar": "الحسرة",
+    "word_arabizi": "l7asra",
+    "word_fr": "Le regret / La nostalgie",
+    "transliteration": "l-7asra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7asra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_058",
+    "word_ar": "الندامة",
+    "word_arabizi": "nndama",
+    "word_fr": "Le remords",
+    "transliteration": "n-nadâma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/nndama.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_059",
+    "word_ar": "الخجل",
+    "word_arabizi": "lkhajal",
+    "word_fr": "La timidité",
+    "transliteration": "l-khajal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lkhajal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_060",
+    "word_ar": "الفخر",
+    "word_arabizi": "lfakhr",
+    "word_fr": "La fierté",
+    "transliteration": "l-fakhr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lfakhr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_061",
+    "word_ar": "الكبر",
+    "word_arabizi": "lkibr",
+    "word_fr": "L'orgueil",
+    "transliteration": "l-kibr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lkibr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_062",
+    "word_ar": "التواضع",
+    "word_arabizi": "ttawado3",
+    "word_fr": "L'humilité",
+    "transliteration": "t-tawâdo3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttawado3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_063",
+    "word_ar": "الشجاعة",
+    "word_arabizi": "chchaja3a",
+    "word_fr": "Le courage",
+    "transliteration": "ch-chajâ3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/chchaja3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_064",
+    "word_ar": "الجبن",
+    "word_arabizi": "ljobn",
+    "word_fr": "La lâcheté",
+    "transliteration": "l-jobn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ljobn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_065",
+    "word_ar": "الحماس",
+    "word_arabizi": "l7amas",
+    "word_fr": "L'enthousiasme",
+    "transliteration": "l-7amâs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7amas.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_066",
+    "word_ar": "الملل",
+    "word_arabizi": "lmalal",
+    "word_fr": "L'ennui",
+    "transliteration": "l-malal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lmalal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_067",
+    "word_ar": "القهر",
+    "word_arabizi": "lqahr",
+    "word_fr": "L'amertume / L'oppression",
+    "transliteration": "l-qahr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lqahr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_068",
+    "word_ar": "الصدمة",
+    "word_arabizi": "ssadma",
+    "word_fr": "Le choc",
+    "transliteration": "s-sadma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ssadma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_069",
+    "word_ar": "الدهشة",
+    "word_arabizi": "ddahcha",
+    "word_fr": "L'étonnement",
+    "transliteration": "d-dahcha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ddahcha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_070",
+    "word_ar": "الفزع",
+    "word_arabizi": "lfaza3",
+    "word_fr": "L'effroi",
+    "transliteration": "l-faza3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lfaza3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_071",
+    "word_ar": "الوسواس",
+    "word_arabizi": "lwaswas",
+    "word_fr": "L'angoisse obsessionnelle",
+    "transliteration": "l-waswâs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lwaswas.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_072",
+    "word_ar": "العاطفة",
+    "word_arabizi": "l3atifa",
+    "word_fr": "L'émotion / Le sentiment",
+    "transliteration": "l-3âtifa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l3atifa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_073",
+    "word_ar": "الشعور",
+    "word_arabizi": "chchu3our",
+    "word_fr": "Le sentiment",
+    "transliteration": "ch-cho3ûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/chchu3our.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_074",
+    "word_ar": "الإحساس",
+    "word_arabizi": "l2i7sas",
+    "word_fr": "La sensation",
+    "transliteration": "l-i7sâs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l2i7sas.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_075",
+    "word_ar": "المزاج",
+    "word_arabizi": "lmazaj",
+    "word_fr": "L'humeur",
+    "transliteration": "l-mazâj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lmazaj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_076",
+    "word_ar": "الطبع",
+    "word_arabizi": "ttab3",
+    "word_fr": "Le tempérament",
+    "transliteration": "t-tab3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttab3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_077",
+    "word_ar": "النفسية",
+    "word_arabizi": "nnafsiya",
+    "word_fr": "Le moral / L'état d'esprit",
+    "transliteration": "n-nafsîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/nnafsiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_078",
+    "word_ar": "الضمير",
+    "word_arabizi": "ddamir",
+    "word_fr": "La conscience",
+    "transliteration": "d-damîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ddamir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_079",
+    "word_ar": "التفكير",
+    "word_arabizi": "ttafkir",
+    "word_fr": "La réflexion",
+    "transliteration": "t-tafkîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttafkir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_080",
+    "word_ar": "الشك",
+    "word_arabizi": "chchakk",
+    "word_fr": "Le doute",
+    "transliteration": "ch-chakk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/chchakk.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_081",
+    "word_ar": "اليقين",
+    "word_arabizi": "lyaqin",
+    "word_fr": "La certitude",
+    "transliteration": "l-yaqîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lyaqin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_082",
+    "word_ar": "التفاؤل",
+    "word_arabizi": "ttafa2ol",
+    "word_fr": "L'optimisme",
+    "transliteration": "t-tafâ'ol",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttafa2ol.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_083",
+    "word_ar": "التشاؤم",
+    "word_arabizi": "ttacha2om",
+    "word_fr": "Le pessimisme",
+    "transliteration": "t-tachâ'om",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttacha2om.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_084",
+    "word_ar": "الولاء",
+    "word_arabizi": "lwala2",
+    "word_fr": "La loyauté",
+    "transliteration": "l-walâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lwala2.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_085",
+    "word_ar": "الغدر",
+    "word_arabizi": "lghadr",
+    "word_fr": "La traîtrise",
+    "transliteration": "l-ghadr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lghadr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_086",
+    "word_ar": "التسامح",
+    "word_arabizi": "ttsame7",
+    "word_fr": "La tolérance / Le pardon",
+    "transliteration": "t-tsâme7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/ttsame7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_087",
+    "word_ar": "الحقد",
+    "word_arabizi": "l7iqd",
+    "word_fr": "La rancune",
+    "transliteration": "l-7iqd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7iqd.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_088",
+    "word_ar": "الشفقة",
+    "word_arabizi": "chchafaqa",
+    "word_fr": "La compassion",
+    "transliteration": "ch-chafaqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/chchafaqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_089",
+    "word_ar": "الرحمة",
+    "word_arabizi": "rra7ma",
+    "word_fr": "La miséricorde",
+    "transliteration": "r-ra7ma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/rra7ma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_090",
+    "word_ar": "الحنين",
+    "word_arabizi": "l7anin",
+    "word_fr": "La nostalgie",
+    "transliteration": "l-7anîn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/l7anin.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "emo_091",
+    "word_ar": "الهنا",
+    "word_arabizi": "lhana",
+    "word_fr": "La quiétude / Le bien-être",
+    "transliteration": "l-hanâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/emotions/lhana.mp3",
     "examples": [],
     "notes": ""
   }

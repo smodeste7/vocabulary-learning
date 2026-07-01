@@ -8,7 +8,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/l7wayej.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "غسلت الحوايج",
+        "sentence_arabizi": "ghselt l7wayej",
+        "sentence_fr": "J'ai lavé les vêtements",
+        "audio_file": "audio/vetements/ex_vet_001_1.mp3"
+      }
+    ],
     "notes": "Mot très courant pour désigner les vêtements en général."
   },
   {
@@ -20,7 +27,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/lqmija.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "القميجة بيضا",
+        "sentence_arabizi": "lqmija byda",
+        "sentence_fr": "La chemise est blanche",
+        "audio_file": "audio/vetements/ex_vet_002_1.mp3"
+      }
+    ],
     "notes": "Désigne aussi bien une chemise qu'un t-shirt."
   },
   {
@@ -32,7 +46,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/ljakita.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "لبست الجاكيطة",
+        "sentence_arabizi": "lbest ljakita",
+        "sentence_fr": "J'ai mis la veste",
+        "audio_file": "audio/vetements/ex_vet_003_1.mp3"
+      }
+    ],
     "notes": "De l'espagnol « chaqueta »."
   },
   {
@@ -44,7 +65,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/sserwal.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "السروال طويل",
+        "sentence_arabizi": "sserwal twil",
+        "sentence_fr": "Le pantalon est long",
+        "audio_file": "audio/vetements/ex_vet_004_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -56,7 +84,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/vetements/ttanura.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "التنورة قصيرة",
+        "sentence_arabizi": "ttanura qsira",
+        "sentence_fr": "La jupe est courte",
+        "audio_file": "audio/vetements/ex_vet_005_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -68,7 +103,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/robe.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الروب ديالها زوين",
+        "sentence_arabizi": "robe dyalha zwin",
+        "sentence_fr": "Sa robe est jolie",
+        "audio_file": "audio/vetements/ex_vet_006_1.mp3"
+      }
+    ],
     "notes": "Du français « robe »."
   },
   {
@@ -80,7 +122,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/vetements/ssbadril.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "السبادريل ديالي جداد",
+        "sentence_arabizi": "ssbadril dyali jdad",
+        "sentence_fr": "Mes baskets sont neuves",
+        "audio_file": "audio/vetements/ex_vet_007_1.mp3"
+      }
+    ],
     "notes": "De l'espagnol « alpargatas ». On dit aussi « sport »."
   },
   {
@@ -92,7 +141,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/vetements/ssbabt.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الصبابط مزيانين",
+        "sentence_arabizi": "ssbabt mzyanin",
+        "sentence_fr": "Les chaussures sont bien",
+        "audio_file": "audio/vetements/ex_vet_008_1.mp3"
+      }
+    ],
     "notes": "Singulier : « sebbt »."
   },
   {
@@ -104,7 +160,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/vetements/lblgha.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "لابس البلغة",
+        "sentence_arabizi": "labes lblgha",
+        "sentence_fr": "Il porte des babouches",
+        "audio_file": "audio/vetements/ex_vet_009_1.mp3"
+      }
+    ],
     "notes": "Chaussure traditionnelle marocaine en cuir. Très identitaire."
   },
   {
@@ -265,7 +328,7 @@
         "sentence_ar": "لابس القميجة الزرقة",
         "sentence_arabizi": "labes lqmija zzarqe",
         "sentence_fr": "Il porte la chemise bleue",
-        "audio_file": null
+        "audio_file": "audio/vetements/ex_vet_022_1.mp3"
       }
     ],
     "notes": "Féminin : « labsa »."
@@ -296,7 +359,7 @@
         "sentence_ar": "أش هو قياسك؟",
         "sentence_arabizi": "ach how qyasek?",
         "sentence_fr": "C'est quelle taille pour toi ?",
-        "audio_file": null
+        "audio_file": "audio/vetements/ex_vet_024_1.mp3"
       }
     ],
     "notes": ""
@@ -315,7 +378,7 @@
         "sentence_ar": "هاد لقميجة ما مناسباش",
         "sentence_arabizi": "had lqmija ma mnasbatch",
         "sentence_fr": "Cette chemise ne me convient pas",
-        "audio_file": null
+        "audio_file": "audio/vetements/ex_vet_025_1.mp3"
       }
     ],
     "notes": ""
@@ -487,5 +550,545 @@
     "audio_file": "audio/vetements/lqachaba.mp3",
     "examples": [],
     "notes": "Vêtement long et léger pour homme."
+  },
+  {
+    "id": "vet_040",
+    "word_ar": "التيشورت",
+    "word_arabizi": "ttichort",
+    "word_fr": "Le t-shirt",
+    "transliteration": "t-tîchôrt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ttichort.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_041",
+    "word_ar": "البولو",
+    "word_arabizi": "lpolo",
+    "word_fr": "Le polo",
+    "transliteration": "l-pôlô",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lpolo.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_042",
+    "word_ar": "الشورت",
+    "word_arabizi": "chort",
+    "word_fr": "Le short",
+    "transliteration": "chôrt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/chort.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_043",
+    "word_ar": "الجينز",
+    "word_arabizi": "ljinz",
+    "word_fr": "Le jean",
+    "transliteration": "l-jînz",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ljinz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_044",
+    "word_ar": "الكوسطيم",
+    "word_arabizi": "lkostim",
+    "word_fr": "Le costume",
+    "transliteration": "l-kostîm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkostim.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_045",
+    "word_ar": "البدلة",
+    "word_arabizi": "lbedla",
+    "word_fr": "La tenue / Le costume",
+    "transliteration": "l-bedla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lbedla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_046",
+    "word_ar": "البلوزة",
+    "word_arabizi": "lblouza",
+    "word_fr": "La blouse / Le haut",
+    "transliteration": "l-blûza",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lblouza.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_047",
+    "word_ar": "الصدرية",
+    "word_arabizi": "ssodriya",
+    "word_fr": "Le gilet",
+    "transliteration": "s-sodrîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ssodriya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_048",
+    "word_ar": "العمامة",
+    "word_arabizi": "l3mama",
+    "word_fr": "Le turban",
+    "transliteration": "l-3mâma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l3mama.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_049",
+    "word_ar": "الشاش",
+    "word_arabizi": "chchach",
+    "word_fr": "Le turban / La gaze",
+    "transliteration": "ch-châch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/chchach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_050",
+    "word_ar": "الحايك",
+    "word_arabizi": "l7ayek",
+    "word_fr": "Le haïk",
+    "transliteration": "l-7âyek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l7ayek.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_051",
+    "word_ar": "الحجاب",
+    "word_arabizi": "l7ijab",
+    "word_fr": "Le voile",
+    "transliteration": "l-7ijâb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l7ijab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_052",
+    "word_ar": "النقاب",
+    "word_arabizi": "nniqab",
+    "word_fr": "Le niqab",
+    "transliteration": "n-niqâb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/nniqab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_053",
+    "word_ar": "الطربوش",
+    "word_arabizi": "ttarbouch",
+    "word_fr": "Le tarbouche",
+    "transliteration": "t-tarbûch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ttarbouch.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_054",
+    "word_ar": "الكلسون",
+    "word_arabizi": "lkalson",
+    "word_fr": "Le slip / Le caleçon",
+    "transliteration": "l-kalsôn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkalson.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_055",
+    "word_ar": "السوتيان",
+    "word_arabizi": "ssoutyan",
+    "word_fr": "Le soutien-gorge",
+    "transliteration": "s-sûtyân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ssoutyan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_056",
+    "word_ar": "الكولان",
+    "word_arabizi": "lkolan",
+    "word_fr": "Le collant",
+    "transliteration": "l-kôlân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkolan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_057",
+    "word_ar": "الكفوف",
+    "word_arabizi": "lkfouf",
+    "word_fr": "Les gants",
+    "transliteration": "l-kfûf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkfouf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_058",
+    "word_ar": "الصندالة",
+    "word_arabizi": "ssandala",
+    "word_fr": "La sandale",
+    "transliteration": "s-sandâla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ssandala.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_059",
+    "word_ar": "الشبشب",
+    "word_arabizi": "chchebcheb",
+    "word_fr": "La savate / Le tong",
+    "transliteration": "ch-chebcheb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/chchebcheb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_060",
+    "word_ar": "الشمسية",
+    "word_arabizi": "chchemsiya",
+    "word_fr": "Le parapluie",
+    "transliteration": "ch-chemsîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/chchemsiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_061",
+    "word_ar": "نظارات الشمس",
+    "word_arabizi": "nndader chems",
+    "word_fr": "Les lunettes de soleil",
+    "transliteration": "n-ndâder ch-chems",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/nndader_chems.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_062",
+    "word_ar": "القرط",
+    "word_arabizi": "lqort",
+    "word_fr": "La boucle d'oreille",
+    "transliteration": "l-qort",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lqort.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_063",
+    "word_ar": "الدبلة",
+    "word_arabizi": "ddebla",
+    "word_fr": "L'alliance",
+    "transliteration": "d-debla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ddebla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_064",
+    "word_ar": "الكرافاتة",
+    "word_arabizi": "lkravata",
+    "word_fr": "La cravate",
+    "transliteration": "l-krâvâta",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkravata.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_065",
+    "word_ar": "السوسطة",
+    "word_arabizi": "lsousta",
+    "word_fr": "La fermeture éclair",
+    "transliteration": "l-sôsta",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lsousta.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_066",
+    "word_ar": "الياقة",
+    "word_arabizi": "lyaqa",
+    "word_fr": "Le col",
+    "transliteration": "l-yâqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lyaqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_067",
+    "word_ar": "القماش",
+    "word_arabizi": "lqmach",
+    "word_fr": "Le tissu",
+    "transliteration": "l-qmâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lqmach.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_068",
+    "word_ar": "الحرير",
+    "word_arabizi": "l7rir",
+    "word_fr": "La soie",
+    "transliteration": "l-7rîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l7rir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_069",
+    "word_ar": "القطن",
+    "word_arabizi": "lqotn",
+    "word_fr": "Le coton",
+    "transliteration": "l-qotn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lqotn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_070",
+    "word_ar": "الصوف",
+    "word_arabizi": "ssouf",
+    "word_fr": "La laine",
+    "transliteration": "s-sûf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/ssouf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_071",
+    "word_ar": "الكتان",
+    "word_arabizi": "lkettan",
+    "word_fr": "Le lin",
+    "transliteration": "l-kettân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkettan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_072",
+    "word_ar": "الموضة",
+    "word_arabizi": "lmoda",
+    "word_fr": "La mode",
+    "transliteration": "l-môda",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lmoda.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_073",
+    "word_ar": "الخياطة",
+    "word_arabizi": "lkhyata",
+    "word_fr": "La couture",
+    "transliteration": "l-khyâta",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkhyata.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_074",
+    "word_ar": "الغسيل",
+    "word_arabizi": "lghsil",
+    "word_fr": "Le linge / La lessive",
+    "transliteration": "l-ghsîl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lghsil.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_075",
+    "word_ar": "البقعة",
+    "word_arabizi": "lboq3a",
+    "word_fr": "La tache",
+    "transliteration": "l-boq3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lboq3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_076",
+    "word_ar": "الرقعة",
+    "word_arabizi": "rroq3a",
+    "word_fr": "La pièce / Le rapiéçage",
+    "transliteration": "r-roq3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/rroq3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_077",
+    "word_ar": "العلاقة",
+    "word_arabizi": "l3llaqa",
+    "word_fr": "Le cintre",
+    "transliteration": "l-3llâqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l3llaqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_078",
+    "word_ar": "الزي",
+    "word_arabizi": "zzy",
+    "word_fr": "La tenue / L'uniforme",
+    "transliteration": "z-zy",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/zzy.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_079",
+    "word_ar": "الأناقة",
+    "word_arabizi": "l2anaqa",
+    "word_fr": "L'élégance",
+    "transliteration": "l-anâqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/l2anaqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_080",
+    "word_ar": "الشال",
+    "word_arabizi": "chchal",
+    "word_fr": "L'écharpe",
+    "transliteration": "ch-châl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/chchal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_081",
+    "word_ar": "المريول",
+    "word_arabizi": "lmaryoul",
+    "word_fr": "Le tablier",
+    "transliteration": "l-maryûl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lmaryoul.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_082",
+    "word_ar": "الكسوة",
+    "word_arabizi": "lkeswa",
+    "word_fr": "Le trousseau / Les habits de fête",
+    "transliteration": "l-keswa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkeswa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_083",
+    "word_ar": "الزينة",
+    "word_arabizi": "zzina",
+    "word_fr": "La parure / La décoration",
+    "transliteration": "z-zîna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/zzina.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vet_084",
+    "word_ar": "الخلخال",
+    "word_arabizi": "lkhelkhal",
+    "word_fr": "Le bracelet de cheville",
+    "transliteration": "l-khelkhâl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/vetements/lkhelkhal.mp3",
+    "examples": [],
+    "notes": ""
   }
 ]

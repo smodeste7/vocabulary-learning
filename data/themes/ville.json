@@ -8,7 +8,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/ville/lmedina.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "المدينة عامرة",
+        "sentence_arabizi": "lmedina 3amra",
+        "sentence_fr": "La ville est animée",
+        "audio_file": "audio/ville/ex_vil_001_1.mp3"
+      }
+    ],
     "notes": "Désigne à la fois une ville et la vieille ville (médina)."
   },
   {
@@ -20,7 +27,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/ville/zzengqa.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الزنقة ضيقة",
+        "sentence_arabizi": "zzengqa diyqa",
+        "sentence_fr": "La rue est étroite",
+        "audio_file": "audio/ville/ex_vil_002_1.mp3"
+      }
+    ],
     "notes": "Terme très marocain. On dit aussi « charia3 » pour une grande rue."
   },
   {
@@ -32,7 +46,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/ville/chare3.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الشارع واسع",
+        "sentence_arabizi": "chare3 wase3",
+        "sentence_fr": "L'avenue est large",
+        "audio_file": "audio/ville/ex_vil_003_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -49,7 +70,7 @@
         "sentence_ar": "فين هو الطريق لـ...",
         "sentence_arabizi": "fin how ttriq l...",
         "sentence_fr": "Où est la route pour...",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_004_1.mp3"
       }
     ],
     "notes": ""
@@ -63,7 +84,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/ville/dderb.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "دار جدي فالدرب",
+        "sentence_arabizi": "dar jeddi f dderb",
+        "sentence_fr": "La maison de mon grand-père est dans l'impasse",
+        "audio_file": "audio/ville/ex_vil_005_1.mp3"
+      }
+    ],
     "notes": "Petite ruelle ou impasse typique des médinas."
   },
   {
@@ -80,7 +108,7 @@
         "sentence_ar": "كنمشي للسوق كل حد",
         "sentence_arabizi": "knmchi ls-souq kol 7add",
         "sentence_fr": "Je vais au marché chaque dimanche",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_006_1.mp3"
       }
     ],
     "notes": ""
@@ -159,7 +187,7 @@
         "sentence_ar": "خاصني نمشي عند الطبيب",
         "sentence_arabizi": "khasni nmchi 3nd ttbib",
         "sentence_fr": "Je dois aller chez le médecin",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_012_1.mp3"
       }
     ],
     "notes": ""
@@ -298,7 +326,7 @@
         "sentence_ar": "تلاقينا فالبلاصة",
         "sentence_arabizi": "tlaqina f lblassa",
         "sentence_fr": "On s'est retrouvé sur la place",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_023_1.mp3"
       }
     ],
     "notes": "De l'espagnol « plaza »."
@@ -341,7 +369,7 @@
         "sentence_ar": "سير على طول ثم دور على اليمين",
         "sentence_arabizi": "sir 3la toul thom dour 3la limin",
         "sentence_fr": "Va tout droit puis tourne à droite",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_026_1.mp3"
       }
     ],
     "notes": ""
@@ -420,7 +448,7 @@
         "sentence_ar": "جنب المسجد",
         "sentence_arabizi": "jnb lmesjed",
         "sentence_fr": "À côté de la mosquée",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_032_1.mp3"
       }
     ],
     "notes": ""
@@ -499,7 +527,7 @@
         "sentence_ar": "فين كاين الحمام؟",
         "sentence_arabizi": "fin kayn l7ammam?",
         "sentence_fr": "Où sont les toilettes ?",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_038_1.mp3"
       }
     ],
     "notes": ""
@@ -542,7 +570,7 @@
         "sentence_ar": "مشيت عند الطبيب",
         "sentence_arabizi": "mchit 3nd ttbib",
         "sentence_fr": "Je suis allé chez le médecin",
-        "audio_file": null
+        "audio_file": "audio/ville/ex_vil_041_1.mp3"
       }
     ],
     "notes": "3ndi (chez moi), 3ndak (chez toi), 3ndo (chez lui)."
@@ -808,6 +836,726 @@
     "register": "courant",
     "difficulty": 3,
     "audio_file": "audio/ville/lfanar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_064",
+    "word_ar": "الحومة",
+    "word_arabizi": "7omma",
+    "word_fr": "Le quartier (populaire)",
+    "transliteration": "l-7ômma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/7omma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_065",
+    "word_ar": "المستوصف",
+    "word_arabizi": "lmosta3",
+    "word_fr": "Le dispensaire",
+    "transliteration": "l-mostawsaf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmosta3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_066",
+    "word_ar": "العيادة",
+    "word_arabizi": "l3iyada",
+    "word_fr": "Le cabinet médical",
+    "transliteration": "l-3iyâda",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l3iyada.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_067",
+    "word_ar": "الحضانة",
+    "word_arabizi": "l7adana",
+    "word_fr": "La crèche",
+    "transliteration": "l-7adâna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l7adana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_068",
+    "word_ar": "الروض",
+    "word_arabizi": "rrod",
+    "word_fr": "La maternelle",
+    "transliteration": "r-rôd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/rrod.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_069",
+    "word_ar": "الثانوية",
+    "word_arabizi": "ttanawiya",
+    "word_fr": "Le lycée",
+    "transliteration": "t-tânawîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ttanawiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_070",
+    "word_ar": "الإعدادية",
+    "word_arabizi": "l2i3dadiya",
+    "word_fr": "Le collège",
+    "transliteration": "l-i3dâdîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l2i3dadiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_071",
+    "word_ar": "الكلية",
+    "word_arabizi": "lkolliya",
+    "word_fr": "La faculté",
+    "transliteration": "l-kollîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lkolliya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_072",
+    "word_ar": "المسبح",
+    "word_arabizi": "lmasba7",
+    "word_fr": "La piscine",
+    "transliteration": "l-masba7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmasba7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_073",
+    "word_ar": "الشط",
+    "word_arabizi": "chchatt",
+    "word_fr": "La plage",
+    "transliteration": "ch-chatt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/chchatt.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_074",
+    "word_ar": "القاعة",
+    "word_arabizi": "lqa3a",
+    "word_fr": "La salle",
+    "transliteration": "l-qâ3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lqa3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_075",
+    "word_ar": "المعرض",
+    "word_arabizi": "lma3rad",
+    "word_fr": "La foire / L'exposition",
+    "transliteration": "l-ma3rad",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lma3rad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_076",
+    "word_ar": "القيسارية",
+    "word_arabizi": "lqisariya",
+    "word_fr": "La galerie du souk",
+    "transliteration": "l-qîsârîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lqisariya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_077",
+    "word_ar": "البناية",
+    "word_arabizi": "lbinaya",
+    "word_fr": "L'immeuble",
+    "transliteration": "l-binâya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lbinaya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_078",
+    "word_ar": "العمارة",
+    "word_arabizi": "l3imara",
+    "word_fr": "L'immeuble résidentiel",
+    "transliteration": "l-3imâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l3imara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_079",
+    "word_ar": "الفيلا",
+    "word_arabizi": "lfila",
+    "word_fr": "La villa",
+    "transliteration": "l-fîlâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lfila.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_080",
+    "word_ar": "الممر",
+    "word_arabizi": "lmamarr",
+    "word_fr": "Le passage / Le couloir",
+    "transliteration": "l-mamarr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmamarr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_081",
+    "word_ar": "الساحة",
+    "word_arabizi": "ssa7a",
+    "word_fr": "La place publique",
+    "transliteration": "s-sâ7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ssa7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_082",
+    "word_ar": "النافورة",
+    "word_arabizi": "nnafoura",
+    "word_fr": "La fontaine",
+    "transliteration": "n-nâfûra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/nnafoura.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_083",
+    "word_ar": "النفق",
+    "word_arabizi": "nnafaq",
+    "word_fr": "Le tunnel",
+    "transliteration": "n-nafaq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/nnafaq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_084",
+    "word_ar": "الإشارة",
+    "word_arabizi": "l2ichara",
+    "word_fr": "Le feu / Le panneau",
+    "transliteration": "l-ichâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l2ichara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_085",
+    "word_ar": "المجزرة",
+    "word_arabizi": "lmjzra",
+    "word_fr": "La boucherie / L'abattoir",
+    "transliteration": "l-mjzra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmjzra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_086",
+    "word_ar": "السناك",
+    "word_arabizi": "ssnack",
+    "word_fr": "Le snack",
+    "transliteration": "s-snâk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ssnack.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_087",
+    "word_ar": "المخبزة",
+    "word_arabizi": "lmkhbaza",
+    "word_fr": "La boulangerie",
+    "transliteration": "l-mkhbâza",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmkhbaza.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_088",
+    "word_ar": "الحلواني",
+    "word_arabizi": "l7elwani",
+    "word_fr": "La pâtisserie",
+    "transliteration": "l-7elwânî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l7elwani.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_089",
+    "word_ar": "المارشي",
+    "word_arabizi": "lmarchi",
+    "word_fr": "Le marché couvert",
+    "transliteration": "l-mârchî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmarchi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_090",
+    "word_ar": "الإدارة",
+    "word_arabizi": "l2idara",
+    "word_fr": "L'administration",
+    "transliteration": "l-idâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l2idara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_091",
+    "word_ar": "الولاية",
+    "word_arabizi": "lwilaya",
+    "word_fr": "La wilaya / La préfecture",
+    "transliteration": "l-wilâya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lwilaya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_092",
+    "word_ar": "المقاطعة",
+    "word_arabizi": "lmuqata3a",
+    "word_fr": "L'arrondissement",
+    "transliteration": "l-muqâta3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmuqata3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_093",
+    "word_ar": "السجن",
+    "word_arabizi": "sjjn",
+    "word_fr": "La prison",
+    "transliteration": "s-sjen",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/sjjn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_094",
+    "word_ar": "الإطفائية",
+    "word_arabizi": "l2itfa2iya",
+    "word_fr": "Les pompiers (caserne)",
+    "transliteration": "l-itfâ'îya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l2itfa2iya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_095",
+    "word_ar": "الستاسيون",
+    "word_arabizi": "sstasyon",
+    "word_fr": "La station-service",
+    "transliteration": "s-stâsyôn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/sstasyon.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_096",
+    "word_ar": "المعبد",
+    "word_arabizi": "lma3bad",
+    "word_fr": "Le temple",
+    "transliteration": "l-ma3bad",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lma3bad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_097",
+    "word_ar": "الضريح",
+    "word_arabizi": "ddari7",
+    "word_fr": "Le mausolée",
+    "transliteration": "d-darî7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ddari7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_098",
+    "word_ar": "القصر",
+    "word_arabizi": "lqsr",
+    "word_fr": "Le palais",
+    "transliteration": "l-qsr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lqsr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_099",
+    "word_ar": "السور",
+    "word_arabizi": "ssour",
+    "word_fr": "Le rempart",
+    "transliteration": "s-sûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ssour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_100",
+    "word_ar": "القصبة",
+    "word_arabizi": "lqasba",
+    "word_fr": "La kasbah",
+    "transliteration": "l-qasba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lqasba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_101",
+    "word_ar": "الرياض",
+    "word_arabizi": "rriyad",
+    "word_fr": "Le riad",
+    "transliteration": "r-riyâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/rriyad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_102",
+    "word_ar": "المنتزه",
+    "word_arabizi": "lmontazah",
+    "word_fr": "Le parc",
+    "transliteration": "l-montazah",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmontazah.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_103",
+    "word_ar": "الاتجاه",
+    "word_arabizi": "l2ittijah",
+    "word_fr": "La direction",
+    "transliteration": "l-ittijâh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l2ittijah.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_104",
+    "word_ar": "العنوان",
+    "word_arabizi": "l3onwan",
+    "word_fr": "L'adresse",
+    "transliteration": "l-3onwân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l3onwan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_105",
+    "word_ar": "الرقم",
+    "word_arabizi": "rrqem",
+    "word_fr": "Le numéro",
+    "transliteration": "r-rqem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/rrqem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_106",
+    "word_ar": "المدخل",
+    "word_arabizi": "lmedkhel",
+    "word_fr": "L'entrée",
+    "transliteration": "l-medkhel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmedkhel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_107",
+    "word_ar": "المخرج",
+    "word_arabizi": "lmekhrej",
+    "word_fr": "La sortie",
+    "transliteration": "l-mekhrej",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmekhrej.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_108",
+    "word_ar": "الزاوية",
+    "word_arabizi": "zzawiya",
+    "word_fr": "Le coin",
+    "transliteration": "z-zâwya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/zzawiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_109",
+    "word_ar": "المنطقة",
+    "word_arabizi": "lmantiqa",
+    "word_fr": "La zone / La région",
+    "transliteration": "l-mantiqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmantiqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_110",
+    "word_ar": "الجهة",
+    "word_arabizi": "ljiha",
+    "word_fr": "La région / Le sens",
+    "transliteration": "l-jiha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ljiha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_111",
+    "word_ar": "العاصمة",
+    "word_arabizi": "l3asima",
+    "word_fr": "La capitale",
+    "transliteration": "l-3âsima",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/l3asima.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_112",
+    "word_ar": "البادية",
+    "word_arabizi": "lbadia",
+    "word_fr": "La campagne",
+    "transliteration": "l-bâdya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lbadia.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_113",
+    "word_ar": "الشمال",
+    "word_arabizi": "chchamal",
+    "word_fr": "Le nord",
+    "transliteration": "ch-chamâl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/chchamal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_114",
+    "word_ar": "الجنوب",
+    "word_arabizi": "ljanoub",
+    "word_fr": "Le sud",
+    "transliteration": "l-janûb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ljanoub.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_115",
+    "word_ar": "الشرق",
+    "word_arabizi": "chcharq",
+    "word_fr": "L'est",
+    "transliteration": "ch-charq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/chcharq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_116",
+    "word_ar": "الغرب",
+    "word_arabizi": "lgharb",
+    "word_fr": "L'ouest",
+    "transliteration": "l-gharb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lgharb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_117",
+    "word_ar": "المنعطف",
+    "word_arabizi": "lmon3ataf",
+    "word_fr": "Le virage",
+    "transliteration": "l-mon3ataf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmon3ataf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_118",
+    "word_ar": "المفترق",
+    "word_arabizi": "lmoftaraq",
+    "word_fr": "L'intersection",
+    "transliteration": "l-moftaraq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmoftaraq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_119",
+    "word_ar": "الدوارة",
+    "word_arabizi": "ddewwara",
+    "word_fr": "Le rond-point",
+    "transliteration": "d-dewwâra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/ddewwara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_120",
+    "word_ar": "المركز",
+    "word_arabizi": "lmarkaz",
+    "word_fr": "Le centre",
+    "transliteration": "l-markaz",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmarkaz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_121",
+    "word_ar": "المصحة",
+    "word_arabizi": "lmosa77a",
+    "word_fr": "La clinique privée",
+    "transliteration": "l-mosa77a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmosa77a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_122",
+    "word_ar": "المرور",
+    "word_arabizi": "lmoror",
+    "word_fr": "La circulation",
+    "transliteration": "l-morôr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lmoror.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "vil_123",
+    "word_ar": "الگار",
+    "word_arabizi": "lgar",
+    "word_fr": "La gare routière",
+    "transliteration": "l-gâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/ville/lgar.mp3",
     "examples": [],
     "notes": ""
   }

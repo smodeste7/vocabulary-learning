@@ -13,7 +13,13 @@
         "sentence_ar": "مشيت للدار",
         "sentence_arabizi": "mchit l ddar",
         "sentence_fr": "Je suis rentré à la maison",
-        "audio_file": null
+        "audio_file": "audio/maison/ex_mai_001_1.mp3"
+      },
+      {
+        "sentence_ar": "الدار كبيرة",
+        "sentence_arabizi": "ddar kbira",
+        "sentence_fr": "La maison est grande",
+        "audio_file": "audio/maison/ex_mai_001_2.mp3"
       }
     ],
     "notes": "Le mot le plus courant pour « maison ». « بيت » (bit) est plus littéraire."
@@ -27,7 +33,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/chqqa.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الشقة فالطابق الثالت",
+        "sentence_arabizi": "chqqa f ttabiq ttalet",
+        "sentence_fr": "L'appartement est au 3e étage",
+        "audio_file": "audio/maison/ex_mai_002_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -39,7 +52,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/lbit.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "البيت ديالي صغير",
+        "sentence_arabizi": "lbit dyali sghir",
+        "sentence_fr": "Ma chambre est petite",
+        "audio_file": "audio/maison/ex_mai_003_1.mp3"
+      }
+    ],
     "notes": "En Darija, « lbit » désigne souvent une chambre ou une pièce."
   },
   {
@@ -51,7 +71,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/bit_nnom.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "بيت النوم نظيفة",
+        "sentence_arabizi": "bit nnom ndifa",
+        "sentence_fr": "La chambre à coucher est propre",
+        "audio_file": "audio/maison/ex_mai_004_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -63,7 +90,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/ssalon.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "گلسنا فالصالون",
+        "sentence_arabizi": "glesna f ssalon",
+        "sentence_fr": "On s'est assis au salon",
+        "audio_file": "audio/maison/ex_mai_005_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -75,7 +109,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/lmetbakh.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "ماما فالمطبخ",
+        "sentence_arabizi": "lmama f lmetbakh",
+        "sentence_fr": "Maman est dans la cuisine",
+        "audio_file": "audio/maison/ex_mai_006_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -87,7 +128,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/maison/lfirann.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الخبز فالفران",
+        "sentence_arabizi": "lkhobz f lfirann",
+        "sentence_fr": "Le pain est dans le four",
+        "audio_file": "audio/maison/ex_mai_007_1.mp3"
+      }
+    ],
     "notes": "Désigne aussi la boulangerie de quartier."
   },
   {
@@ -99,7 +147,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/maison/ttibla.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "حطيت الماكلة فوق الطيبلة",
+        "sentence_arabizi": "7ttit lmakla foq ttibla",
+        "sentence_fr": "J'ai posé la nourriture sur la table",
+        "audio_file": "audio/maison/ex_mai_008_1.mp3"
+      }
+    ],
     "notes": "De l'espagnol « tabla »."
   },
   {
@@ -176,7 +231,7 @@
         "sentence_ar": "كنسكن فالطابق الثالث",
         "sentence_arabizi": "kneskn f ttabiq ttalet",
         "sentence_fr": "J'habite au troisième étage",
-        "audio_file": null
+        "audio_file": "audio/maison/ex_mai_014_1.mp3"
       }
     ],
     "notes": ""
@@ -243,7 +298,7 @@
         "sentence_ar": "ولع الضو عافاك",
         "sentence_arabizi": "wle3 ddaw 3afak",
         "sentence_fr": "Allume la lumière s'il te plaît",
-        "audio_file": null
+        "audio_file": "audio/maison/ex_mai_019_1.mp3"
       }
     ],
     "notes": "« wle3 ddaw » = allumer. « tfekkh ddaw » = éteindre."
@@ -701,6 +756,546 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/maison/lgaraj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_058",
+    "word_ar": "السرير",
+    "word_arabizi": "sserir",
+    "word_fr": "Le lit",
+    "transliteration": "s-srîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/sserir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_059",
+    "word_ar": "البطانية",
+    "word_arabizi": "lbtaniya",
+    "word_fr": "La couverture",
+    "transliteration": "l-btânîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbtaniya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_060",
+    "word_ar": "الإزار",
+    "word_arabizi": "lizar",
+    "word_fr": "Le drap",
+    "transliteration": "l-izâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lizar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_061",
+    "word_ar": "الطابوري",
+    "word_arabizi": "ttabouri",
+    "word_fr": "Le tabouret",
+    "transliteration": "t-tâbûrî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ttabouri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_062",
+    "word_ar": "الخزانة",
+    "word_arabizi": "lkhzana",
+    "word_fr": "Le placard",
+    "transliteration": "l-khzâna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lkhzana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_063",
+    "word_ar": "الدرج",
+    "word_arabizi": "ddraj",
+    "word_fr": "Le tiroir",
+    "transliteration": "d-drâj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ddraj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_064",
+    "word_ar": "الثريا",
+    "word_arabizi": "ttoraya",
+    "word_fr": "Le lustre",
+    "transliteration": "t-torayâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ttoraya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_065",
+    "word_ar": "البريز",
+    "word_arabizi": "lbriz",
+    "word_fr": "La prise électrique",
+    "transliteration": "l-brîz",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbriz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_066",
+    "word_ar": "الزاج",
+    "word_arabizi": "zzaj",
+    "word_fr": "La vitre / Le verre",
+    "transliteration": "z-zâj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/zzaj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_067",
+    "word_ar": "البانيو",
+    "word_arabizi": "lbanyo",
+    "word_fr": "La baignoire",
+    "transliteration": "l-bânyô",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbanyo.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_068",
+    "word_ar": "المرحاض",
+    "word_arabizi": "lmir7ad",
+    "word_fr": "Les toilettes",
+    "transliteration": "l-mir7âd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmir7ad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_069",
+    "word_ar": "البالوعة",
+    "word_arabizi": "lbalou3a",
+    "word_fr": "L'évier / L'égout",
+    "transliteration": "l-bâlû3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbalou3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_070",
+    "word_ar": "الشامبوان",
+    "word_arabizi": "chchampwan",
+    "word_fr": "Le shampoing",
+    "transliteration": "ch-châmpwân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/chchampwan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_071",
+    "word_ar": "الفرشة",
+    "word_arabizi": "lfercha",
+    "word_fr": "La brosse",
+    "transliteration": "l-fercha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lfercha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_072",
+    "word_ar": "المعجون",
+    "word_arabizi": "lma3joun",
+    "word_fr": "Le dentifrice",
+    "transliteration": "l-ma3jûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lma3joun.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_073",
+    "word_ar": "البشكير",
+    "word_arabizi": "lbachkir",
+    "word_fr": "La serviette",
+    "transliteration": "l-bâchkîr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbachkir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_074",
+    "word_ar": "الفورشيطة",
+    "word_arabizi": "lfourchita",
+    "word_fr": "La fourchette",
+    "transliteration": "l-fûrchîta",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lfourchita.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_075",
+    "word_ar": "الگصعة",
+    "word_arabizi": "lges3a",
+    "word_fr": "Le grand plat (gasâa)",
+    "transliteration": "l-ges3a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lges3a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_076",
+    "word_ar": "الطبق",
+    "word_arabizi": "ttbeq",
+    "word_fr": "Le plat / Le plateau",
+    "transliteration": "t-tbeq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ttbeq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_077",
+    "word_ar": "السلة",
+    "word_arabizi": "sslla",
+    "word_fr": "Le panier",
+    "transliteration": "s-slla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/sslla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_078",
+    "word_ar": "الممسحة",
+    "word_arabizi": "lmemsa7a",
+    "word_fr": "La serpillère",
+    "transliteration": "l-memsa7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmemsa7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_079",
+    "word_ar": "المروحة",
+    "word_arabizi": "lmrwa7a",
+    "word_fr": "Le ventilateur",
+    "transliteration": "l-mrwâ7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmrwa7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_080",
+    "word_ar": "المكيف",
+    "word_arabizi": "lmkyyf",
+    "word_fr": "Le climatiseur",
+    "transliteration": "l-mkyyf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmkyyf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_081",
+    "word_ar": "السخانة",
+    "word_arabizi": "sskhana",
+    "word_fr": "Le chauffe-eau",
+    "transliteration": "s-skhâna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/sskhana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_082",
+    "word_ar": "الغسالة",
+    "word_arabizi": "lghassala",
+    "word_fr": "La machine à laver",
+    "transliteration": "l-ghassâla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lghassala.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_083",
+    "word_ar": "الماكينة",
+    "word_arabizi": "lmakina",
+    "word_fr": "La machine",
+    "transliteration": "l-mâkîna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmakina.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_084",
+    "word_ar": "الأورديناتور",
+    "word_arabizi": "lordinatour",
+    "word_fr": "L'ordinateur",
+    "transliteration": "l-ôrdînâtûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lordinatour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_085",
+    "word_ar": "التيليفون",
+    "word_arabizi": "ttilifon",
+    "word_fr": "Le téléphone",
+    "transliteration": "t-tîlîfûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ttilifon.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_086",
+    "word_ar": "الشارجور",
+    "word_arabizi": "chcharjour",
+    "word_fr": "Le chargeur",
+    "transliteration": "ch-chârjûr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/chcharjour.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_087",
+    "word_ar": "الريموت",
+    "word_arabizi": "rrimot",
+    "word_fr": "La télécommande",
+    "transliteration": "r-rîmôt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/rrimot.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_088",
+    "word_ar": "الكهرباء",
+    "word_arabizi": "lkahraba",
+    "word_fr": "L'électricité",
+    "transliteration": "l-kahrabâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lkahraba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_089",
+    "word_ar": "الگاز",
+    "word_arabizi": "lgaz",
+    "word_fr": "Le gaz",
+    "transliteration": "l-gâz",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lgaz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_090",
+    "word_ar": "البوطة",
+    "word_arabizi": "lbouta",
+    "word_fr": "La bouteille de gaz",
+    "transliteration": "l-bûta",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lbouta.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_091",
+    "word_ar": "العتبة",
+    "word_arabizi": "l3etba",
+    "word_fr": "Le seuil",
+    "transliteration": "l-3etba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/l3etba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_092",
+    "word_ar": "السقف",
+    "word_arabizi": "ssqf",
+    "word_fr": "Le plafond",
+    "transliteration": "s-sqf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ssqf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_093",
+    "word_ar": "الأرضية",
+    "word_arabizi": "l2ardiya",
+    "word_fr": "Le sol",
+    "transliteration": "l-ardîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/l2ardiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_094",
+    "word_ar": "الزليج",
+    "word_arabizi": "zzlij",
+    "word_fr": "Le zellige",
+    "transliteration": "z-zlîj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/zzlij.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_095",
+    "word_ar": "القبو",
+    "word_arabizi": "lqbou",
+    "word_fr": "La cave",
+    "transliteration": "l-qbû",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lqbou.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_096",
+    "word_ar": "المدخنة",
+    "word_arabizi": "lmedkhana",
+    "word_fr": "La cheminée",
+    "transliteration": "l-medkhana",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmedkhana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_097",
+    "word_ar": "السلك",
+    "word_arabizi": "sslk",
+    "word_fr": "Le fil / Le câble",
+    "transliteration": "s-slk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/sslk.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_098",
+    "word_ar": "الدرابز",
+    "word_arabizi": "ddrabz",
+    "word_fr": "La rampe",
+    "transliteration": "d-drâbz",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ddrabz.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_099",
+    "word_ar": "القفل",
+    "word_arabizi": "lqfel",
+    "word_fr": "La serrure / Le cadenas",
+    "transliteration": "l-qfel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lqfel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_100",
+    "word_ar": "الجرس",
+    "word_arabizi": "ljars",
+    "word_fr": "La sonnette",
+    "transliteration": "l-jars",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/ljars.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_101",
+    "word_ar": "الحوش",
+    "word_arabizi": "l7ouch",
+    "word_fr": "La cour / La maison traditionnelle",
+    "transliteration": "l-7ûch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/l7ouch.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "mai_102",
+    "word_ar": "المخزن",
+    "word_arabizi": "lmakhzan",
+    "word_fr": "Le débarras / Le cellier",
+    "transliteration": "l-makhzan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/maison/lmakhzan.mp3",
     "examples": [],
     "notes": ""
   }

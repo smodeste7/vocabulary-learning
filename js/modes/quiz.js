@@ -1,6 +1,6 @@
-// quiz.js — 4 variantes. A: Arabe→FR · B: FR→Arabe · C: Écoute→FR · D: Phrase à trous.
+// quiz.js — 4 variantes. A: Arabe→FR · B: FR→Arabe · C: Écoute→(FR|arabizi|arabe) · D: Phrase à trous (arabizi|arabe).
 // 10 questions, feedback immédiat, leurres plausibles (même thème en priorité).
-// Param de route : un id de thème. Sous-route : ?type=A|B|C|D.
+// Routes : #quiz/:theme · sous-route ?type=A|B|C|D (&level=… pour C et D).
 
 import * as data from '../data.js';
 import * as srs from '../srs.js';
@@ -10,42 +10,55 @@ import { el, mount, header, playWord, buzz, toast } from '../ui.js';
 
 const N = 10;
 
+// Niveaux de réponse (script) pour les quiz C et D.
+const C_LEVELS = { fr: 'Français', arabizi: 'Arabizi', ar: 'Arabe' };
+const D_LEVELS = { arabizi: 'Arabizi', ar: 'Arabe' };
+
 export function renderQuiz(ctx) {
-  const themeId = ctx.param;
-  const t = data.theme(themeId);
+  const t = data.theme(ctx.param);
   if (!t) { location.hash = '#themes'; return; }
 
   const type = ctx.query.type;
-  if (type && ['A', 'B', 'C', 'D'].includes(type)) return runQuiz(t, type);
+  if (type && ['A', 'B', 'C', 'D'].includes(type)) {
+    const level = ctx.query.level || (type === 'C' ? 'fr' : type === 'D' ? 'ar' : null);
+    return runQuiz(t, type, level);
+  }
 
-  const card = (ty, title, sub) => el('a', { href: `#quiz/${t.id}?type=${ty}`, class: 'mode-card' }, [
-    el('span', { class: 'mode-ico', text: ty }),
+  const card = (href, ico, title, sub) => el('a', { href, class: 'mode-card' }, [
+    el('span', { class: 'mode-ico', text: ico }),
     el('div', { class: 'mode-meta' }, [el('h3', { text: title }), el('p', { text: sub })]),
   ]);
 
   mount(
     header(t.label, 'Choisis un type de quiz', `#theme/${t.id}`),
     el('div', { class: 'quiz-type' }, [
-      card('A', 'Arabe → Français', 'On montre le mot, trouve la traduction'),
-      card('B', 'Français → Arabe', 'On donne la traduction, trouve le mot'),
-      card('C', 'Écoute → Français', 'Écoute le mot, trouve la traduction'),
-      card('D', 'Phrase à trous', 'Complète la phrase avec le bon mot'),
+      card(`#quiz/${t.id}?type=A`, 'A', 'Arabe → Français', 'On montre le mot, trouve la traduction'),
+      card(`#quiz/${t.id}?type=B`, 'B', 'Français → Arabe', 'On donne la traduction, trouve le mot'),
+
+      el('p', { class: 'quiz-group-label', text: '🔊 Écoute → … (Quiz C)' }),
+      card(`#quiz/${t.id}?type=C&level=fr`, 'C', 'Écoute → Français', 'Niveau 1 · réponses en français'),
+      card(`#quiz/${t.id}?type=C&level=arabizi`, 'C', 'Écoute → Arabizi', 'Niveau 2 · réponses en arabizi'),
+      card(`#quiz/${t.id}?type=C&level=ar`, 'C', 'Écoute → Arabe', 'Niveau 3 · réponses en arabe'),
+
+      el('p', { class: 'quiz-group-label', text: '✍️ Phrase à trous (Quiz D)' }),
+      card(`#quiz/${t.id}?type=D&level=arabizi`, 'D', 'Phrase à trous · Arabizi', 'Phrase et choix en arabizi'),
+      card(`#quiz/${t.id}?type=D&level=ar`, 'D', 'Phrase à trous · Arabe', 'Phrase et choix en arabe'),
     ])
   );
 }
 
-function runQuiz(t, type) {
+function runQuiz(t, type, level) {
   const pool = data.wordsOf(t.id);
   let deck;
   if (type === 'D') {
-    // Seuls les mots dont l'arabizi apparaît dans un de leurs exemples conviennent.
     deck = pool
-      .map(w => ({ w, ex: pickBlankable(w) }))
+      .map(w => ({ w, ex: pickBlankable(w, level) }))
       .filter(x => x.ex)
       .sort(() => Math.random() - 0.5)
       .slice(0, N);
     if (deck.length === 0) {
       mount(
+        quitBar(t),
         header(t.label, 'Phrase à trous', `#quiz/${t.id}`),
         el('div', { class: 'empty' }, [
           el('p', { text: 'Ce thème n\'a pas encore assez de phrases d\'exemple pour ce quiz.' }),
@@ -85,6 +98,7 @@ function runQuiz(t, type) {
       choiceEls.push(btn);
     });
     mount(
+      quitBar(t),
       el('div', { class: 'quiz-head' }, [
         el('span', { text: `Question ${i + 1}/${total}` }),
         el('span', { text: `Score : ${score}` }),
@@ -95,13 +109,19 @@ function runQuiz(t, type) {
     );
   }
 
-  // 1 bonne réponse + 3 leurres plausibles, mélangés.
   function options(w) { return data.shuffle([w, ...data.distractors(w, 3)]); }
+
+  // Rend une proposition selon le script demandé (fr / arabizi / ar).
+  function choiceNode(o, script) {
+    if (script === 'fr') return document.createTextNode(o.word_fr);
+    if (script === 'arabizi') return document.createTextNode(o.word_arabizi);
+    return el('span', { class: 'ar', text: o.word_ar });
+  }
 
   function questionA(w) {
     shell(
       el('div', { class: 'quiz-prompt' }, [el('div', { class: 'ar', text: w.word_ar })]),
-      options(w).map(o => ({ value: o.id, node: document.createTextNode(o.word_fr) })),
+      options(w).map(o => ({ value: o.id, node: choiceNode(o, 'fr') })),
       (val) => val === w.id,
       (ok) => srs.grade(w.id, ok),
     );
@@ -113,35 +133,39 @@ function runQuiz(t, type) {
         el('span', { class: 'label', text: 'Quel mot ?' }),
         el('div', { class: 'name', text: w.word_fr }),
       ]),
-      options(w).map(o => ({ value: o.id, node: el('span', { class: 'ar', text: o.word_ar }) })),
+      options(w).map(o => ({ value: o.id, node: choiceNode(o, 'ar') })),
       (val) => val === w.id,
       (ok) => srs.grade(w.id, ok),
     );
   }
 
+  // Quiz C : on joue l'audio, les propositions sont dans le script du niveau choisi.
   function questionC(w) {
     const prompt = el('div', { class: 'quiz-prompt' }, [
-      el('span', { class: 'label', text: 'Écoute et choisis la traduction' }),
+      el('span', { class: 'label', text: `Écoute et choisis · ${C_LEVELS[level] || 'Français'}` }),
       el('button', { class: 'btn audio-btn big-audio', onclick: () => playWord(w.audio_file, w.word_ar) }, '🔊 Réécouter'),
     ]);
     playWord(w.audio_file, w.word_ar);
     shell(
       prompt,
-      options(w).map(o => ({ value: o.id, node: document.createTextNode(o.word_fr) })),
+      options(w).map(o => ({ value: o.id, node: choiceNode(o, level) })),
       (val) => val === w.id,
       (ok) => srs.grade(w.id, ok),
     );
   }
 
+  // Quiz D : phrase à trous dans le script du niveau ; choix dans le même script.
   function questionD(entry) {
     const { w, ex } = entry;
-    const blanked = ex.sentence_arabizi.replace(new RegExp(escapeRe(w.word_arabizi), 'i'), '____');
+    const sentence = level === 'arabizi' ? ex.sentence_arabizi : ex.sentence_ar;
+    const target = level === 'arabizi' ? w.word_arabizi : w.word_ar;
+    const blanked = sentence.replace(new RegExp(escapeRe(target), 'i'), '____');
     shell(
       el('div', { class: 'quiz-prompt' }, [
         el('span', { class: 'label', text: ex.sentence_fr }),
-        el('div', { class: 'cloze', text: blanked }),
+        el('div', { class: level === 'arabizi' ? 'cloze cloze-latin' : 'cloze', text: blanked }),
       ]),
-      options(w).map(o => ({ value: o.id, node: el('span', { class: 'ar', text: o.word_ar }) })),
+      options(w).map(o => ({ value: o.id, node: choiceNode(o, level) })),
       (val) => val === w.id,
       (ok) => srs.grade(w.id, ok),
     );
@@ -161,6 +185,7 @@ function runQuiz(t, type) {
     if (res.newBadges.length) res.newBadges.forEach(b => toast(`${b.icon} Badge : ${b.label} !`, 'success'));
     const pct = Math.round((score / total) * 100);
     const msg = pct >= 80 ? '🏆 Excellent !' : pct >= 50 ? '👍 Pas mal !' : '💪 Continue !';
+    const replayHref = `#quiz/${t.id}?type=${type}${level ? `&level=${level}` : ''}`;
     mount(
       header(t.label, 'Quiz terminé', `#theme/${t.id}`),
       el('div', { class: 'recap' }, [
@@ -169,7 +194,7 @@ function runQuiz(t, type) {
           el('div', { class: 'recap-stat' }, [el('span', { class: 'stat-big', text: `${score}/${total}` }), el('span', { class: 'stat-small', text: 'bonnes' })]),
           el('div', { class: 'recap-stat' }, [el('span', { class: 'stat-big', text: `+${res.xpGained}` }), el('span', { class: 'stat-small', text: 'XP' })]),
         ]),
-        el('button', { class: 'btn primary', onclick: () => runQuiz(t, type) }, 'Rejouer'),
+        el('a', { href: replayHref, class: 'btn primary', text: 'Rejouer' }),
         el('a', { href: `#quiz/${t.id}`, class: 'btn', text: 'Changer de quiz' }),
         el('a', { href: `#theme/${t.id}`, class: 'btn ghost', text: 'Retour au thème' }),
       ])
@@ -179,9 +204,18 @@ function runQuiz(t, type) {
   next();
 }
 
-// Choisit un exemple où l'arabizi du mot apparaît tel quel (donc « trouable »).
-function pickBlankable(w) {
-  const exs = (w.examples || []).filter(e => e.sentence_arabizi && new RegExp(escapeRe(w.word_arabizi), 'i').test(e.sentence_arabizi));
+// Barre supérieure avec bouton Quitter (retour au hub du thème).
+function quitBar(t) {
+  return el('div', { class: 'quiz-topbar' }, [
+    el('a', { href: `#theme/${t.id}`, class: 'quit-btn', 'aria-label': 'Quitter le quiz' }, '✕ Quitter'),
+  ]);
+}
+
+// Exemple « trouable » : le mot apparaît tel quel dans la phrase, dans le script du niveau.
+function pickBlankable(w, level) {
+  const field = level === 'arabizi' ? 'sentence_arabizi' : 'sentence_ar';
+  const target = level === 'arabizi' ? w.word_arabizi : w.word_ar;
+  const exs = (w.examples || []).filter(e => e[field] && new RegExp(escapeRe(target), 'i').test(e[field]));
   return exs.length ? exs[Math.floor(Math.random() * exs.length)] : null;
 }
 

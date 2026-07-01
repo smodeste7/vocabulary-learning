@@ -13,7 +13,13 @@
         "sentence_ar": "أش من لون بغيتي؟",
         "sentence_arabizi": "ach mn loun bghiti?",
         "sentence_fr": "Quelle couleur veux-tu ?",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_001_1.mp3"
+      },
+      {
+        "sentence_ar": "هاد اللون زوين",
+        "sentence_arabizi": "had lloun zwin",
+        "sentence_fr": "Cette couleur est jolie",
+        "audio_file": "audio/couleurs/ex_cou_001_2.mp3"
       }
     ],
     "notes": "Pluriel : « lwan »."
@@ -32,7 +38,13 @@
         "sentence_ar": "لابس قميجة بيضا",
         "sentence_arabizi": "labes qmija byda",
         "sentence_fr": "Il porte une chemise blanche",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_002_1.mp3"
+      },
+      {
+        "sentence_ar": "الحليب بيض",
+        "sentence_arabizi": "l7lib byed",
+        "sentence_fr": "Le lait est blanc",
+        "audio_file": "audio/couleurs/ex_cou_002_2.mp3"
       }
     ],
     "notes": "Féminin : « byda »."
@@ -46,7 +58,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/couleurs/k7el.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "شعرو كحل",
+        "sentence_arabizi": "ch3aro k7el",
+        "sentence_fr": "Ses cheveux sont noirs",
+        "audio_file": "audio/couleurs/ex_cou_003_1.mp3"
+      }
+    ],
     "notes": "Féminin : « k7la »."
   },
   {
@@ -63,7 +82,13 @@
         "sentence_ar": "التفاحة حمرا",
         "sentence_arabizi": "ttffa7a 7amra",
         "sentence_fr": "La pomme est rouge",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_004_1.mp3"
+      },
+      {
+        "sentence_ar": "الدم حمر",
+        "sentence_arabizi": "ddemm 7mer",
+        "sentence_fr": "Le sang est rouge",
+        "audio_file": "audio/couleurs/ex_cou_004_2.mp3"
       }
     ],
     "notes": "Féminin : « 7amra »."
@@ -77,7 +102,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/couleurs/khder.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "العشب خضر",
+        "sentence_arabizi": "l3chb khder",
+        "sentence_fr": "L'herbe est verte",
+        "audio_file": "audio/couleurs/ex_cou_005_1.mp3"
+      }
+    ],
     "notes": "Féminin : « khedra » (à ne pas confondre avec « lkhodra », les légumes)."
   },
   {
@@ -94,7 +126,7 @@
         "sentence_ar": "البحر زرق",
         "sentence_arabizi": "lb7ar zreq",
         "sentence_fr": "La mer est bleue",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_006_1.mp3"
       }
     ],
     "notes": "Féminin : « zerqa »."
@@ -108,7 +140,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/couleurs/sfer.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الليمون صفر",
+        "sentence_arabizi": "llimoun sfer",
+        "sentence_fr": "Le citron est jaune",
+        "audio_file": "audio/couleurs/ex_cou_007_1.mp3"
+      }
+    ],
     "notes": "Féminin : « safra ». À ne pas confondre avec « sifr » (zéro)."
   },
   {
@@ -120,7 +159,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/couleurs/qehwi.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الكرسي قهوي",
+        "sentence_arabizi": "lkorsi qehwi",
+        "sentence_fr": "La chaise est marron",
+        "audio_file": "audio/couleurs/ex_cou_008_1.mp3"
+      }
+    ],
     "notes": "Littéralement « couleur café ». On dit aussi « bni »."
   },
   {
@@ -209,7 +255,7 @@
         "sentence_ar": "زرق فاتح",
         "sentence_arabizi": "zreq fate7",
         "sentence_fr": "Bleu clair",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_015_1.mp3"
       }
     ],
     "notes": "Se place après la couleur."
@@ -228,7 +274,7 @@
         "sentence_ar": "خضر غامق",
         "sentence_arabizi": "khder ghameq",
         "sentence_fr": "Vert foncé",
-        "audio_file": null
+        "audio_file": "audio/couleurs/ex_cou_016_1.mp3"
       }
     ],
     "notes": "Se place après la couleur."
@@ -422,6 +468,198 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/couleurs/mlawwen.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_033",
+    "word_ar": "عاجي",
+    "word_arabizi": "3aji",
+    "word_fr": "Ivoire",
+    "transliteration": "3âjî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/3aji.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_034",
+    "word_ar": "فحمي",
+    "word_arabizi": "fa7mi",
+    "word_fr": "Anthracite",
+    "transliteration": "fa7mî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/fa7mi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_035",
+    "word_ar": "خمري",
+    "word_arabizi": "khamri",
+    "word_fr": "Bordeaux",
+    "transliteration": "khamrî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/khamri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_036",
+    "word_ar": "نبيتي",
+    "word_arabizi": "nbiti",
+    "word_fr": "Lie-de-vin",
+    "transliteration": "nbîtî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/nbiti.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_037",
+    "word_ar": "سماوي",
+    "word_arabizi": "samawi",
+    "word_fr": "Bleu ciel",
+    "transliteration": "samâwî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/samawi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_038",
+    "word_ar": "ترابي",
+    "word_arabizi": "torabi",
+    "word_fr": "Beige terreux",
+    "transliteration": "torâbî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/torabi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_039",
+    "word_ar": "رصاصي",
+    "word_arabizi": "rsasi",
+    "word_fr": "Gris plomb",
+    "transliteration": "rsâsî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/rsasi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_040",
+    "word_ar": "قرمزي",
+    "word_arabizi": "qirmizi",
+    "word_fr": "Cramoisi",
+    "transliteration": "qirmizî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/qirmizi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_041",
+    "word_ar": "فستقي",
+    "word_arabizi": "fostoqi",
+    "word_fr": "Vert pistache",
+    "transliteration": "fostoqî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/fostoqi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_042",
+    "word_ar": "ليلكي",
+    "word_arabizi": "lilaki",
+    "word_fr": "Lilas",
+    "transliteration": "lîlakî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/lilaki.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_043",
+    "word_ar": "برونزي",
+    "word_arabizi": "bronzi",
+    "word_fr": "Bronze",
+    "transliteration": "brônzî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/bronzi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_044",
+    "word_ar": "معدني",
+    "word_arabizi": "ma3dani",
+    "word_fr": "Métallique",
+    "transliteration": "ma3danî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/ma3dani.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_045",
+    "word_ar": "لؤلؤي",
+    "word_arabizi": "lo2lo2i",
+    "word_fr": "Nacré",
+    "transliteration": "lo'lo'î",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/lo2lo2i.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_046",
+    "word_ar": "معتم",
+    "word_arabizi": "mo3tim",
+    "word_fr": "Opaque / Sombre",
+    "transliteration": "mo3tim",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/mo3tim.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_047",
+    "word_ar": "زاهي",
+    "word_arabizi": "zahi",
+    "word_fr": "Vif / Éclatant",
+    "transliteration": "zâhî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/zahi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cou_048",
+    "word_ar": "باهت",
+    "word_arabizi": "bahet",
+    "word_fr": "Pâle / Délavé",
+    "transliteration": "bâhet",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/couleurs/bahet.mp3",
     "examples": [],
     "notes": ""
   }

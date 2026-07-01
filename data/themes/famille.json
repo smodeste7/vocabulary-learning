@@ -13,7 +13,7 @@
         "sentence_ar": "العائلة ديالي كبيرة",
         "sentence_arabizi": "l3a2ila dyali kbira",
         "sentence_fr": "Ma famille est grande",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_001_1.mp3"
       }
     ],
     "notes": "On dit aussi « l3ayla »."
@@ -32,7 +32,13 @@
         "sentence_ar": "ماما طياقة ماكلة بنينة",
         "sentence_arabizi": "mama tiyyqa makla bnina",
         "sentence_fr": "Maman a cuisiné un bon plat",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_002_1.mp3"
+      },
+      {
+        "sentence_ar": "الأم كتبغي ولادها",
+        "sentence_arabizi": "lmama katebghi wladha",
+        "sentence_fr": "La mère aime ses enfants",
+        "audio_file": "audio/famille/ex_fam_002_2.mp3"
       }
     ],
     "notes": "« lmma » ou « mama ». Forme classique : « l'oumm »."
@@ -46,7 +52,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/famille/lbaba.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الأب خدام بزاف",
+        "sentence_arabizi": "lbaba khddam bzzaf",
+        "sentence_fr": "Le père travaille beaucoup",
+        "audio_file": "audio/famille/ex_fam_003_1.mp3"
+      }
+    ],
     "notes": "« baba » ou « lwalid ». Forme classique : « l'ab »."
   },
   {
@@ -58,7 +71,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/famille/lwalidin.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "كنحترم الوالدين",
+        "sentence_arabizi": "kan7tarem lwalidin",
+        "sentence_fr": "Je respecte mes parents",
+        "audio_file": "audio/famille/ex_fam_004_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -75,7 +95,7 @@
         "sentence_ar": "خويا كبر مني",
         "sentence_arabizi": "khoya kber menni",
         "sentence_fr": "Mon frère est plus âgé que moi",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_005_1.mp3"
       }
     ],
     "notes": "Sert aussi pour s'adresser amicalement à un homme. « le frère » : « lakh »."
@@ -89,7 +109,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/famille/khti.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "ختي صغيرة",
+        "sentence_arabizi": "khti sghira",
+        "sentence_fr": "Ma sœur est petite",
+        "audio_file": "audio/famille/ex_fam_006_1.mp3"
+      }
+    ],
     "notes": "« la sœur » : « lakht »."
   },
   {
@@ -101,7 +128,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/famille/lweld.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الولد كيلعب",
+        "sentence_arabizi": "lweld kayl3ab",
+        "sentence_fr": "Le garçon joue",
+        "audio_file": "audio/famille/ex_fam_007_1.mp3"
+      }
+    ],
     "notes": "Désigne aussi un jeune homme en général."
   },
   {
@@ -118,7 +152,7 @@
         "sentence_ar": "البنت ديالهم صغيرة",
         "sentence_arabizi": "lbent dyalhom sghira",
         "sentence_fr": "Leur fille est petite",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_008_1.mp3"
       }
     ],
     "notes": "Désigne aussi une jeune femme."
@@ -132,7 +166,14 @@
     "register": "familier",
     "difficulty": 2,
     "audio_file": "audio/famille/ddrari.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الدراري فالمدرسة",
+        "sentence_arabizi": "ddrari f lmedrasa",
+        "sentence_fr": "Les enfants sont à l'école",
+        "audio_file": "audio/famille/ex_fam_009_1.mp3"
+      }
+    ],
     "notes": "Singulier « derri » (un gamin). On dit aussi « lwlad »."
   },
   {
@@ -161,7 +202,7 @@
         "sentence_ar": "المرا ديالي خدامة",
         "sentence_arabizi": "lmra dyali khddama",
         "sentence_fr": "Ma femme travaille",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_011_1.mp3"
       }
     ],
     "notes": "« mon épouse » : « mrati »."
@@ -288,7 +329,7 @@
         "sentence_ar": "هادا صاحبي من الصغر",
         "sentence_arabizi": "hada sa7bi mn seghr",
         "sentence_fr": "C'est mon ami depuis l'enfance",
-        "audio_file": null
+        "audio_file": "audio/famille/ex_fam_021_1.mp3"
       }
     ],
     "notes": "Amie : « sa7ba »."
@@ -518,6 +559,546 @@
     "register": "courant",
     "difficulty": 3,
     "audio_file": "audio/famille/m3rfa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_041",
+    "word_ar": "الأسرة",
+    "word_arabizi": "l2osra",
+    "word_fr": "La famille (foyer)",
+    "transliteration": "l-osra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2osra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_042",
+    "word_ar": "الابن",
+    "word_arabizi": "l2iben",
+    "word_fr": "Le fils (formel)",
+    "transliteration": "l-iben",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2iben.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_043",
+    "word_ar": "الأخ",
+    "word_arabizi": "l2akh",
+    "word_fr": "Le frère (formel)",
+    "transliteration": "l-akh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2akh.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_044",
+    "word_ar": "الأخت",
+    "word_arabizi": "l2okht",
+    "word_fr": "La sœur (formel)",
+    "transliteration": "l-okht",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2okht.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_045",
+    "word_ar": "الزوج",
+    "word_arabizi": "zzawj",
+    "word_fr": "L'époux",
+    "transliteration": "z-zawj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/zzawj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_046",
+    "word_ar": "الزوجة",
+    "word_arabizi": "zzawja",
+    "word_fr": "L'épouse",
+    "transliteration": "z-zawja",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/zzawja.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_047",
+    "word_ar": "الجيل",
+    "word_arabizi": "ljil",
+    "word_fr": "La génération",
+    "transliteration": "l-jîl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/ljil.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_048",
+    "word_ar": "النسب",
+    "word_arabizi": "nnasab",
+    "word_fr": "La lignée",
+    "transliteration": "n-nasab",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/nnasab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_049",
+    "word_ar": "القرابة",
+    "word_arabizi": "lqaraba",
+    "word_fr": "La parenté",
+    "transliteration": "l-qarâba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lqaraba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_050",
+    "word_ar": "الأقارب",
+    "word_arabizi": "l2aqareb",
+    "word_fr": "Les proches",
+    "transliteration": "l-aqâreb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2aqareb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_051",
+    "word_ar": "الأجداد",
+    "word_arabizi": "l2ajdad",
+    "word_fr": "Les ancêtres",
+    "transliteration": "l-ajdâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2ajdad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_052",
+    "word_ar": "الأحفاد",
+    "word_arabizi": "l2a7fad",
+    "word_fr": "Les petits-enfants",
+    "transliteration": "l-a7fâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2a7fad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_053",
+    "word_ar": "الوالد",
+    "word_arabizi": "lwaled",
+    "word_fr": "Le père (formel)",
+    "transliteration": "l-wâled",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lwaled.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_054",
+    "word_ar": "الوالدة",
+    "word_arabizi": "lwalida",
+    "word_fr": "La mère (formel)",
+    "transliteration": "l-wâlida",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lwalida.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_055",
+    "word_ar": "الربيب",
+    "word_arabizi": "rrabib",
+    "word_fr": "Le beau-fils (du conjoint)",
+    "transliteration": "r-rabîb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/rrabib.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_056",
+    "word_ar": "الحماة",
+    "word_arabizi": "l7amat",
+    "word_fr": "La belle-mère",
+    "transliteration": "l-7amât",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l7amat.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_057",
+    "word_ar": "الحمو",
+    "word_arabizi": "l7amou",
+    "word_fr": "Le beau-père",
+    "transliteration": "l-7amû",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l7amou.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_058",
+    "word_ar": "الصهر",
+    "word_arabizi": "ssehr",
+    "word_fr": "Le gendre",
+    "transliteration": "s-sehr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/ssehr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_059",
+    "word_ar": "الكنة",
+    "word_arabizi": "lkenna",
+    "word_fr": "La belle-fille / La bru",
+    "transliteration": "l-kenna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lkenna.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_060",
+    "word_ar": "السلف",
+    "word_arabizi": "sslf",
+    "word_fr": "Le beau-frère (alliance)",
+    "transliteration": "s-slf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/sslf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_061",
+    "word_ar": "البكر",
+    "word_arabizi": "lbikr",
+    "word_fr": "L'aîné",
+    "transliteration": "l-bikr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lbikr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_062",
+    "word_ar": "المولود",
+    "word_arabizi": "lmawloud",
+    "word_fr": "Le nouveau-né",
+    "transliteration": "l-mawlûd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lmawloud.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_063",
+    "word_ar": "الشخص",
+    "word_arabizi": "chakhs",
+    "word_fr": "La personne",
+    "transliteration": "ch-akhs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/chakhs.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_064",
+    "word_ar": "الجيران",
+    "word_arabizi": "ljiran",
+    "word_fr": "Les voisins",
+    "transliteration": "l-jîrân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/ljiran.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_065",
+    "word_ar": "الصديق",
+    "word_arabizi": "sdiq",
+    "word_fr": "L'ami (formel)",
+    "transliteration": "sdîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/sdiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_066",
+    "word_ar": "الرفيق",
+    "word_arabizi": "rfiq",
+    "word_fr": "Le compagnon",
+    "transliteration": "rfîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/rfiq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_067",
+    "word_ar": "العدو",
+    "word_arabizi": "l3dou",
+    "word_fr": "L'ennemi",
+    "transliteration": "l-3dû",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l3dou.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_068",
+    "word_ar": "العرس",
+    "word_arabizi": "l3ers",
+    "word_fr": "La noce",
+    "transliteration": "l-3ers",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l3ers.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_069",
+    "word_ar": "المهر",
+    "word_arabizi": "lmehr",
+    "word_fr": "La dot",
+    "transliteration": "l-mehr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lmehr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_070",
+    "word_ar": "العقيقة",
+    "word_arabizi": "l3qiqa",
+    "word_fr": "Le baptême (7e jour)",
+    "transliteration": "l-3qîqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l3qiqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_071",
+    "word_ar": "الحنان",
+    "word_arabizi": "l7nan",
+    "word_fr": "La tendresse",
+    "transliteration": "l-7nân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l7nan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_072",
+    "word_ar": "العطف",
+    "word_arabizi": "l3atf",
+    "word_fr": "L'affection",
+    "transliteration": "l-3atf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l3atf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_073",
+    "word_ar": "الاحترام",
+    "word_arabizi": "l2i7tiram",
+    "word_fr": "Le respect",
+    "transliteration": "l-i7tirâm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2i7tiram.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_074",
+    "word_ar": "الثقة",
+    "word_arabizi": "tthiqa",
+    "word_fr": "La confiance",
+    "transliteration": "t-thiqa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/tthiqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_075",
+    "word_ar": "الخيانة",
+    "word_arabizi": "lkhiyana",
+    "word_fr": "La trahison",
+    "transliteration": "l-khiyâna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lkhiyana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_076",
+    "word_ar": "الأمومة",
+    "word_arabizi": "l2omouma",
+    "word_fr": "La maternité",
+    "transliteration": "l-omûma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2omouma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_077",
+    "word_ar": "الأبوة",
+    "word_arabizi": "l2obowwa",
+    "word_fr": "La paternité",
+    "transliteration": "l-obowwa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2obowwa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_078",
+    "word_ar": "الطفولة",
+    "word_arabizi": "ttofoula",
+    "word_fr": "L'enfance",
+    "transliteration": "t-tofûla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/ttofoula.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_079",
+    "word_ar": "الشباب",
+    "word_arabizi": "chchabab",
+    "word_fr": "La jeunesse",
+    "transliteration": "ch-chabâb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/chchabab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_080",
+    "word_ar": "الشيخوخة",
+    "word_arabizi": "chchaykhoukha",
+    "word_fr": "La vieillesse",
+    "transliteration": "ch-chaykhûkha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/chchaykhoukha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_081",
+    "word_ar": "العزوبية",
+    "word_arabizi": "l3ozoubiya",
+    "word_fr": "Le célibat",
+    "transliteration": "l-3ozûbîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l3ozoubiya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_082",
+    "word_ar": "الأرملة",
+    "word_arabizi": "l2armala",
+    "word_fr": "La veuve",
+    "transliteration": "l-armala",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2armala.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_083",
+    "word_ar": "الأرمل",
+    "word_arabizi": "l2armal",
+    "word_fr": "Le veuf",
+    "transliteration": "l-armal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2armal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_084",
+    "word_ar": "المطلق",
+    "word_arabizi": "lmotallaq",
+    "word_fr": "Le divorcé",
+    "transliteration": "l-motallaq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/lmotallaq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "fam_085",
+    "word_ar": "الأصل",
+    "word_arabizi": "l2asl",
+    "word_fr": "L'origine",
+    "transliteration": "l-asl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/famille/l2asl.mp3",
     "examples": [],
     "notes": ""
   }

@@ -41,38 +41,15 @@ export function toast(msg, type = 'info') {
   toastTimer = setTimeout(() => { t.hidden = true; }, 2200);
 }
 
-// ── Audio gracieux ──
-// On tente d'abord le MP3. S'il manque (ou n'a jamais été téléchargé), on bascule
-// SILENCIEUSEMENT sur la synthèse vocale du navigateur (Web Speech API, voix arabe).
-// L'audio est un enrichissement : jamais une erreur bloquante, jamais un prérequis.
-export function playWord(audioFile, arabicText) {
+// ── Audio ──
+// On joue UNIQUEMENT le MP3 GHIZLANE. Pas de repli synthèse vocale (TTS robotique
+// jugé mauvais) : si le fichier manque, on prévient discrètement, sans son parasite.
+// Le 2ᵉ argument (texte arabe) est conservé pour compat' d'appel mais n'est plus utilisé.
+export function playWord(audioFile) {
   const player = document.getElementById('player');
-  if (audioFile) {
-    player.src = audioFile;
-    player.play().catch(() => speak(arabicText));
-  } else {
-    speak(arabicText);
-  }
-}
-
-// Synthèse vocale locale, repli quand aucun MP3 n'est disponible.
-export function speak(text) {
-  if (!text || !('speechSynthesis' in window)) {
-    toast('🔇 Audio non disponible', 'info');
-    return;
-  }
-  try {
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = 'ar';            // voix arabe si présente sur l'appareil
-    u.rate = 0.85;
-    const voices = window.speechSynthesis.getVoices();
-    const ar = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('ar'));
-    if (ar) u.voice = ar;
-    window.speechSynthesis.speak(u);
-  } catch (e) {
-    toast('🔇 Audio non disponible', 'info');
-  }
+  if (!audioFile) { toast('🔇 Audio indisponible', 'info'); return; }
+  player.src = audioFile;
+  player.play().catch(() => toast('🔇 Audio indisponible', 'info'));
 }
 
 // En-tête de section réutilisable, avec titre + sous-titre + lien retour optionnel.

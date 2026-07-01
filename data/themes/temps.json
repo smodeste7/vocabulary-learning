@@ -13,7 +13,7 @@
         "sentence_ar": "شحال هو الوقت؟",
         "sentence_arabizi": "ch7al how lwqt?",
         "sentence_fr": "Quelle heure est-il ?",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_001_1.mp3"
       }
     ],
     "notes": ""
@@ -32,7 +32,7 @@
         "sentence_ar": "الساعة خمسة",
         "sentence_arabizi": "ssa3a khamsa",
         "sentence_fr": "Il est cinq heures",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_002_1.mp3"
       }
     ],
     "notes": ""
@@ -46,7 +46,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/temps/ddqiqa.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الدقيقة فيها ستين ثانية",
+        "sentence_arabizi": "ddqiqa fiha settin tanya",
+        "sentence_fr": "La minute a soixante secondes",
+        "audio_file": "audio/temps/ex_tem_003_1.mp3"
+      }
+    ],
     "notes": "Pluriel : « ddqayeq »."
   },
   {
@@ -63,7 +70,13 @@
         "sentence_ar": "نهار مزيان اليوم",
         "sentence_arabizi": "nhar mzyan lyoum",
         "sentence_fr": "Belle journée aujourd'hui",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_004_1.mp3"
+      },
+      {
+        "sentence_ar": "النهار طويل فالصيف",
+        "sentence_arabizi": "nhar twil f ssif",
+        "sentence_fr": "Le jour est long en été",
+        "audio_file": "audio/temps/ex_tem_004_2.mp3"
       }
     ],
     "notes": "Pluriel : « iyam »."
@@ -77,7 +90,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/temps/llil.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الليل بارد",
+        "sentence_arabizi": "llil bared",
+        "sentence_fr": "La nuit est froide",
+        "audio_file": "audio/temps/ex_tem_005_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -89,7 +109,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/temps/sba7.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "كنفيق فالصباح بكري",
+        "sentence_arabizi": "kanfiq f sba7 bekri",
+        "sentence_fr": "Je me réveille tôt le matin",
+        "audio_file": "audio/temps/ex_tem_006_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -142,7 +169,7 @@
         "sentence_ar": "عام جديد سعيد",
         "sentence_arabizi": "3am jdid s3id",
         "sentence_fr": "Bonne année",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_010_1.mp3"
       }
     ],
     "notes": "Pluriel : « snin »."
@@ -221,7 +248,7 @@
         "sentence_ar": "نهار الجمعة مقدس",
         "sentence_arabizi": "nhar ljem3a mqddes",
         "sentence_fr": "Le vendredi est sacré",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_016_1.mp3"
       }
     ],
     "notes": "Jour de prière, très important culturellement."
@@ -264,7 +291,7 @@
         "sentence_ar": "وصلت م3قر بزاف",
         "sentence_arabizi": "wselt m3eqqer bzzaf",
         "sentence_fr": "Je suis arrivé très tard",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_019_1.mp3"
       }
     ],
     "notes": ""
@@ -319,7 +346,7 @@
         "sentence_ar": "مرة واحدة",
         "sentence_arabizi": "merra wa7da",
         "sentence_fr": "Une seule fois",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_023_1.mp3"
       }
     ],
     "notes": "Pluriel : « merrat » (des fois / parfois)."
@@ -350,7 +377,7 @@
         "sentence_ar": "زمان كان كيبيع فالسوق",
         "sentence_arabizi": "zman kan kaybi3 f ssouq",
         "sentence_fr": "Autrefois il vendait au marché",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_025_1.mp3"
       }
     ],
     "notes": ""
@@ -525,7 +552,7 @@
         "sentence_ar": "جي بسرعة",
         "sentence_arabizi": "ji bsor3a",
         "sentence_fr": "Viens vite",
-        "audio_file": null
+        "audio_file": "audio/temps/ex_tem_039_1.mp3"
       }
     ],
     "notes": ""
@@ -733,5 +760,485 @@
     "audio_file": "audio/temps/l3id.mp3",
     "examples": [],
     "notes": "Aïd al-Fitr, Aïd al-Adha…"
+  },
+  {
+    "id": "tem_057",
+    "word_ar": "السنة",
+    "word_arabizi": "ssana",
+    "word_fr": "L'année",
+    "transliteration": "s-sana",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/ssana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_058",
+    "word_ar": "الحاضر",
+    "word_arabizi": "l7adir",
+    "word_fr": "Le présent",
+    "transliteration": "l-7âdir",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l7adir.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_059",
+    "word_ar": "الماضي",
+    "word_arabizi": "lmadi",
+    "word_fr": "Le passé",
+    "transliteration": "l-mâdî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmadi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_060",
+    "word_ar": "المستقبل",
+    "word_arabizi": "lmostaqbal",
+    "word_fr": "Le futur",
+    "transliteration": "l-mostaqbal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmostaqbal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_061",
+    "word_ar": "الليلة",
+    "word_arabizi": "llila",
+    "word_fr": "La nuit / Ce soir",
+    "transliteration": "l-lîla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/llila.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_062",
+    "word_ar": "العشاء",
+    "word_arabizi": "l3icha",
+    "word_fr": "Le soir (prière)",
+    "transliteration": "l-3ichâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l3icha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_063",
+    "word_ar": "الشروق",
+    "word_arabizi": "chchorouq",
+    "word_fr": "Le lever du soleil",
+    "transliteration": "ch-chorûq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/chchorouq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_064",
+    "word_ar": "الغروب",
+    "word_arabizi": "lghoroub",
+    "word_fr": "Le coucher du soleil",
+    "transliteration": "l-ghorûb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lghoroub.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_065",
+    "word_ar": "الفترة",
+    "word_arabizi": "lfatra",
+    "word_fr": "La période",
+    "transliteration": "l-fatra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lfatra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_066",
+    "word_ar": "الموسم",
+    "word_arabizi": "lmawsim",
+    "word_fr": "La saison / La période",
+    "transliteration": "l-mawsim",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmawsim.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_067",
+    "word_ar": "المناسبة",
+    "word_arabizi": "lmonasaba",
+    "word_fr": "L'occasion",
+    "transliteration": "l-monâsaba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmonasaba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_068",
+    "word_ar": "التقويم",
+    "word_arabizi": "ttaqwim",
+    "word_fr": "Le calendrier",
+    "transliteration": "t-taqwîm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/ttaqwim.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_069",
+    "word_ar": "الروزنامة",
+    "word_arabizi": "rroznama",
+    "word_fr": "L'agenda",
+    "transliteration": "r-roznâma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/rroznama.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_070",
+    "word_ar": "المنبه",
+    "word_arabizi": "lmonabbih",
+    "word_fr": "Le réveil",
+    "transliteration": "l-monabbih",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmonabbih.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_071",
+    "word_ar": "فجأة",
+    "word_arabizi": "fej2a",
+    "word_fr": "Soudain",
+    "transliteration": "fej'a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/fej2a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_072",
+    "word_ar": "نادرا",
+    "word_arabizi": "nadiran",
+    "word_fr": "Rarement",
+    "transliteration": "nâdiran",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/nadiran.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_073",
+    "word_ar": "قريبا",
+    "word_arabizi": "qariban",
+    "word_fr": "Bientôt",
+    "transliteration": "qarîban",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/qariban.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_074",
+    "word_ar": "مؤخرا",
+    "word_arabizi": "mo2akhkharan",
+    "word_fr": "Récemment",
+    "transliteration": "mo'akhkharan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/mo2akhkharan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_075",
+    "word_ar": "يوميا",
+    "word_arabizi": "yawmiyan",
+    "word_fr": "Quotidiennement",
+    "transliteration": "yawmîyan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/yawmiyan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_076",
+    "word_ar": "أسبوعيا",
+    "word_arabizi": "osbou3iyan",
+    "word_fr": "Chaque semaine",
+    "transliteration": "osbû3îyan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/osbou3iyan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_077",
+    "word_ar": "شهريا",
+    "word_arabizi": "chahriyan",
+    "word_fr": "Chaque mois",
+    "transliteration": "chahrîyan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/chahriyan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_078",
+    "word_ar": "سنويا",
+    "word_arabizi": "sanawiyan",
+    "word_fr": "Chaque année",
+    "transliteration": "sanawîyan",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/sanawiyan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_079",
+    "word_ar": "البداية",
+    "word_arabizi": "lbidaya",
+    "word_fr": "Le début",
+    "transliteration": "l-bidâya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lbidaya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_080",
+    "word_ar": "النهاية",
+    "word_arabizi": "nnihaya",
+    "word_fr": "La fin",
+    "transliteration": "n-nihâya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/nnihaya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_081",
+    "word_ar": "الآخر",
+    "word_arabizi": "lakher",
+    "word_fr": "Le dernier",
+    "transliteration": "l-âkher",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lakher.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_082",
+    "word_ar": "الحين",
+    "word_arabizi": "l7in",
+    "word_fr": "L'instant (f l7in = tout de suite)",
+    "transliteration": "l-7în",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l7in.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_083",
+    "word_ar": "المدى",
+    "word_arabizi": "lmada",
+    "word_fr": "La durée / La portée",
+    "transliteration": "l-mada",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmada.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_084",
+    "word_ar": "العمر",
+    "word_arabizi": "l3omr",
+    "word_fr": "L'âge / La vie",
+    "transliteration": "l-3omr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l3omr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_085",
+    "word_ar": "الحقبة",
+    "word_arabizi": "l7iqba",
+    "word_fr": "L'ère / L'époque",
+    "transliteration": "l-7iqba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l7iqba.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_086",
+    "word_ar": "وقتها",
+    "word_arabizi": "waqtha",
+    "word_fr": "À ce moment-là",
+    "transliteration": "waqt-ha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/waqtha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_087",
+    "word_ar": "بعدها",
+    "word_arabizi": "b3dha",
+    "word_fr": "Après cela",
+    "transliteration": "b3d-ha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/b3dha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_088",
+    "word_ar": "قبلها",
+    "word_arabizi": "qblha",
+    "word_fr": "Avant cela",
+    "transliteration": "qbl-ha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/qblha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_089",
+    "word_ar": "ساعتها",
+    "word_arabizi": "sa3tha",
+    "word_fr": "À cette heure-là",
+    "transliteration": "sâ3t-ha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/sa3tha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_090",
+    "word_ar": "الضحى",
+    "word_arabizi": "dd7a",
+    "word_fr": "La matinée",
+    "transliteration": "d-d7a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/dd7a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_091",
+    "word_ar": "القايلة",
+    "word_arabizi": "lqayla",
+    "word_fr": "La sieste / Le midi",
+    "transliteration": "l-qâyla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lqayla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_092",
+    "word_ar": "السهرة",
+    "word_arabizi": "ssahra",
+    "word_fr": "La soirée",
+    "transliteration": "s-sahra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/ssahra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_093",
+    "word_ar": "المهلة",
+    "word_arabizi": "lmohla",
+    "word_fr": "Le délai",
+    "transliteration": "l-mohla",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/lmohla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_094",
+    "word_ar": "الأجل",
+    "word_arabizi": "l2ajal",
+    "word_fr": "L'échéance",
+    "transliteration": "l-ajal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l2ajal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_095",
+    "word_ar": "الدور",
+    "word_arabizi": "ddor",
+    "word_fr": "Le tour / Le rôle",
+    "transliteration": "d-dor",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/ddor.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "tem_096",
+    "word_ar": "العهد",
+    "word_arabizi": "l3ahd",
+    "word_fr": "L'ère / Le règne",
+    "transliteration": "l-3ahd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/temps/l3ahd.mp3",
+    "examples": [],
+    "notes": ""
   }
 ]

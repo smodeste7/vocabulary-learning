@@ -8,7 +8,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/ljism.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الجسم محتاج الماء",
+        "sentence_arabizi": "ljism m7taj lma",
+        "sentence_fr": "Le corps a besoin d'eau",
+        "audio_file": "audio/corps/ex_cor_001_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -25,7 +32,13 @@
         "sentence_ar": "كيوجعني راسي",
         "sentence_arabizi": "kaywej3ni rasi",
         "sentence_fr": "J'ai mal à la tête",
-        "audio_file": null
+        "audio_file": "audio/corps/ex_cor_002_1.mp3"
+      },
+      {
+        "sentence_ar": "الراس كيوجعني",
+        "sentence_arabizi": "rras kaywej3ni",
+        "sentence_fr": "La tête me fait mal",
+        "audio_file": "audio/corps/ex_cor_002_2.mp3"
       }
     ],
     "notes": "Entre aussi dans « rask » (toi-même)."
@@ -39,7 +52,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/lwjeh.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الوجه ديالها زوين",
+        "sentence_arabizi": "lwjeh dyalha zwin",
+        "sentence_fr": "Son visage est joli",
+        "audio_file": "audio/corps/ex_cor_003_1.mp3"
+      }
+    ],
     "notes": "On dit souvent « lwjh »."
   },
   {
@@ -56,7 +76,13 @@
         "sentence_ar": "عينيه زرقين",
         "sentence_arabizi": "3inih zerqin",
         "sentence_fr": "Ses yeux sont bleus",
-        "audio_file": null
+        "audio_file": "audio/corps/ex_cor_004_1.mp3"
+      },
+      {
+        "sentence_ar": "العين كتشوف",
+        "sentence_arabizi": "l3in katchouf",
+        "sentence_fr": "L'œil voit",
+        "audio_file": "audio/corps/ex_cor_004_2.mp3"
       }
     ],
     "notes": "Les yeux : « l3inin »."
@@ -70,7 +96,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/corps/lfomm.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الفم ديالو كبير",
+        "sentence_arabizi": "lfomm dyalo kbir",
+        "sentence_fr": "Sa bouche est grande",
+        "audio_file": "audio/corps/ex_cor_005_1.mp3"
+      }
+    ],
     "notes": ""
   },
   {
@@ -82,7 +115,14 @@
     "register": "courant",
     "difficulty": 1,
     "audio_file": "audio/corps/nnif.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "النيف ديالو طويل",
+        "sentence_arabizi": "nnif dyalo twil",
+        "sentence_fr": "Son nez est long",
+        "audio_file": "audio/corps/ex_cor_006_1.mp3"
+      }
+    ],
     "notes": "« nif » désigne aussi la fierté / l'amour-propre."
   },
   {
@@ -94,7 +134,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/lwden.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الودن كتسمع",
+        "sentence_arabizi": "lwden katsma3",
+        "sentence_fr": "L'oreille entend",
+        "audio_file": "audio/corps/ex_cor_007_1.mp3"
+      }
+    ],
     "notes": "Les oreilles : « lwdnin »."
   },
   {
@@ -106,7 +153,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/ch3ar.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "الشعر ديالها طويل",
+        "sentence_arabizi": "ch3ar dyalha twil",
+        "sentence_fr": "Ses cheveux sont longs",
+        "audio_file": "audio/corps/ex_cor_008_1.mp3"
+      }
+    ],
     "notes": "Désigne aussi les poils."
   },
   {
@@ -118,7 +172,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/ssnna.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "السنة كتوجعني",
+        "sentence_arabizi": "ssnna katwej3ni",
+        "sentence_fr": "La dent me fait mal",
+        "audio_file": "audio/corps/ex_cor_009_1.mp3"
+      }
+    ],
     "notes": "Les dents : « ssnan »."
   },
   {
@@ -130,7 +191,14 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/corps/lsan.mp3",
-    "examples": [],
+    "examples": [
+      {
+        "sentence_ar": "اللسان أحمر",
+        "sentence_arabizi": "lsan a7mar",
+        "sentence_fr": "La langue est rouge",
+        "audio_file": "audio/corps/ex_cor_010_1.mp3"
+      }
+    ],
     "notes": "Désigne aussi la langue parlée."
   },
   {
@@ -171,7 +239,7 @@
         "sentence_ar": "سلني يدك",
         "sentence_arabizi": "selni yeddek",
         "sentence_fr": "Donne-moi ta main",
-        "audio_file": null
+        "audio_file": "audio/corps/ex_cor_013_1.mp3"
       }
     ],
     "notes": "Désigne aussi le bras dans l'usage courant. Les mains : « lidin »."
@@ -226,7 +294,7 @@
         "sentence_ar": "عندو قلب كبير",
         "sentence_arabizi": "3ndo qelb kbir",
         "sentence_fr": "Il a un grand cœur (il est généreux)",
-        "audio_file": null
+        "audio_file": "audio/corps/ex_cor_017_1.mp3"
       }
     ],
     "notes": ""
@@ -245,7 +313,7 @@
         "sentence_ar": "كيوجعني كرشي",
         "sentence_arabizi": "kaywej3ni kerchi",
         "sentence_fr": "J'ai mal au ventre",
-        "audio_file": null
+        "audio_file": "audio/corps/ex_cor_018_1.mp3"
       }
     ],
     "notes": "« batn » est plus formel."
@@ -475,6 +543,546 @@
     "register": "courant",
     "difficulty": 3,
     "audio_file": "audio/corps/ssorra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_038",
+    "word_ar": "الجبهة",
+    "word_arabizi": "ljbha",
+    "word_fr": "Le front",
+    "transliteration": "l-jbha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ljbha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_039",
+    "word_ar": "الحنك",
+    "word_arabizi": "l7ank",
+    "word_fr": "La mâchoire",
+    "transliteration": "l-7ank",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l7ank.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_040",
+    "word_ar": "الشوارب",
+    "word_arabizi": "chchwareb",
+    "word_fr": "La moustache",
+    "transliteration": "ch-chwâreb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/chchwareb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_041",
+    "word_ar": "اللحية",
+    "word_arabizi": "lle7ya",
+    "word_fr": "La barbe",
+    "transliteration": "l-le7ya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lle7ya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_042",
+    "word_ar": "الرمش",
+    "word_arabizi": "rremch",
+    "word_fr": "Les cils",
+    "transliteration": "r-remch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/rremch.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_043",
+    "word_ar": "المنخار",
+    "word_arabizi": "lmenkhar",
+    "word_fr": "La narine",
+    "transliteration": "l-menkhâr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lmenkhar.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_044",
+    "word_ar": "البلعوم",
+    "word_arabizi": "lbal3oum",
+    "word_fr": "Le gosier",
+    "transliteration": "l-bal3ûm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lbal3oum.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_045",
+    "word_ar": "الرئة",
+    "word_arabizi": "rri2a",
+    "word_fr": "Le poumon",
+    "transliteration": "r-ri'a",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/rri2a.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_046",
+    "word_ar": "الأمعاء",
+    "word_arabizi": "l2am3a2",
+    "word_fr": "Les intestins",
+    "transliteration": "l-am3â",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l2am3a2.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_047",
+    "word_ar": "الكلية",
+    "word_arabizi": "lkliya",
+    "word_fr": "Le rein",
+    "transliteration": "l-kliya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lkliya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_048",
+    "word_ar": "المثانة",
+    "word_arabizi": "lmatana",
+    "word_fr": "La vessie",
+    "transliteration": "l-matâna",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lmatana.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_049",
+    "word_ar": "العمود الفقري",
+    "word_arabizi": "l3amoud lfaqri",
+    "word_fr": "La colonne vertébrale",
+    "transliteration": "l-3amûd l-faqrî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l3amoud_lfaqri.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_050",
+    "word_ar": "الضلع",
+    "word_arabizi": "ddel3",
+    "word_fr": "La côte",
+    "transliteration": "d-del3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ddel3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_051",
+    "word_ar": "الحوض",
+    "word_arabizi": "l7awd",
+    "word_fr": "Le bassin",
+    "transliteration": "l-7awd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l7awd.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_052",
+    "word_ar": "الورك",
+    "word_arabizi": "lwerk",
+    "word_fr": "La hanche",
+    "transliteration": "l-werk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lwerk.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_053",
+    "word_ar": "الساق",
+    "word_arabizi": "ssaq",
+    "word_fr": "Le tibia",
+    "transliteration": "s-sâq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ssaq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_054",
+    "word_ar": "العرقوب",
+    "word_arabizi": "l3arqoub",
+    "word_fr": "Le tendon d'Achille",
+    "transliteration": "l-3arqûb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l3arqoub.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_055",
+    "word_ar": "الكف",
+    "word_arabizi": "lkeff",
+    "word_fr": "La paume",
+    "transliteration": "l-keff",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lkeff.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_056",
+    "word_ar": "الإبهام",
+    "word_arabizi": "l2ibham",
+    "word_fr": "Le pouce",
+    "transliteration": "l-ibhâm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l2ibham.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_057",
+    "word_ar": "السبابة",
+    "word_arabizi": "ssababa",
+    "word_fr": "L'index",
+    "transliteration": "s-sabbâba",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ssababa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_058",
+    "word_ar": "الرسغ",
+    "word_arabizi": "rrosgh",
+    "word_fr": "Le poignet",
+    "transliteration": "r-rosgh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/rrosgh.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_059",
+    "word_ar": "الحنجرة",
+    "word_arabizi": "l7anjara",
+    "word_fr": "Le larynx",
+    "transliteration": "l-7anjara",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l7anjara.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_060",
+    "word_ar": "الصوت",
+    "word_arabizi": "ssawt",
+    "word_fr": "La voix",
+    "transliteration": "s-sawt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ssawt.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_061",
+    "word_ar": "البشرة",
+    "word_arabizi": "lbachra",
+    "word_fr": "La peau (du visage)",
+    "transliteration": "l-bachra",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lbachra.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_062",
+    "word_ar": "الشريان",
+    "word_arabizi": "chchiryan",
+    "word_fr": "L'artère",
+    "transliteration": "ch-chiryân",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/chchiryan.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_063",
+    "word_ar": "الوريد",
+    "word_arabizi": "lwarid",
+    "word_fr": "La veine",
+    "transliteration": "l-warîd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lwarid.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_064",
+    "word_ar": "الخصر",
+    "word_arabizi": "lkhasr",
+    "word_fr": "La taille",
+    "transliteration": "l-khasr",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lkhasr.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_065",
+    "word_ar": "الردف",
+    "word_arabizi": "rrdf",
+    "word_fr": "La fesse",
+    "transliteration": "r-rdf",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/rrdf.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_066",
+    "word_ar": "الجفن",
+    "word_arabizi": "ljefn",
+    "word_fr": "La paupière",
+    "transliteration": "l-jefn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ljefn.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_067",
+    "word_ar": "الطحال",
+    "word_arabizi": "tt7al",
+    "word_fr": "La rate",
+    "transliteration": "t-t7âl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/tt7al.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_068",
+    "word_ar": "الجمجمة",
+    "word_arabizi": "ljemjma",
+    "word_fr": "Le crâne",
+    "transliteration": "l-jemjma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ljemjma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_069",
+    "word_ar": "الإبط",
+    "word_arabizi": "l2ibt",
+    "word_fr": "L'aisselle",
+    "transliteration": "l-ibt",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l2ibt.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_070",
+    "word_ar": "البصمة",
+    "word_arabizi": "lbasma",
+    "word_fr": "L'empreinte",
+    "transliteration": "l-basma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lbasma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_071",
+    "word_ar": "الريق",
+    "word_arabizi": "rriq",
+    "word_fr": "La salive",
+    "transliteration": "r-rîq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/rriq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_072",
+    "word_ar": "البول",
+    "word_arabizi": "lbawl",
+    "word_fr": "L'urine",
+    "transliteration": "l-bawl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lbawl.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_073",
+    "word_ar": "الحركة",
+    "word_arabizi": "l7araka",
+    "word_fr": "Le mouvement",
+    "transliteration": "l-7araka",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l7araka.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_074",
+    "word_ar": "المشية",
+    "word_arabizi": "lmechya",
+    "word_fr": "La démarche",
+    "transliteration": "l-mechya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lmechya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_075",
+    "word_ar": "الشم",
+    "word_arabizi": "chchemm",
+    "word_fr": "L'odorat",
+    "transliteration": "ch-chemm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/chchemm.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_076",
+    "word_ar": "اللمس",
+    "word_arabizi": "llams",
+    "word_fr": "Le toucher",
+    "transliteration": "l-lams",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/llams.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_077",
+    "word_ar": "الذوق",
+    "word_arabizi": "ddawq",
+    "word_fr": "Le goût",
+    "transliteration": "d-dawq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/ddawq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_078",
+    "word_ar": "الحاسة",
+    "word_arabizi": "l7assa",
+    "word_fr": "Le sens",
+    "transliteration": "l-7âssa",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l7assa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_079",
+    "word_ar": "القامة",
+    "word_arabizi": "lqama",
+    "word_fr": "La stature",
+    "transliteration": "l-qâma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lqama.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_080",
+    "word_ar": "الهيكل",
+    "word_arabizi": "lhaykal",
+    "word_fr": "Le squelette",
+    "transliteration": "l-haykal",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/lhaykal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_081",
+    "word_ar": "العضو",
+    "word_arabizi": "l3odw",
+    "word_fr": "Le membre / L'organe",
+    "transliteration": "l-3odw",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/l3odw.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "cor_082",
+    "word_ar": "الشامة",
+    "word_arabizi": "chchama",
+    "word_fr": "Le grain de beauté",
+    "transliteration": "ch-châma",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/corps/chchama.mp3",
     "examples": [],
     "notes": ""
   }

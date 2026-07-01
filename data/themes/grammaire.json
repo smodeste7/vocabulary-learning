@@ -13,7 +13,7 @@
         "sentence_ar": "أنا و خويا مشينا للسوق",
         "sentence_arabizi": "ana w khoya mchina ls-souq",
         "sentence_fr": "Mon frère et moi sommes allés au marché",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_001_1.mp3"
       }
     ],
     "notes": ""
@@ -32,7 +32,7 @@
         "sentence_ar": "بغيت نمشي ولكن كنت عياني",
         "sentence_arabizi": "bghit nmchi walakin kont 3yani",
         "sentence_fr": "Je voulais y aller mais j'étais fatigué",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_002_1.mp3"
       }
     ],
     "notes": "On dit aussi « machi » ou « lakin » dans le langage rapide."
@@ -51,7 +51,7 @@
         "sentence_ar": "علاش ما جيتيش؟",
         "sentence_arabizi": "3lach ma jitich?",
         "sentence_fr": "Pourquoi tu n'es pas venu ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_003_1.mp3"
       }
     ],
     "notes": "Sert à la fois pour « parce que » et « pourquoi » selon le contexte."
@@ -82,7 +82,7 @@
         "sentence_ar": "إلى كملتي، مشي نعس",
         "sentence_arabizi": "ila kmelti, mchi n3as",
         "sentence_fr": "Si tu as fini, va dormir",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_005_1.mp3"
       }
     ],
     "notes": "Comme conjonction « si ». Comme préposition signifie « vers »."
@@ -101,7 +101,7 @@
         "sentence_ar": "بغيتي أتاي وللا قهوة؟",
         "sentence_arabizi": "bghiti atay wella qahwa?",
         "sentence_fr": "Tu veux du thé ou du café ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_006_1.mp3"
       }
     ],
     "notes": ""
@@ -120,7 +120,7 @@
         "sentence_ar": "جا معايا",
         "sentence_arabizi": "ja m3aya",
         "sentence_fr": "Il est venu avec moi",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_007_1.mp3"
       }
     ],
     "notes": "m3aya (avec moi), m3ak (avec toi), m3ah (avec lui)."
@@ -139,7 +139,7 @@
         "sentence_ar": "أتاي بلا سكر",
         "sentence_arabizi": "atay bla skkar",
         "sentence_fr": "Du thé sans sucre",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_008_1.mp3"
       }
     ],
     "notes": ""
@@ -158,7 +158,7 @@
         "sentence_ar": "هو فالدار",
         "sentence_arabizi": "how f ddar",
         "sentence_fr": "Il est à la maison",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_009_1.mp3"
       }
     ],
     "notes": "Préposition très polyvalente. Se soude au mot suivant."
@@ -177,7 +177,7 @@
         "sentence_ar": "أنا من الرباط",
         "sentence_arabizi": "ana mn rrbat",
         "sentence_fr": "Je suis de Rabat",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_010_1.mp3"
       }
     ],
     "notes": ""
@@ -196,7 +196,7 @@
         "sentence_ar": "حط الكتاب على الطيبلة",
         "sentence_arabizi": "7ett lktab 3la ttibla",
         "sentence_fr": "Pose le livre sur la table",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_011_1.mp3"
       }
     ],
     "notes": "3liya (sur moi), 3lik (sur toi), 3lih (sur lui)."
@@ -215,7 +215,7 @@
         "sentence_ar": "هاد الكتاب ديالي",
         "sentence_arabizi": "had lktab dyali",
         "sentence_fr": "Ce livre est à moi",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_012_1.mp3"
       }
     ],
     "notes": "dyali (à moi), dyal (à), dyalak (à toi), dyalha (à elle)."
@@ -234,7 +234,7 @@
         "sentence_ar": "هاد الشي مزيان",
         "sentence_arabizi": "had chi mzyan",
         "sentence_fr": "Cette chose est bien",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_013_1.mp3"
       }
     ],
     "notes": "Démonstratif proche. Lointain : « hadak » (masc.) / « hadik » (fém.)."
@@ -265,7 +265,7 @@
         "sentence_ar": "كيفاش دير هاد الشي؟",
         "sentence_arabizi": "kifach dir had chi?",
         "sentence_fr": "Comment on fait ça ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_015_1.mp3"
       }
     ],
     "notes": ""
@@ -284,7 +284,7 @@
         "sentence_ar": "فين كتسكن؟",
         "sentence_arabizi": "fin kteskn?",
         "sentence_fr": "Où est-ce que tu habites ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_016_1.mp3"
       }
     ],
     "notes": ""
@@ -303,7 +303,7 @@
         "sentence_ar": "إمتى تيجي؟",
         "sentence_arabizi": "imta tiji?",
         "sentence_fr": "Quand tu viens ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_017_1.mp3"
       }
     ],
     "notes": ""
@@ -322,7 +322,7 @@
         "sentence_ar": "شحال هاد الشي؟",
         "sentence_arabizi": "ch7al had chi?",
         "sentence_fr": "C'est combien ça ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_018_1.mp3"
       }
     ],
     "notes": ""
@@ -341,7 +341,7 @@
         "sentence_ar": "شكون هو؟",
         "sentence_arabizi": "chkoun how?",
         "sentence_fr": "Qui est-ce ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_019_1.mp3"
       }
     ],
     "notes": ""
@@ -360,7 +360,7 @@
         "sentence_ar": "أش كتبغي؟",
         "sentence_arabizi": "ach ktbghi?",
         "sentence_fr": "Qu'est-ce que tu veux ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_020_1.mp3"
       }
     ],
     "notes": "On dit aussi « chnou » dans certaines régions."
@@ -379,7 +379,7 @@
         "sentence_ar": "أنا جاي دابا",
         "sentence_arabizi": "ana jay daba",
         "sentence_fr": "J'arrive tout de suite",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_021_1.mp3"
       }
     ],
     "notes": "Un des mots les plus utilisés du Darija."
@@ -434,7 +434,7 @@
         "sentence_ar": "شكرا بزاف",
         "sentence_arabizi": "shukran bzzaf",
         "sentence_fr": "Merci beaucoup",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_025_1.mp3"
       }
     ],
     "notes": "Sert d'intensificateur universel."
@@ -453,7 +453,7 @@
         "sentence_ar": "هضر chwiya chwiya",
         "sentence_arabizi": "hder chwiya chwiya",
         "sentence_fr": "Parle doucement (lentement)",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_026_1.mp3"
       }
     ],
     "notes": "Répété (chwiya chwiya) = très doucement, petit à petit."
@@ -472,7 +472,7 @@
         "sentence_ar": "غير شوية",
         "sentence_arabizi": "ghir chwiya",
         "sentence_fr": "Juste un peu",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_027_1.mp3"
       }
     ],
     "notes": "On dit aussi « brk » (bark) pour « seulement »."
@@ -503,7 +503,7 @@
         "sentence_ar": "مشيت حتى الدار",
         "sentence_arabizi": "mchit 7tta ddar",
         "sentence_fr": "J'ai marché jusqu'à la maison",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_029_1.mp3"
       }
     ],
     "notes": "Sert aussi d'intensificateur (même lui, même ça)."
@@ -534,7 +534,7 @@
         "sentence_ar": "نتلاقاو من بعد",
         "sentence_arabizi": "ntlaqaw mn b3d",
         "sentence_fr": "On se voit plus tard",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_031_1.mp3"
       }
     ],
     "notes": "« mn b3d » = plus tard / après ça."
@@ -553,7 +553,7 @@
         "sentence_ar": "ما زال ما وصلش",
         "sentence_arabizi": "mazal ma wselch",
         "sentence_fr": "Il n'est toujours pas arrivé",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_032_1.mp3"
       }
     ],
     "notes": ""
@@ -572,7 +572,7 @@
         "sentence_ar": "ما شفتوش قط",
         "sentence_arabizi": "ma chftuch qett",
         "sentence_fr": "Je ne l'ai jamais vu",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_033_1.mp3"
       }
     ],
     "notes": "Toujours utilisé avec la négation."
@@ -627,7 +627,7 @@
         "sentence_ar": "يمكن يجي غدا",
         "sentence_arabizi": "yimken yji ghedda",
         "sentence_fr": "Il viendra peut-être demain",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_037_1.mp3"
       }
     ],
     "notes": ""
@@ -646,7 +646,7 @@
         "sentence_ar": "كنمشي للخدمة كل نهار",
         "sentence_arabizi": "knmchi l lkhedma kol nhar",
         "sentence_fr": "Je vais au travail tous les jours",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_038_1.mp3"
       }
     ],
     "notes": "Préfixe verbal clé : ka- (je), kat- (tu/elle), kay- (il), kan- (nous), katt- (vous), kay- (ils). Marque le présent habituel."
@@ -665,7 +665,7 @@
         "sentence_ar": "غادي نمشي غدا",
         "sentence_arabizi": "ghadi nmchi ghedda",
         "sentence_fr": "Je vais partir demain",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_039_1.mp3"
       }
     ],
     "notes": "Marqueur de futur. ghadi (je vais), ghadia (elle va), ghadin (ils vont)."
@@ -684,7 +684,7 @@
         "sentence_ar": "ما فهمتش",
         "sentence_arabizi": "ma fhemtch",
         "sentence_fr": "Je n'ai pas compris",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_040_1.mp3"
       }
     ],
     "notes": "Structure de négation : ma + verbe + ch. Ex: ma mchich (je ne suis pas allé)."
@@ -703,7 +703,7 @@
         "sentence_ar": "عندي سؤال",
         "sentence_arabizi": "3ndi so2al",
         "sentence_fr": "J'ai une question",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_041_1.mp3"
       }
     ],
     "notes": "3ndi (j'ai), 3ndak (tu as), 3ndo (il a), 3ndha (elle a), 3ndna (nous avons)."
@@ -722,7 +722,7 @@
         "sentence_ar": "خاصني نروح للطبيب",
         "sentence_arabizi": "khasni nro7 ltbib",
         "sentence_fr": "J'ai besoin d'aller chez le médecin",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_042_1.mp3"
       }
     ],
     "notes": "khasni (il me faut), khasak (il te faut), khaso (il lui faut)."
@@ -741,7 +741,7 @@
         "sentence_ar": "بغيت كاس ديال الما",
         "sentence_arabizi": "bghit kas dyal lma",
         "sentence_fr": "Je voudrais un verre d'eau",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_043_1.mp3"
       }
     ],
     "notes": "bghit (je veux), bghiti (tu veux), bgha (il veut), bghât (elle veut)."
@@ -760,7 +760,7 @@
         "sentence_ar": "ما قادرش نجي",
         "sentence_arabizi": "ma qadirch nji",
         "sentence_fr": "Je ne peux pas venir",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_044_1.mp3"
       }
     ],
     "notes": "qadir (je peux, masculin), qadra (féminin). Très utilisé."
@@ -779,7 +779,7 @@
         "sentence_ar": "لازم تمشي دابا",
         "sentence_arabizi": "lazem tmchi daba",
         "sentence_fr": "Il faut que tu partes maintenant",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_045_1.mp3"
       }
     ],
     "notes": "Invariable, suivi d'un verbe conjugué."
@@ -798,7 +798,7 @@
         "sentence_ar": "كان فيه ناس بزاف",
         "sentence_arabizi": "kan fih nas bzzaf",
         "sentence_fr": "Il y avait beaucoup de monde",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_046_1.mp3"
       }
     ],
     "notes": "kan (il était/y avait), kanet (elle était), kano (ils étaient)."
@@ -853,7 +853,7 @@
         "sentence_ar": "فيه مشكل",
         "sentence_arabizi": "fih mochkil",
         "sentence_fr": "Il y a un problème",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_050_1.mp3"
       }
     ],
     "notes": "ma fihch = il n'y a pas / il n'y est pas."
@@ -872,7 +872,7 @@
         "sentence_ar": "راه جاي",
         "sentence_arabizi": "rah jay",
         "sentence_fr": "Il arrive (il est en train de venir)",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_051_1.mp3"
       }
     ],
     "notes": "Marqueur d'aspect très courant. raha (elle), rahom (ils)."
@@ -891,7 +891,7 @@
         "sentence_ar": "واش كتفهم؟",
         "sentence_arabizi": "wach ktfhem?",
         "sentence_fr": "Est-ce que tu comprends ?",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_052_1.mp3"
       }
     ],
     "notes": "Marqueur interrogatif, se place en début de phrase."
@@ -910,7 +910,7 @@
         "sentence_ar": "كل يوم",
         "sentence_arabizi": "kol yom",
         "sentence_fr": "Chaque jour / Tous les jours",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_053_1.mp3"
       }
     ],
     "notes": ""
@@ -929,7 +929,7 @@
         "sentence_ar": "هو بحال خويا",
         "sentence_arabizi": "how b7al khoya",
         "sentence_fr": "Il est comme mon frère",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_054_1.mp3"
       }
     ],
     "notes": ""
@@ -1092,7 +1092,7 @@
         "sentence_ar": "الراجل اللي جا",
         "sentence_arabizi": "rrajel lli ja",
         "sentence_fr": "L'homme qui est venu",
-        "audio_file": null
+        "audio_file": "audio/grammaire/ex_gra_067_1.mp3"
       }
     ],
     "notes": "Pronom relatif unique pour qui/que/dont."
@@ -1142,6 +1142,366 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/grammaire/taqriban.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_072",
+    "word_ar": "هادو",
+    "word_arabizi": "hadou",
+    "word_fr": "Ceux-ci / Celles-ci",
+    "transliteration": "hâdû",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/hadou.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_073",
+    "word_ar": "داكشي",
+    "word_arabizi": "dakchi",
+    "word_fr": "Cela / Ce truc",
+    "transliteration": "dâk-chî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/dakchi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_074",
+    "word_ar": "هادشي",
+    "word_arabizi": "hadchi",
+    "word_fr": "Ceci / Ça",
+    "transliteration": "hâd-chî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/hadchi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_075",
+    "word_ar": "ديالك",
+    "word_arabizi": "dyalek",
+    "word_fr": "Le tien",
+    "transliteration": "dyâlek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/dyalek.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_076",
+    "word_ar": "ديالو",
+    "word_arabizi": "dyalo",
+    "word_fr": "Le sien",
+    "transliteration": "dyâlo",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/dyalo.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_077",
+    "word_ar": "ديالنا",
+    "word_arabizi": "dyalna",
+    "word_fr": "Le nôtre",
+    "transliteration": "dyâlnâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/dyalna.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_078",
+    "word_ar": "ديالهم",
+    "word_arabizi": "dyalhom",
+    "word_fr": "Le leur",
+    "transliteration": "dyâlhom",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/dyalhom.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_079",
+    "word_ar": "معاه",
+    "word_arabizi": "m3ah",
+    "word_fr": "Avec lui",
+    "transliteration": "m3âh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/m3ah.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_080",
+    "word_ar": "معاهم",
+    "word_arabizi": "m3ahom",
+    "word_fr": "Avec eux",
+    "transliteration": "m3âhom",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/m3ahom.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_081",
+    "word_ar": "عليك",
+    "word_arabizi": "3lik",
+    "word_fr": "Sur toi / Tu dois",
+    "transliteration": "3lîk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/3lik.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_082",
+    "word_ar": "عليا",
+    "word_arabizi": "3liya",
+    "word_fr": "Sur moi / Je dois",
+    "transliteration": "3lîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/3liya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_083",
+    "word_ar": "ليك",
+    "word_arabizi": "lik",
+    "word_fr": "Pour toi",
+    "transliteration": "lîk",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/lik.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_084",
+    "word_ar": "ليا",
+    "word_arabizi": "liya",
+    "word_fr": "Pour moi",
+    "transliteration": "lîya",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/liya.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_085",
+    "word_ar": "بيه",
+    "word_arabizi": "bih",
+    "word_fr": "Par lui / Avec ça",
+    "transliteration": "bîh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/bih.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_086",
+    "word_ar": "فيها",
+    "word_arabizi": "fiha",
+    "word_fr": "Dedans / En elle",
+    "transliteration": "fîha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/fiha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_087",
+    "word_ar": "منها",
+    "word_arabizi": "menha",
+    "word_fr": "D'elle / De là",
+    "transliteration": "menha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/menha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_088",
+    "word_ar": "عندهم",
+    "word_arabizi": "3ndhom",
+    "word_fr": "Ils ont",
+    "transliteration": "3nd-hom",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/3ndhom.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_089",
+    "word_ar": "عندها",
+    "word_arabizi": "3ndha",
+    "word_fr": "Elle a",
+    "transliteration": "3nd-ha",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/3ndha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_090",
+    "word_ar": "شي",
+    "word_arabizi": "chi",
+    "word_fr": "Quelque / Un peu de",
+    "transliteration": "chî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/chi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_091",
+    "word_ar": "بعض",
+    "word_arabizi": "ba3d",
+    "word_fr": "Certains / Quelques-uns",
+    "transliteration": "ba3d",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/ba3d.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_092",
+    "word_ar": "كلهم",
+    "word_arabizi": "kolhom",
+    "word_fr": "Eux tous",
+    "transliteration": "kol-hom",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/kolhom.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_093",
+    "word_ar": "بوحدو",
+    "word_arabizi": "bo7do",
+    "word_fr": "Tout seul",
+    "transliteration": "bo-7do",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/bo7do.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_094",
+    "word_ar": "راسي",
+    "word_arabizi": "rasi",
+    "word_fr": "Moi-même",
+    "transliteration": "râsî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/rasi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_095",
+    "word_ar": "إما",
+    "word_arabizi": "imma",
+    "word_fr": "Soit... soit...",
+    "transliteration": "immâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/imma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_096",
+    "word_ar": "مادام",
+    "word_arabizi": "madam",
+    "word_fr": "Tant que",
+    "transliteration": "mâdâm",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/madam.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_097",
+    "word_ar": "كون",
+    "word_arabizi": "koun",
+    "word_fr": "Si (irréel)",
+    "transliteration": "kûn",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/koun.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_098",
+    "word_ar": "زعما",
+    "word_arabizi": "z3ma",
+    "word_fr": "Soi-disant / Genre",
+    "transliteration": "z3mâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/z3ma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_099",
+    "word_ar": "على حساب",
+    "word_arabizi": "3la 7sab",
+    "word_fr": "Selon / Ça dépend",
+    "transliteration": "3lâ 7sâb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/3la_7sab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_100",
+    "word_ar": "من بعد",
+    "word_arabizi": "men be3d",
+    "word_fr": "Ensuite / Après",
+    "transliteration": "men be3d",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/men_be3d.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "gra_101",
+    "word_ar": "فوقاش",
+    "word_arabizi": "fouqach",
+    "word_fr": "Quand ?",
+    "transliteration": "fûqâch",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/grammaire/fouqach.mp3",
     "examples": [],
     "notes": ""
   }

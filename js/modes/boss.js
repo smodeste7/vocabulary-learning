@@ -86,6 +86,12 @@ function runBoss(t, words) {
       choiceEls.push(btn);
     });
     mount(
+      el('div', { class: 'quiz-topbar' }, [
+        el('button', {
+          class: 'quit-btn',
+          onclick: () => { if (confirm('Abandonner le combat ? Ta progression de ce boss sera perdue.')) location.hash = `#theme/${t.id}`; },
+        }, '✕ Quitter'),
+      ]),
       el('div', { class: 'quiz-head boss-head' }, [
         el('span', { text: `⚔️ ${i + 1}/${N}` }),
         el('span', { class: missed.length ? 'err' : '', text: `Score : ${score}` }),

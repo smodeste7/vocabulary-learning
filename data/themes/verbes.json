@@ -13,7 +13,7 @@
         "sentence_ar": "مشيت للسوق",
         "sentence_arabizi": "mchit ls-souq",
         "sentence_fr": "Je suis allé au marché",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_001_1.mp3"
       }
     ],
     "notes": "Conjugaison : mchit (je suis allé), mchiti (tu es allé), mcha (il est allé), mchat (elle est allée), mchina (nous sommes allés)."
@@ -32,7 +32,7 @@
         "sentence_ar": "جاء من بعيد",
         "sentence_arabizi": "ja mn b3id",
         "sentence_fr": "Il est venu de loin",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_002_1.mp3"
       }
     ],
     "notes": "jit (je suis venu), jiti (tu es venu), ja (il est venu), jat (elle est venue), jina (nous sommes venus)."
@@ -51,7 +51,7 @@
         "sentence_ar": "كلينا كسكس",
         "sentence_arabizi": "klina koskos",
         "sentence_fr": "On a mangé du couscous",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_003_1.mp3"
       }
     ],
     "notes": "klayt (j'ai mangé), kliti (tu as mangé), kla (il a mangé), klat (elle a mangé)."
@@ -70,7 +70,7 @@
         "sentence_ar": "كنشرب أتاي كل صباح",
         "sentence_arabizi": "knchreb atay kol sba7",
         "sentence_fr": "Je bois du thé tous les matins",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_004_1.mp3"
       }
     ],
     "notes": "chrebt (j'ai bu), chrebti (tu as bu), chrb (il a bu), chrbet (elle a bu)."
@@ -89,7 +89,7 @@
         "sentence_ar": "ما نعستش مليح الليلة",
         "sentence_arabizi": "ma n3astch mli7 llila",
         "sentence_fr": "Je n'ai pas bien dormi cette nuit",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_005_1.mp3"
       }
     ],
     "notes": "n3ast (j'ai dormi), n3asti (tu as dormi), n3as (il a dormi)."
@@ -108,7 +108,7 @@
         "sentence_ar": "قمت بكري اليوم",
         "sentence_arabizi": "qomt bekri lyoum",
         "sentence_fr": "Je me suis levé tôt aujourd'hui",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_006_1.mp3"
       }
     ],
     "notes": "qomt (je me suis levé), qomti (tu t'es levé), qam (il s'est levé)."
@@ -127,7 +127,7 @@
         "sentence_ar": "كيهضر الدارجة مزيان",
         "sentence_arabizi": "kayehder ddarija mzyan",
         "sentence_fr": "Il parle bien le darija",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_007_1.mp3"
       }
     ],
     "notes": "hdert (j'ai parlé), hderti (tu as parlé), hder (il a parlé)."
@@ -146,7 +146,7 @@
         "sentence_ar": "سمعت الموسيقى",
         "sentence_arabizi": "sm3t lmusika",
         "sentence_fr": "J'ai écouté de la musique",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_008_1.mp3"
       }
     ],
     "notes": "sm3t (j'ai entendu), sm3ti (tu as entendu), sm3 (il a entendu)."
@@ -165,7 +165,7 @@
         "sentence_ar": "شفت فيلم بالليل",
         "sentence_arabizi": "chft film b llil",
         "sentence_fr": "J'ai regardé un film le soir",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_009_1.mp3"
       }
     ],
     "notes": "chft (j'ai vu), chfti (tu as vu), chaf (il a vu), chat (elle a vu)."
@@ -184,7 +184,7 @@
         "sentence_ar": "ما فهمتش",
         "sentence_arabizi": "ma fhemtch",
         "sentence_fr": "Je n'ai pas compris",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_010_1.mp3"
       }
     ],
     "notes": "fhemt (j'ai compris), fhemti (tu as compris), fhem (il a compris)."
@@ -203,7 +203,7 @@
         "sentence_ar": "ما كنعرفش الطريق",
         "sentence_arabizi": "ma kn3refch ttriq",
         "sentence_fr": "Je ne connais pas le chemin",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_011_1.mp3"
       }
     ],
     "notes": "3reft (j'ai su), 3refti (tu as su), 3ref (il a su)."
@@ -246,7 +246,7 @@
         "sentence_ar": "كيخدم فالفندق",
         "sentence_arabizi": "kaykhdem f lfounduq",
         "sentence_fr": "Il travaille à l'hôtel",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_014_1.mp3"
       }
     ],
     "notes": "khdemt (j'ai travaillé), khdemti (tu as travaillé), khdem (il a travaillé)."
@@ -277,7 +277,7 @@
         "sentence_ar": "بغيت نتعلم الدارجة",
         "sentence_arabizi": "bghit nt3allem ddarija",
         "sentence_fr": "Je veux apprendre le darija",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_016_1.mp3"
       }
     ],
     "notes": "bghit (je veux), bghiti (tu veux), bgha (il veut), bghat (elle veut)."
@@ -296,7 +296,7 @@
         "sentence_ar": "كن7ب المغرب بزاف",
         "sentence_arabizi": "kn7ebb lmaghrib bzzaf",
         "sentence_fr": "J'aime beaucoup le Maroc",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_017_1.mp3"
       }
     ],
     "notes": "7ebbit (j'ai aimé), 7ebbiti (tu as aimé), 7ebb (il aime)."
@@ -315,7 +315,7 @@
         "sentence_ar": "عطيني الكتاب عافاك",
         "sentence_arabizi": "3tini lktab 3afak",
         "sentence_fr": "Donne-moi le livre s'il te plaît",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_018_1.mp3"
       }
     ],
     "notes": "3tit (j'ai donné), 3titi (tu as donné), 3ta (il a donné)."
@@ -334,7 +334,7 @@
         "sentence_ar": "خود هاد الكيس",
         "sentence_arabizi": "khod had lkis",
         "sentence_fr": "Prends ce sac",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_019_1.mp3"
       }
     ],
     "notes": "khdit (j'ai pris), khditi (tu as pris), khda (il a pris)."
@@ -365,7 +365,7 @@
         "sentence_ar": "جاب ليا هدية",
         "sentence_arabizi": "jab liya hdiyya",
         "sentence_fr": "Il m'a apporté un cadeau",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_021_1.mp3"
       }
     ],
     "notes": "jbt (j'ai apporté), jbti (tu as apporté), jab (il a apporté)."
@@ -396,7 +396,7 @@
         "sentence_ar": "شريت جاكيطة جديدة",
         "sentence_arabizi": "chrit jakita jdida",
         "sentence_fr": "J'ai acheté une nouvelle veste",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_023_1.mp3"
       }
     ],
     "notes": "chrit (j'ai acheté), chriti (tu as acheté), chra (il a acheté)."
@@ -415,7 +415,7 @@
         "sentence_ar": "وصلنا مبكرين",
         "sentence_arabizi": "wselna mbkrin",
         "sentence_fr": "Nous sommes arrivés tôt",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_024_1.mp3"
       }
     ],
     "notes": "wselt (je suis arrivé), wselti (tu es arrivé), wsel (il est arrivé)."
@@ -458,7 +458,7 @@
         "sentence_ar": "متى ترجع؟",
         "sentence_arabizi": "imta trje3?",
         "sentence_fr": "Quand tu reviens ?",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_027_1.mp3"
       }
     ],
     "notes": "rje3t (je suis revenu), rje3ti (tu es revenu), rje3 (il est revenu)."
@@ -477,7 +477,7 @@
         "sentence_ar": "اقلس هنا",
         "sentence_arabizi": "agles hna",
         "sentence_fr": "Assieds-toi ici",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_028_1.mp3"
       }
     ],
     "notes": "glest (je me suis assis), glesti (tu t'es assis), gles (il s'est assis)."
@@ -508,7 +508,7 @@
         "sentence_ar": "كنت3لم الدارجة كل يوم",
         "sentence_arabizi": "knt3allem ddarija kol yom",
         "sentence_fr": "J'apprends le darija tous les jours",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_030_1.mp3"
       }
     ],
     "notes": "t3allemt (j'ai appris), t3allemti (tu as appris), t3allem (il a appris)."
@@ -539,7 +539,7 @@
         "sentence_ar": "سالو علاش تأخر",
         "sentence_arabizi": "salo 3lach ta2akhkhar",
         "sentence_fr": "Ils lui ont demandé pourquoi il était en retard",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_032_1.mp3"
       }
     ],
     "notes": "slt (j'ai demandé), slti (tu as demandé), sal (il a demandé)."
@@ -570,7 +570,7 @@
         "sentence_ar": "عاونني عافاك",
         "sentence_arabizi": "3awnni 3afak",
         "sentence_fr": "Aide-moi s'il te plaît",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_034_1.mp3"
       }
     ],
     "notes": "3awnt (j'ai aidé), 3awnti (tu as aidé), 3awn (il a aidé)."
@@ -613,7 +613,7 @@
         "sentence_ar": "نسيت التيليفون فالدار",
         "sentence_arabizi": "nsit ttilifoune f ddar",
         "sentence_fr": "J'ai oublié le téléphone à la maison",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_037_1.mp3"
       }
     ],
     "notes": "nsit (j'ai oublié), nsiti (tu as oublié), nsa (il a oublié)."
@@ -644,7 +644,7 @@
         "sentence_ar": "كن7س بالبرد",
         "sentence_arabizi": "kn7ess b lberd",
         "sentence_fr": "Je me sens froid / J'ai froid",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_039_1.mp3"
       }
     ],
     "notes": "7essit (j'ai ressenti), 7essiti (tu as ressenti), 7ess (il a ressenti)."
@@ -687,7 +687,7 @@
         "sentence_ar": "اش دير هنا؟",
         "sentence_arabizi": "ach dir hna?",
         "sentence_fr": "Qu'est-ce que tu fais ici ?",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_042_1.mp3"
       }
     ],
     "notes": "dirt (j'ai fait), dirti (tu as fait), dar (il a fait), daret (elle a fait)."
@@ -706,7 +706,7 @@
         "sentence_ar": "كملت الخدمة",
         "sentence_arabizi": "kmelt lkhedma",
         "sentence_fr": "J'ai terminé le travail",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_043_1.mp3"
       }
     ],
     "notes": "kmelt (j'ai fini), kmelti (tu as fini), kmel (il a fini)."
@@ -737,7 +737,7 @@
         "sentence_ar": "اصبر شوية",
         "sentence_arabizi": "asber chwiya",
         "sentence_fr": "Patiente un peu",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_045_1.mp3"
       }
     ],
     "notes": "sbert (j'ai patienté), sberti (tu as patienté), sber (il a patienté)."
@@ -756,7 +756,7 @@
         "sentence_ar": "تلفنت ليه بكري",
         "sentence_arabizi": "telfent lih bekri",
         "sentence_fr": "Je lui ai téléphoné tôt",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_046_1.mp3"
       }
     ],
     "notes": "telfent (j'ai appelé), telfenti (tu as appelé), telfen (il a appelé)."
@@ -799,7 +799,7 @@
         "sentence_ar": "سافرت للمغرب الصيف",
         "sentence_arabizi": "safert llmaghrib ssif",
         "sentence_fr": "J'ai voyagé au Maroc cet été",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_049_1.mp3"
       }
     ],
     "notes": "safert (j'ai voyagé), saferti (tu as voyagé), safer (il a voyagé)."
@@ -818,7 +818,7 @@
         "sentence_ar": "كنسكن فكازا",
         "sentence_arabizi": "kneskn f kaza",
         "sentence_fr": "J'habite à Casablanca",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_050_1.mp3"
       }
     ],
     "notes": "skent (j'ai habité), skenti (tu as habité), sken (il habite)."
@@ -849,7 +849,7 @@
         "sentence_ar": "كتطيب مزيان؟",
         "sentence_arabizi": "kttyyb mzyan?",
         "sentence_fr": "Tu cuisines bien ?",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_052_1.mp3"
       }
     ],
     "notes": "tyybt (j'ai cuisiné), tyybti (tu as cuisiné), tyyb (il a cuisiné)."
@@ -880,7 +880,7 @@
         "sentence_ar": "لبست جاكيطة خضرة",
         "sentence_arabizi": "lbest jakita khedra",
         "sentence_fr": "J'ai mis une veste verte",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_054_1.mp3"
       }
     ],
     "notes": "lbest (j'ai mis), lbesti (tu as mis), lbes (il a mis)."
@@ -935,7 +935,7 @@
         "sentence_ar": "أنا غنخلص",
         "sentence_arabizi": "ana ghnkhles",
         "sentence_fr": "C'est moi qui paie",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_058_1.mp3"
       }
     ],
     "notes": "khlest (j'ai payé), khlesti (tu as payé), khles (il a payé)."
@@ -990,7 +990,7 @@
         "sentence_ar": "استناني هنا",
         "sentence_arabizi": "astnani hna",
         "sentence_fr": "Attends-moi ici",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_062_1.mp3"
       }
     ],
     "notes": "astnit (j'ai attendu), astniti (tu as attendu), astna (il a attendu)."
@@ -1021,7 +1021,7 @@
         "sentence_ar": "كيعيش فالمدينة",
         "sentence_arabizi": "kay3ich f lmedina",
         "sentence_fr": "Il vit en ville",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_064_1.mp3"
       }
     ],
     "notes": "3icht (j'ai vécu), 3ichti (tu as vécu), 3ach (il a vécu)."
@@ -1100,7 +1100,7 @@
         "sentence_ar": "لقيت بلاصة",
         "sentence_arabizi": "lqit blasa",
         "sentence_fr": "J'ai trouvé une place",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_070_1.mp3"
       }
     ],
     "notes": ""
@@ -1383,7 +1383,7 @@
         "sentence_ar": "عجبني هاد الشي",
         "sentence_arabizi": "3jebni had chi",
         "sentence_fr": "Ça m'a plu",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_093_1.mp3"
       }
     ],
     "notes": ""
@@ -1630,7 +1630,7 @@
         "sentence_ar": "عاود ليا عافاك",
         "sentence_arabizi": "3awed liya 3afak",
         "sentence_fr": "Répète-moi s'il te plaît",
-        "audio_file": null
+        "audio_file": "audio/verbes/ex_ver_113_1.mp3"
       }
     ],
     "notes": "« 3awed » = recommence / redis."
@@ -1656,6 +1656,906 @@
     "register": "courant",
     "difficulty": 2,
     "audio_file": "audio/verbes/nqez.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_116",
+    "word_ar": "قلب",
+    "word_arabizi": "qelleb",
+    "word_fr": "Chercher / Fouiller",
+    "transliteration": "qelleb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qelleb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_117",
+    "word_ar": "تحوس",
+    "word_arabizi": "t7ewwes",
+    "word_fr": "Se promener / Flâner",
+    "transliteration": "t7ewwes",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/t7ewwes.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_118",
+    "word_ar": "عيط",
+    "word_arabizi": "3yyet",
+    "word_fr": "Appeler / Crier",
+    "transliteration": "3yyet",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/3yyet.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_119",
+    "word_ar": "عقل",
+    "word_arabizi": "3qel",
+    "word_fr": "Se souvenir / Faire attention",
+    "transliteration": "3qel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/3qel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_120",
+    "word_ar": "حيد",
+    "word_arabizi": "7eyyed",
+    "word_fr": "Enlever / Retirer",
+    "transliteration": "7eyyed",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7eyyed.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_121",
+    "word_ar": "زاد",
+    "word_arabizi": "zad",
+    "word_fr": "Ajouter / Naître",
+    "transliteration": "zâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/zad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_122",
+    "word_ar": "نقص",
+    "word_arabizi": "nqes",
+    "word_fr": "Diminuer / Manquer",
+    "transliteration": "nqes",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/nqes.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_123",
+    "word_ar": "كبر",
+    "word_arabizi": "kber",
+    "word_fr": "Grandir",
+    "transliteration": "kber",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/kber.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_124",
+    "word_ar": "صغر",
+    "word_arabizi": "sgher",
+    "word_fr": "Rapetisser / Rétrécir",
+    "transliteration": "sgher",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/sgher.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_125",
+    "word_ar": "قص",
+    "word_arabizi": "qess",
+    "word_fr": "Couper (ciseaux)",
+    "transliteration": "qess",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qess.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_126",
+    "word_ar": "ذبح",
+    "word_arabizi": "dbe7",
+    "word_fr": "Égorger / Abattre",
+    "transliteration": "dbe7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/dbe7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_127",
+    "word_ar": "عجن",
+    "word_arabizi": "3jen",
+    "word_fr": "Pétrir",
+    "transliteration": "3jen",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/3jen.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_128",
+    "word_ar": "فرغ",
+    "word_arabizi": "ferregh",
+    "word_fr": "Vider",
+    "transliteration": "ferregh",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/ferregh.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_129",
+    "word_ar": "عمر",
+    "word_arabizi": "3emmer",
+    "word_fr": "Remplir",
+    "transliteration": "3emmer",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/3emmer.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_130",
+    "word_ar": "فطر",
+    "word_arabizi": "fter",
+    "word_fr": "Petit-déjeuner / Rompre le jeûne",
+    "transliteration": "fter",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/fter.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_131",
+    "word_ar": "تعشى",
+    "word_arabizi": "t3echcha",
+    "word_fr": "Dîner",
+    "transliteration": "t3echchâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/t3echcha.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_132",
+    "word_ar": "حشم",
+    "word_arabizi": "7chem",
+    "word_fr": "Avoir honte / Être gêné",
+    "transliteration": "7chem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7chem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_133",
+    "word_ar": "احترم",
+    "word_arabizi": "7tarem",
+    "word_fr": "Respecter",
+    "transliteration": "7tarem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7tarem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_134",
+    "word_ar": "سامح",
+    "word_arabizi": "sama7",
+    "word_fr": "Pardonner",
+    "transliteration": "sâma7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/sama7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_135",
+    "word_ar": "ضرب",
+    "word_arabizi": "dreb",
+    "word_fr": "Frapper",
+    "transliteration": "dreb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/dreb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_136",
+    "word_ar": "قتل",
+    "word_arabizi": "qtel",
+    "word_fr": "Tuer",
+    "transliteration": "qtel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qtel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_137",
+    "word_ar": "سرق",
+    "word_arabizi": "sre9",
+    "word_fr": "Voler / Dérober",
+    "transliteration": "sre9",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/sre9.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_138",
+    "word_ar": "كذب",
+    "word_arabizi": "kdeb",
+    "word_fr": "Mentir",
+    "transliteration": "kdeb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/kdeb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_139",
+    "word_ar": "صدق",
+    "word_arabizi": "sde9",
+    "word_fr": "Dire vrai / Croire",
+    "transliteration": "sde9",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/sde9.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_140",
+    "word_ar": "نصح",
+    "word_arabizi": "nse7",
+    "word_fr": "Conseiller",
+    "transliteration": "nse7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/nse7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_141",
+    "word_ar": "حمل",
+    "word_arabizi": "7mel",
+    "word_fr": "Porter / Supporter",
+    "transliteration": "7mel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7mel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_142",
+    "word_ar": "نقل",
+    "word_arabizi": "nqel",
+    "word_fr": "Transporter / Déplacer",
+    "transliteration": "nqel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/nqel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_143",
+    "word_ar": "جمع",
+    "word_arabizi": "jme3",
+    "word_fr": "Rassembler / Additionner",
+    "transliteration": "jme3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/jme3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_144",
+    "word_ar": "فرق",
+    "word_arabizi": "ferre9",
+    "word_fr": "Séparer / Distribuer",
+    "transliteration": "ferre9",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/ferre9.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_145",
+    "word_ar": "قسم",
+    "word_arabizi": "qsem",
+    "word_fr": "Partager / Diviser",
+    "transliteration": "qsem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qsem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_146",
+    "word_ar": "بدل",
+    "word_arabizi": "bdel",
+    "word_fr": "Changer / Échanger",
+    "transliteration": "bdel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/bdel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_147",
+    "word_ar": "حول",
+    "word_arabizi": "7ewwel",
+    "word_fr": "Déplacer / Transférer",
+    "transliteration": "7ewwel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7ewwel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_148",
+    "word_ar": "ودع",
+    "word_arabizi": "wedde3",
+    "word_fr": "Faire ses adieux",
+    "transliteration": "wedde3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/wedde3.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_149",
+    "word_ar": "قابل",
+    "word_arabizi": "qabel",
+    "word_fr": "Rencontrer",
+    "transliteration": "qâbel",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qabel.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_150",
+    "word_ar": "حضر",
+    "word_arabizi": "7der",
+    "word_fr": "Préparer / Être présent",
+    "transliteration": "7der",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7der.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_151",
+    "word_ar": "نجح",
+    "word_arabizi": "nje7",
+    "word_fr": "Réussir",
+    "transliteration": "nje7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/nje7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_152",
+    "word_ar": "طاح",
+    "word_arabizi": "ta7",
+    "word_fr": "Tomber",
+    "transliteration": "tâ7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/ta7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_153",
+    "word_ar": "زلق",
+    "word_arabizi": "zleq",
+    "word_fr": "Glisser",
+    "transliteration": "zleq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/zleq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_154",
+    "word_ar": "نض",
+    "word_arabizi": "nad",
+    "word_fr": "Se lever",
+    "transliteration": "nâd",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/nad.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_155",
+    "word_ar": "تعب",
+    "word_arabizi": "t3eb",
+    "word_fr": "Se fatiguer",
+    "transliteration": "t3eb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/t3eb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_156",
+    "word_ar": "رتاح",
+    "word_arabizi": "rta7",
+    "word_fr": "Se reposer",
+    "transliteration": "rtâ7",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/rta7.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_157",
+    "word_ar": "لحق",
+    "word_arabizi": "l7eq",
+    "word_fr": "Rattraper / Atteindre",
+    "transliteration": "l7eq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/l7eq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_158",
+    "word_ar": "بقى",
+    "word_arabizi": "bqa",
+    "word_fr": "Rester",
+    "transliteration": "bqâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/bqa.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_159",
+    "word_ar": "ولى",
+    "word_arabizi": "wlla",
+    "word_fr": "Devenir / Revenir",
+    "transliteration": "wllâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/wlla.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_160",
+    "word_ar": "عبر",
+    "word_arabizi": "3ber",
+    "word_fr": "Traverser",
+    "transliteration": "3ber",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/3ber.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_161",
+    "word_ar": "حارب",
+    "word_arabizi": "7areb",
+    "word_fr": "Combattre",
+    "transliteration": "7âreb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7areb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_162",
+    "word_ar": "احتال",
+    "word_arabizi": "7tal",
+    "word_fr": "Ruser / Tromper",
+    "transliteration": "7tâl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7tal.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_163",
+    "word_ar": "حكم",
+    "word_arabizi": "7kem",
+    "word_fr": "Tenir / Gouverner",
+    "transliteration": "7kem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7kem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_164",
+    "word_ar": "ملك",
+    "word_arabizi": "mlek",
+    "word_fr": "Posséder",
+    "transliteration": "mlek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/mlek.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_165",
+    "word_ar": "برك",
+    "word_arabizi": "brek",
+    "word_fr": "S'installer / S'agenouiller",
+    "transliteration": "brek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/brek.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_166",
+    "word_ar": "سبق",
+    "word_arabizi": "sbeq",
+    "word_fr": "Devancer",
+    "transliteration": "sbeq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/sbeq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_167",
+    "word_ar": "فتش",
+    "word_arabizi": "fettech",
+    "word_fr": "Fouiller / Inspecter",
+    "transliteration": "fettech",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/fettech.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_168",
+    "word_ar": "حفر",
+    "word_arabizi": "7fer",
+    "word_fr": "Creuser",
+    "transliteration": "7fer",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7fer.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_169",
+    "word_ar": "سلك",
+    "word_arabizi": "slek",
+    "word_fr": "S'en sortir / Régler",
+    "transliteration": "slek",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/slek.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_170",
+    "word_ar": "دوز",
+    "word_arabizi": "dewwez",
+    "word_fr": "Faire passer / Insérer",
+    "transliteration": "dewwez",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/dewwez.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_171",
+    "word_ar": "فوت",
+    "word_arabizi": "fewwet",
+    "word_fr": "Rater / Laisser passer",
+    "transliteration": "fewwet",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/fewwet.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_172",
+    "word_ar": "صاوب",
+    "word_arabizi": "saweb",
+    "word_fr": "Réparer / Arranger",
+    "transliteration": "sâweb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/saweb.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_173",
+    "word_ar": "غرق",
+    "word_arabizi": "ghreq",
+    "word_fr": "Se noyer / Couler",
+    "transliteration": "ghreq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/ghreq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_174",
+    "word_ar": "حرق",
+    "word_arabizi": "7req",
+    "word_fr": "Brûler",
+    "transliteration": "7req",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7req.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_175",
+    "word_ar": "داوى",
+    "word_arabizi": "dawi",
+    "word_fr": "Soigner / Traiter",
+    "transliteration": "dâwî",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/dawi.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_176",
+    "word_ar": "برد",
+    "word_arabizi": "bred",
+    "word_fr": "Refroidir",
+    "transliteration": "bred",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/bred.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_177",
+    "word_ar": "ذاب",
+    "word_arabizi": "dab",
+    "word_fr": "Fondre",
+    "transliteration": "dâb",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/dab.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_178",
+    "word_ar": "قاس",
+    "word_arabizi": "qas",
+    "word_fr": "Mesurer / Essayer (vêtement)",
+    "transliteration": "qâs",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/qas.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_179",
+    "word_ar": "حلف",
+    "word_arabizi": "7lef",
+    "word_fr": "Jurer",
+    "transliteration": "7lef",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7lef.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_180",
+    "word_ar": "سخر",
+    "word_arabizi": "skher",
+    "word_fr": "Se moquer",
+    "transliteration": "skher",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/skher.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_181",
+    "word_ar": "زهق",
+    "word_arabizi": "zheq",
+    "word_fr": "En avoir marre / S'ennuyer",
+    "transliteration": "zheq",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/zheq.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_182",
+    "word_ar": "مل",
+    "word_arabizi": "mell",
+    "word_fr": "Se lasser",
+    "transliteration": "mell",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/mell.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_183",
+    "word_ar": "تفرج",
+    "word_arabizi": "tferrej",
+    "word_fr": "Regarder (un spectacle)",
+    "transliteration": "tferrej",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/tferrej.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_184",
+    "word_ar": "حكى",
+    "word_arabizi": "7ka",
+    "word_fr": "Raconter",
+    "transliteration": "7kâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7ka.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_185",
+    "word_ar": "وصف",
+    "word_arabizi": "wsef",
+    "word_fr": "Décrire",
+    "transliteration": "wsef",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/wsef.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_186",
+    "word_ar": "سمى",
+    "word_arabizi": "smma",
+    "word_fr": "Nommer / Appeler",
+    "transliteration": "smmâ",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/smma.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_187",
+    "word_ar": "ندم",
+    "word_arabizi": "ndem",
+    "word_fr": "Regretter",
+    "transliteration": "ndem",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/ndem.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_188",
+    "word_ar": "احتاج",
+    "word_arabizi": "7taj",
+    "word_fr": "Avoir besoin",
+    "transliteration": "7tâj",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/7taj.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_189",
+    "word_ar": "استاهل",
+    "word_arabizi": "stahl",
+    "word_fr": "Mériter",
+    "transliteration": "stâhl",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/stahl.mp3",
+    "examples": [],
+    "notes": ""
+  },
+  {
+    "id": "ver_190",
+    "word_ar": "شجع",
+    "word_arabizi": "chejje3",
+    "word_fr": "Encourager",
+    "transliteration": "chejje3",
+    "register": "courant",
+    "difficulty": 2,
+    "audio_file": "audio/verbes/chejje3.mp3",
     "examples": [],
     "notes": ""
   }
